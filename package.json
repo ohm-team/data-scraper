@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
     "cli-progress": "^3.8.2",
     "mkdirp": "^1.0.4",
     "progress-bar": "^0.1.1",

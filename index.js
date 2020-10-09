@@ -4,7 +4,7 @@ const mkdirp = require('mkdirp')
 const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xslx']
 var rimraf = require('rimraf')
 var path = require('path')
-
+const {downloadFile} = require('./downloader')
 function removeAllEmptyFolders (folder) {
   var isDir = fs.statSync(folder).isDirectory()
   if (!isDir) {
@@ -27,18 +27,21 @@ function removeAllEmptyFolders (folder) {
   }
 }
 async function download (uri, filename) {
-  return new Promise((resolve, reject) => {
-    request.head(uri, (err, res, body) => {
-      if (err) {
-        reject(err)
-        return
-      }
+  console.log('download', uri)
+  downloadFile(uri, filename)
 
-      request(uri).pipe(fs.createWriteStream(filename)).on('close', () => {
-        resolve()
-      })
-    })
-  })
+  //return new Promise((resolve, reject) => {
+  //  request.head(uri, (err, res, body) => {
+  //    if (err) {
+  //      reject(err)
+  //      return
+  //    }
+  //
+  //    request(uri).pipe(fs.createWriteStream(filename)).on('close', () => {
+  //      resolve()
+  //    })
+  //  })
+  //})
 }
 async function getJSON (uri) {
   return new Promise((resolve, reject) => {
