@@ -8,6 +8,9 @@ let sent = 0
 const failures = []
 
 const downloadFile = (uri, filename) => {
+  if((fs.existsSync(filename))){
+    return
+  }
   queue.push({ uri, filename })
   getNext()
 }
@@ -51,11 +54,12 @@ const getJSON = async (uri) => {
     return response.data
   }).catch((e) => {
     console.log(e)
+    failures.push({ uri, filename })
   })
 }
 
 module.exports = {
-  downloadFile: oldDownload,
+  downloadFile: downloadFile,
   getJSON,
   getFailures: () => failures
 }

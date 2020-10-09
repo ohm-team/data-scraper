@@ -35,7 +35,6 @@ async function download (uri, filename) {
   downloadFile(uri, filename)
 }
 
-
 async function downloadAllFilesOfDataset (dataset, folder) {
   let success = 0
   //console.log('starting with dataset', folder)
@@ -83,30 +82,21 @@ async function getEverythingBySlug (slug) {
 async function getEverything () {
   const { links } = JSON.parse(fs.readFileSync('./links.json').toString())
   let slugs = links.map(link => link.replace('https://data.public.lu/en/datasets/', '').replace(/\/$/, ''))
-
-  rimraf.sync('datasets')
   await mkdirp('datasets')
   for (const slug of slugs) {
     await getEverythingBySlug(slug)
   }
 }
 
-async function runSeq () {
-  await asyncThingsToDo.reduce(
-    (p, spec) => p.then(() => runTask(spec).then(log)),
-    starterPromise
-  )
-}
-
 async function work () {
-  try {
-    await getEverything()
-  } catch (e) {
-
-  }
-  removeAllEmptyFolders('datasets')
+  try {await getEverything()} catch (e) {}
+  try {removeAllEmptyFolders()} catch (e) {}
   console.log('finished')
-  console.log('failures:', getFailures())
+  const failures = getFailures()
+  console.log('retrying failures:', failures)
+  for (const failure of failures) {
+    await downloadFile(failure.uri, failure.filename)
+  }
 }
 
 work()
