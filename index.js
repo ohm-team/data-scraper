@@ -1,74 +1,57 @@
-const puppeteer = require('puppeteer')
 const request = require('request')
-const cliProgress = require('cli-progress')
-const bar1 = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic)
 const fs = require('fs')
-async function getAllLinks (page) {
+const mkdirp = require('mkdirp')
+const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xslx']
 
-  return await page.evaluate(() => {
-
-    function trim (s) {
-      return s.trim().replace(/\s\n+/g, '').replace(/ +/g, ' ')
-    }
-
-    const cards = [...document.querySelectorAll('.resource-card')]
-    return cards.map(card => {
-      try {
-        const title = trim(card.querySelector('.card-body').textContent)
-        const format = trim(card.querySelector('.card-footer li:first-child').textContent)
-        if (format === 'csv') {
-          return {
-            href: card.querySelector('a').href,
-            title,
-            format
-          }
-        }
-      } catch {
-        return card
+async function download (uri, filename) {
+  return new Promise((resolve, reject) => {
+    request.head(uri, (err, res, body) => {
+      console.log('content-type:', res.headers['content-type'])
+      console.log('content-length:', res.headers['content-length'])
+      if (err) {
+        reject(err)
       }
-
-    }).filter(t => !!t)
-
+      request(uri).pipe(fs.createWriteStream(filename)).on('close', () => {
+        resolve()
+      })
+    })
+  })
+}
+async function getJSON (uri) {
+  return new Promise((resolve, reject) => {
+    request(uri, (err, data, body) => {
+      if (err) {
+        reject(err)
+      }
+      resolve(JSON.parse(body))
+    })
   })
 }
 
-function trim (s) {
-  return s.trim().replace(/\s\n+/g, '').replace(/ +/g, ' ')
-}
-
-async function getElementText (page, selector) {
-  return trim(await page.evaluate(el => el.textContent, await page.$(selector)))
-}
-
-function download (uri, filename, callback) {
-  request.head(uri, (err, res, body) => {
-    console.log('content-type:', res.headers['content-type'])
-    console.log('content-length:', res.headers['content-length'])
-
-    request(uri).pipe(fs.createWriteStream(filename)).on('close', callback)
+async function parseDataset (dataset, folder) {
+  return dataset.resources.map(async resourse => {
+    const { url, title, format } = resourse
+    if (!FORMATS.includes(format)) {
+      return
+    }
+    await download(url, `${folder}/${title}.${format}`)
   })
-
 }
 
-async function run () {
-  const browser = await puppeteer.launch({ timeout: 0 })
-  const page = await browser.newPage()
+async function getEverything (slug) {
+  const data = await getJSON(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
+  await mkdirp('datasets')
+  data.data.map(async dataset => {
+    const { slug } = dataset
+    const folderName = `datasets/${slug}`
+    await mkdirp(folderName)
+    try {
+      await parseDataset(dataset, folderName)
+      fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
+    } catch (e) {
 
-  await page.goto('https://data.public.lu/en/datasets/securite-sociale-prestations-familiales', { waitUntil: 'networkidle2' })
-  await page.screenshot({ path: 'screen.png' })
-  const pageTitle = await getElementText(page, '.page-header')
-  const pageDescription = await getElementText(page, '.page-header+.row')
-  //bar1.start(1);
-
-  const links = await getAllLinks(page)
-  console.log(links)
-
-  download(links[0].href, links[0].title + '.' + links[0].format, () => {
-    console.log('done')
+    }
   })
-  //bar1.update(1);
-  //bar1.stop();
-  await browser.close()
 }
 
-run()
+getEverything('categories-de-permis-de-conduire-par-age-et-sexe-2016')

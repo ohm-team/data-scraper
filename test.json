@@ -1,0 +1,3147 @@
+{
+  "data": [
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2020-09-09T12:07:08.903000",
+      "deleted": null,
+      "description": "The Land Parcel Identification System (LPIS) is a reference database of the agriculture parcels used as a basis for the direct payments to the farmers in relation to the Common Agricultural Policy (CAP).\n\nThe Common Agricultural Policy (CAP) finances, via the European Agricultural Guarantee Fund (\u2018EAGF\u2019), direct payments to farmers and measures to respond to market instabilities or environmental challenges. To ensure that payments are regular, the CAP relies on the Integrated Administration and Control System (IACS), a set of comprehensive administrative and on\u2011the\u2011spot checks on subsidy applications, which is managed by the Member States. The Land Parcel Identification System (LPIS) is a key component of the IACS. It is an IT system based on ortho\u2011imagery (aerial or satellite photographs) which records all agricultural parcels in the Member States. It serves two main purposes: to clearly locate all eligible agricultural land contained within reference parcels and to calculate their maximum eligible area (MEA). The LPIS is used for cross\u2011checking during the administrative control procedures and as a basis for on\u2011the\u2011spot checks by the paying agency.\n\nData is transformed into INSPIRE data model.\n\nDescription copied from [here](https://catalog.inspire.geoportail.lu/geonetwork/srv/eng/catalog.search#/metadata/ACE2E467-CC28-434B-89A7-B810B2B8EF38).",
+      "extras": {},
+      "frequency": "unknown",
+      "frequency_date": null,
+      "id": "5f58a94c2a82d4daf3d6f6b1",
+      "last_modified": "2020-09-09T12:07:55.961000",
+      "last_update": "2020-09-09T12:07:55.934000",
+      "license": "notspecified",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 5
+      },
+      "organization": {
+        "acronym": "ASTA",
+        "class": "Organization",
+        "id": "57b57c8f6cd58276e4e2a86b",
+        "logo": "https://download.data.public.lu/avatars/6d/78bd452700457b9dce502963af76e8-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/6d/78bd452700457b9dce502963af76e8-100.jpg",
+        "name": "Administration des services techniques de l'agriculture",
+        "page": "https://data.public.lu/fr/organizations/administration-des-services-techniques-de-lagriculture/",
+        "slug": "administration-des-services-techniques-de-lagriculture",
+        "uri": "https://data.public.lu/api/1/organizations/administration-des-services-techniques-de-lagriculture/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2016-reference-data-of-agricultural-parcels/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": null,
+          "created_at": "2020-09-09T12:07:55.934000",
+          "description": null,
+          "extras": {},
+          "filesize": null,
+          "filetype": "remote",
+          "format": "wms",
+          "id": "f8dc4341-1ab2-4e69-96ac-ad53c56b07d0",
+          "last_modified": "2020-09-09T12:07:55.934000",
+          "latest": "https://data.public.lu/fr/datasets/r/f8dc4341-1ab2-4e69-96ac-ad53c56b07d0",
+          "metrics": {},
+          "mime": null,
+          "preview_url": null,
+          "published": "2020-09-09T12:07:55.934000",
+          "schema": null,
+          "title": "WMS View Service for LU.ExistingLandUseObject_LPIS_2016",
+          "type": "api",
+          "url": "https://wms.inspire.geoportail.lu/geoserver/af/wms?service=WMS&version=1.3.0&request=GetCapabilities"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "0590751d0696073037fbd77a265715bfe4f94d60"
+          },
+          "created_at": "2020-09-09T12:07:55.322000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 9,
+            "check:date": "2020-09-25T23:41:41.814000",
+            "check:headers:content-length": 238832077,
+            "check:headers:content-type": "application/octet-stream",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2016-reference-data-of-agricultural-parcels/20200909-120745/lu.existinglanduseobject-lpis-2016.gml"
+          },
+          "filesize": 238832077,
+          "filetype": "file",
+          "format": "existinglanduseobject-lpis-2016.gml",
+          "id": "1638a95a-38ea-49b1-a5f9-1537491308e7",
+          "last_modified": "2020-09-09T12:07:49",
+          "latest": "https://data.public.lu/fr/datasets/r/1638a95a-38ea-49b1-a5f9-1537491308e7",
+          "metrics": {
+            "views": 1
+          },
+          "mime": "application/octet-stream",
+          "preview_url": null,
+          "published": "2020-09-09T12:07:55.322000",
+          "schema": null,
+          "title": "lu.existinglanduseobject-lpis-2016.gml",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2016-reference-data-of-agricultural-parcels/20200909-120745/lu.existinglanduseobject-lpis-2016.gml"
+        }
+      ],
+      "slug": "inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2016-reference-data-of-agricultural-parcels",
+      "spatial": {
+        "geom": null,
+        "granularity": "other",
+        "zones": []
+      },
+      "tags": [
+        "agricultural-land",
+        "agriculture",
+        "common-agricultural-policy",
+        "economie",
+        "economy",
+        "flik",
+        "iacs",
+        "inspire",
+        "land-cover",
+        "lpis",
+        "national",
+        "parcelles",
+        "parcels",
+        "subventions"
+      ],
+      "temporal_coverage": null,
+      "title": "INSPIRE - Annex II Theme Land Cover - LandCoverUnit - Land Parcel Identification System (LPIS) - 2016 - Reference data of agricultural parcels",
+      "uri": "https://data.public.lu/api/1/datasets/inspire-annex-ii-theme-land-cover-landcoverunit-land-parcel-identification-system-lpis-2016-reference-data-of-agricultural-parcels/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T10:37:57.250000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois. ",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T10:36:39",
+      "id": "5a154575111e9b122bce260e",
+      "last_modified": "2018-01-15T14:30:43.289000",
+      "last_update": "2017-11-22T10:41:57.377000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 120
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/categories-de-permis-de-conduire-par-age-et-sexe-2016/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "e287f94e0fdeeb31102496e6aa51dd89276ba4b9"
+          },
+          "created_at": "2017-11-22T10:41:12.760000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois. ",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 111,
+            "check:date": "2020-10-08T11:58:16.008000",
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2017/20180115-142910/1-StatistiqueAgeEtGenre.xml"
+          },
+          "filesize": 3618,
+          "filetype": "file",
+          "format": "xml",
+          "id": "283163f8-90f3-48f3-ab01-f2d23c5f9608",
+          "last_modified": "2018-01-15T14:29:29.103000",
+          "latest": "https://data.public.lu/fr/datasets/r/283163f8-90f3-48f3-ab01-f2d23c5f9608",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T10:41:12.761000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2017/20180115-142910/1-StatistiqueAgeEtGenre.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "a8541b309caab88ef4363d6e787d37c125182ee5"
+          },
+          "created_at": "2017-11-22T10:39:00.704000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois. ",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 108,
+            "check:date": "2020-10-08T11:58:16.048000",
+            "check:headers:content-length": 662,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2017/20180115-142824/1-StatistiqueAgeEtGenre.csv"
+          },
+          "filesize": 662,
+          "filetype": "file",
+          "format": "csv",
+          "id": "b2a006d2-b8bb-4eba-a5f3-8de535006672",
+          "last_modified": "2018-01-15T14:28:34.024000",
+          "latest": "https://data.public.lu/fr/datasets/r/b2a006d2-b8bb-4eba-a5f3-8de535006672",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 4
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-par-age-et-sexe-2017%2F20180115-142824%2F1-StatistiqueAgeEtGenre.csv",
+          "published": "2017-11-22T10:39:00.705000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2017/20180115-142824/1-StatistiqueAgeEtGenre.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "ec045d2f593adbd878f638c3f1897a4d56f45941"
+          },
+          "created_at": "2017-11-22T10:41:57.377000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois. ",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 110,
+            "check:date": "2020-10-08T11:58:15.995000",
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe/20171122-104156/1_-_StatistiqueAgeEtGenre.xsd"
+          },
+          "filesize": 3180,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "5b85f01f-ef1f-4393-86c9-b3c6dc06c730",
+          "last_modified": "2017-11-22T10:42:01.043000",
+          "latest": "https://data.public.lu/fr/datasets/r/5b85f01f-ef1f-4393-86c9-b3c6dc06c730",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T10:41:57.377000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe/20171122-104156/1_-_StatistiqueAgeEtGenre.xsd"
+        }
+      ],
+      "slug": "categories-de-permis-de-conduire-par-age-et-sexe-2016",
+      "spatial": null,
+      "tags": [
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2016",
+      "uri": "https://data.public.lu/api/1/datasets/categories-de-permis-de-conduire-par-age-et-sexe-2016/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T11:43:21.411000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T11:42:38",
+      "id": "5c46f3c9277cb034abd79b38",
+      "last_modified": "2020-02-12T15:20:43.218000",
+      "last_update": "2020-02-12T13:45:15",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 33
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/categories-de-permis-de-conduire-par-age-et-sexe-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "66fc407657c1e4a6bd7de5a8449e688bbedd82fb"
+          },
+          "created_at": "2020-02-12T13:45:15.546000",
+          "description": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe, 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 39,
+            "check:date": "2020-10-05T15:46:51.707000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20200212-134515/1-statistiqueageetgenre.xml"
+          },
+          "filesize": 4321,
+          "filetype": "file",
+          "format": "xml",
+          "id": "16cc0fe5-ff2e-496f-bdea-27603c694e08",
+          "last_modified": "2020-02-12T13:46:43.256000",
+          "latest": "https://data.public.lu/fr/datasets/r/16cc0fe5-ff2e-496f-bdea-27603c694e08",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T13:45:15",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe, 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20200212-134515/1-statistiqueageetgenre.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "59ddcdd9f52001c25446accb2e162f497e28b835"
+          },
+          "created_at": "2020-02-12T13:37:39.481000",
+          "description": "Cat\u00e9gories de permis de conduire par \u00e2ge et par sexe, 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 38,
+            "check:date": "2020-10-05T15:46:52.939000",
+            "check:headers:content-length": 669,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20200212-133739/1-statistiqueageetgenre.csv"
+          },
+          "filesize": 669,
+          "filetype": "file",
+          "format": "csv",
+          "id": "247885dc-ad3f-4b6a-900e-072889b40965",
+          "last_modified": "2020-02-12T13:43:27.454000",
+          "latest": "https://data.public.lu/fr/datasets/r/247885dc-ad3f-4b6a-900e-072889b40965",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-par-age-et-sexe-2018%2F20200212-133739%2F1-statistiqueageetgenre.csv",
+          "published": "2020-02-12T13:37:39",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et par sexe, 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20200212-133739/1-statistiqueageetgenre.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "93f36e0d31b7bb3d1cbe6f938115e083b7585468"
+          },
+          "created_at": "2019-01-22T11:44:24.464000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 37,
+            "check:date": "2020-10-05T15:46:54.143000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20190122-114424/1-statistiqueageetgenre.xml"
+          },
+          "filesize": 3622,
+          "filetype": "file",
+          "format": "xml",
+          "id": "355753e6-38cc-4a70-abe0-a42ae6d98645",
+          "last_modified": "2019-01-22T11:44:31.919000",
+          "latest": "https://data.public.lu/fr/datasets/r/355753e6-38cc-4a70-abe0-a42ae6d98645",
+          "metrics": {
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T11:44:24",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20190122-114424/1-statistiqueageetgenre.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "021f45d30f6be808f8d8152aa07d5e7c210d2658"
+          },
+          "created_at": "2019-01-22T11:43:38.579000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 38,
+            "check:date": "2020-10-05T15:46:55.468000",
+            "check:headers:content-length": 666,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20190122-114338/1-statistiqueageetgenre.csv"
+          },
+          "filesize": 666,
+          "filetype": "file",
+          "format": "csv",
+          "id": "321750f9-73be-414e-9c40-11b873fd3f9c",
+          "last_modified": "2019-01-22T11:44:09.327000",
+          "latest": "https://data.public.lu/fr/datasets/r/321750f9-73be-414e-9c40-11b873fd3f9c",
+          "metrics": {
+            "views": 1
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-par-age-et-sexe-2018%2F20190122-114338%2F1-statistiqueageetgenre.csv",
+          "published": "2019-01-22T11:43:38",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-par-age-et-sexe-2018/20190122-114338/1-statistiqueageetgenre.csv"
+        }
+      ],
+      "slug": "categories-de-permis-de-conduire-par-age-et-sexe-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "trafic",
+        "trafic-routier"
+      ],
+      "temporal_coverage": null,
+      "title": "Cat\u00e9gories de permis de conduire par \u00e2ge et sexe 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/categories-de-permis-de-conduire-par-age-et-sexe-2018-2019/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-07-11T14:30:23.950000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de l\u2019\u00e2ge et du sexe lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois. ",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-07-11T14:27:24",
+      "id": "5964c4df111e9b107944a19f",
+      "last_modified": "2018-02-26T14:17:58.383000",
+      "last_update": "2017-07-11T14:31:08.638000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 112
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-age-et-sexe/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "cd5e184841fd6c6b0dcc5778dea2903b18b680ed"
+          },
+          "created_at": "2017-07-11T14:31:08.638000",
+          "description": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - \u00c2ge et sexe",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 112,
+            "check:date": "2020-10-01T05:12:50.955000",
+            "check:headers:content-length": 18736,
+            "check:headers:content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/statistiques-sur-lage-et-le-sexe-des-premiers-detenteurs-dun-permis-de-conduire-statistics-e-about-the-age-sex-of-first-driving-licence-holders/20170711-143108/StatistiqueAgeEtGenre.xlsx"
+          },
+          "filesize": 18736,
+          "filetype": "file",
+          "format": "xlsx",
+          "id": "7d16dd01-0076-49dd-a06c-3818232978b6",
+          "last_modified": "2017-07-11T16:03:55.061000",
+          "latest": "https://data.public.lu/fr/datasets/r/7d16dd01-0076-49dd-a06c-3818232978b6",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 23
+          },
+          "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fstatistiques-sur-lage-et-le-sexe-des-premiers-detenteurs-dun-permis-de-conduire-statistics-e-about-the-age-sex-of-first-driving-licence-holders%2F20170711-143108%2FStatistiqueAgeEtGenre.xlsx",
+          "published": "2017-07-11T14:31:08.638000",
+          "schema": null,
+          "title": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - \u00c2ge et sexe",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/statistiques-sur-lage-et-le-sexe-des-premiers-detenteurs-dun-permis-de-conduire-statistics-e-about-the-age-sex-of-first-driving-licence-holders/20170711-143108/StatistiqueAgeEtGenre.xlsx"
+        }
+      ],
+      "slug": "statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-age-et-sexe",
+      "spatial": null,
+      "tags": [
+        "automobile",
+        "camions",
+        "car",
+        "circulation",
+        "driving",
+        "driving-licence",
+        "gender",
+        "permis",
+        "permis-de-conduire",
+        "routier",
+        "traffic",
+        "trafic",
+        "voiture"
+      ],
+      "temporal_coverage": null,
+      "title": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - \u00c2ge et sexe",
+      "uri": "https://data.public.lu/api/1/datasets/statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-age-et-sexe/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T11:14:43.208000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique les formations\nprofessionnelles par groupe de cat\u00e9gorie (C et D) dispens\u00e9s par le CFC\n\n\nI  =  Formation initiale (normale)\nA = Formation initiale acc\u00e9l\u00e9r\u00e9e\nC = Formation continue\n",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T11:13:59",
+      "id": "5a154e13cc765e572f391a86",
+      "last_modified": "2017-11-24T08:33:04.540000",
+      "last_update": "2017-11-22T11:15:45.533000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 11
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "46be472a188e1c76bb5737c64db187ff950af7d3"
+          },
+          "created_at": "2017-11-22T11:15:45.532000",
+          "description": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 39,
+            "check:date": "2020-10-05T15:21:18.044000",
+            "check:headers:content-length": 93,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111545/6-StatCertificatsProf.csv"
+          },
+          "filesize": 93,
+          "filetype": "file",
+          "format": "csv",
+          "id": "c1974ce8-2523-4ec6-9ead-f283457ce0fd",
+          "last_modified": "2017-11-22T11:15:47.277000",
+          "latest": "https://data.public.lu/fr/datasets/r/c1974ce8-2523-4ec6-9ead-f283457ce0fd",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fformations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d%2F20171122-111545%2F6-StatCertificatsProf.csv",
+          "published": "2017-11-22T11:15:45.533000",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111545/6-StatCertificatsProf.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "1a9ef0a87c399157ca313d383fc211760da5de74"
+          },
+          "created_at": "2017-11-22T11:15:30.937000",
+          "description": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 40,
+            "check:date": "2020-10-05T15:21:20.378000",
+            "check:headers:content-length": 761,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111530/6-StatCertificatsProf.xml"
+          },
+          "filesize": 761,
+          "filetype": "file",
+          "format": "xml",
+          "id": "8841c0ba-c31c-4180-9f7e-08fb801e06a1",
+          "last_modified": "2017-11-22T11:15:33.138000",
+          "latest": "https://data.public.lu/fr/datasets/r/8841c0ba-c31c-4180-9f7e-08fb801e06a1",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:15:30.937000",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111530/6-StatCertificatsProf.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "8ec5d7614852cc0596bfa783379dd772e21e4caf"
+          },
+          "created_at": "2017-11-22T11:15:00.073000",
+          "description": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 41,
+            "check:date": "2020-10-05T15:21:19.163000",
+            "check:headers:content-length": 852,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111459/6_-_StatCertificatsProf.xsd"
+          },
+          "filesize": 852,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "f9dd89ea-62a7-4450-8346-eb592ceed845",
+          "last_modified": "2017-11-22T11:15:03.916000",
+          "latest": "https://data.public.lu/fr/datasets/r/f9dd89ea-62a7-4450-8346-eb592ceed845",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:15:00.074000",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/20171122-111459/6_-_StatCertificatsProf.xsd"
+        }
+      ],
+      "slug": "formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D)",
+      "uri": "https://data.public.lu/api/1/datasets/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T11:10:59.187000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique pour toutes les cat\u00e9gories (A, A1, A2, AM, B, BE, C1, C, C1E, CE, D1, D, D1E, DE et F) quels types d'examen ont \u00e9t\u00e9 faits et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T11:09:57",
+      "id": "5a154d33cc765e56e9a210e6",
+      "last_modified": "2017-11-24T08:34:00.668000",
+      "last_update": "2017-11-22T11:12:03.683000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 103
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "83bca2402e919f80542d21c26748338c747026db"
+          },
+          "created_at": "2017-11-22T11:11:18.103000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique pour toutes les cat\u00e9gories (A, A1, A2, AM, B, BE, C1, C, C1E, CE, D1, D, D1E, DE et F) quels types d'examen ont \u00e9t\u00e9 faits et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 110,
+            "check:date": "2020-10-06T19:40:15.415000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111117/5-StatExamens.xml"
+          },
+          "filesize": 14010,
+          "filetype": "file",
+          "format": "xml",
+          "id": "2674a57d-075d-4595-8ed8-d4084a0b02e3",
+          "last_modified": "2017-11-22T11:11:20.921000",
+          "latest": "https://data.public.lu/fr/datasets/r/2674a57d-075d-4595-8ed8-d4084a0b02e3",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 14
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:11:18.103000",
+          "schema": null,
+          "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111117/5-StatExamens.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "de7e83b17fe3448f0b5a6f6701c4aac95f150def"
+          },
+          "created_at": "2017-11-22T11:11:45.250000",
+          "description": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 111,
+            "check:date": "2020-10-06T19:40:15.349000",
+            "check:headers:content-length": 3753,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111144/5-StatExamens.csv"
+          },
+          "filesize": 3753,
+          "filetype": "file",
+          "format": "csv",
+          "id": "a9503066-dc13-4e33-b443-b5e0a7be421e",
+          "last_modified": "2017-11-22T11:11:48.925000",
+          "latest": "https://data.public.lu/fr/datasets/r/a9503066-dc13-4e33-b443-b5e0a7be421e",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fexamens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat%2F20171122-111144%2F5-StatExamens.csv",
+          "published": "2017-11-22T11:11:45.250000",
+          "schema": null,
+          "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111144/5-StatExamens.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "55a76715719012a53e7ed1ccb248d9ef46c07719"
+          },
+          "created_at": "2017-11-22T11:12:03.683000",
+          "description": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 109,
+            "check:date": "2020-10-06T19:40:15.331000",
+            "check:headers:content-length": 933,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111203/5_-_StatExamens.xsd"
+          },
+          "filesize": 933,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "12e7524f-6a24-44d5-a9f7-4b1019e038d1",
+          "last_modified": "2017-11-22T11:12:05.127000",
+          "latest": "https://data.public.lu/fr/datasets/r/12e7524f-6a24-44d5-a9f7-4b1019e038d1",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 1
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:12:03.683000",
+          "schema": null,
+          "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/20171122-111203/5_-_StatExamens.xsd"
+        }
+      ],
+      "slug": "examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat",
+      "uri": "https://data.public.lu/api/1/datasets/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T10:47:03.516000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition des cat\u00e9gories principales (A, B, C et D) d\u00e9livr\u00e9es pour la premi\u00e8re fois au Grand-Duch\u00e9 de Luxembourg par pays de naissance. Le pays est indiqu\u00e9 en code ISO 03.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T10:45:50",
+      "id": "5a154797cc765e56eae2614e",
+      "last_modified": "2018-01-15T14:33:56.776000",
+      "last_update": "2017-11-22T10:48:26.838000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 23
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2016/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "ac2e1cbe4c7d3477e0072bed7100333a30b4b077"
+          },
+          "created_at": "2017-11-22T10:48:26.837000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition des cat\u00e9gories principales (A, B, C et D) d\u00e9livr\u00e9es pour la premi\u00e8re fois au Grand-Duch\u00e9 de Luxembourg par pays de naissance. Le pays est indiqu\u00e9 en code ISO 03.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 62,
+            "check:date": "2020-10-05T12:54:14.535000",
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2017/20180115-143154/2-StatistiquePaysNaissance.xml"
+          },
+          "filesize": 15692,
+          "filetype": "file",
+          "format": "xml",
+          "id": "f07526ac-e5c7-41f0-877d-b9cd255dd29b",
+          "last_modified": "2018-01-15T14:32:05.356000",
+          "latest": "https://data.public.lu/fr/datasets/r/f07526ac-e5c7-41f0-877d-b9cd255dd29b",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T10:48:26.838000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2017/20180115-143154/2-StatistiquePaysNaissance.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "3a303d1569d97051e90641ede53ec2c4344cf81c"
+          },
+          "created_at": "2017-11-22T10:48:07.119000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition des cat\u00e9gories principales (A, B, C et D) d\u00e9livr\u00e9es pour la premi\u00e8re fois au Grand-Duch\u00e9 de Luxembourg par pays de naissance. Le pays est indiqu\u00e9 en code ISO 03.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 62,
+            "check:date": "2020-10-05T12:54:12.086000",
+            "check:headers:content-length": 1779,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2017/20180115-143251/2-StatistiquePaysNaissance.csv"
+          },
+          "filesize": 1779,
+          "filetype": "file",
+          "format": "csv",
+          "id": "8e95fbc2-1d7c-43cc-8b6e-56d6f8fbd599",
+          "last_modified": "2018-01-15T14:33:01.439000",
+          "latest": "https://data.public.lu/fr/datasets/r/8e95fbc2-1d7c-43cc-8b6e-56d6f8fbd599",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2017%2F20180115-143251%2F2-StatistiquePaysNaissance.csv",
+          "published": "2017-11-22T10:48:07.120000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2017/20180115-143251/2-StatistiquePaysNaissance.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "3ee0e75ea77cf8c73f005f356db70dd1f5d23ba5"
+          },
+          "created_at": "2017-11-22T10:47:32.418000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition des cat\u00e9gories principales (A, B, C et D) d\u00e9livr\u00e9es pour la premi\u00e8re fois au Grand-Duch\u00e9 de Luxembourg par pays de naissance. Le pays est indiqu\u00e9 en code ISO 03.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 61,
+            "check:date": "2020-10-05T12:54:13.293000",
+            "check:headers:content-length": 835,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance/20171122-104731/2_-_StatistiquePaysNaissance.xsd"
+          },
+          "filesize": 835,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "35be6e21-0942-467e-a967-c5516a6810e9",
+          "last_modified": "2017-11-22T10:47:35.171000",
+          "latest": "https://data.public.lu/fr/datasets/r/35be6e21-0942-467e-a967-c5516a6810e9",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T10:47:32.418000",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance/20171122-104731/2_-_StatistiquePaysNaissance.xsd"
+        }
+      ],
+      "slug": "categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2016",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2016",
+      "uri": "https://data.public.lu/api/1/datasets/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2016/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T11:07:51.845000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend le nombre des retraits imm\u00e9diats par motif de retrait. \n\nA = Alcool\u00e9mie d'au moins 0,55 mg/l air expir\u00e9\nR = Refus de se pr\u00eater \u00e0 l'examen sommaire de l'haleine\nV = D\u00e9passement limitation r\u00e9glementaire vitesse > 50% [et min. 40 km/h plus que permis]\nI = Signes manifestes d'ivresse\n",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T11:06:58",
+      "id": "5a154c77111e9b12ef59c7f5",
+      "last_modified": "2018-01-15T14:40:12.082000",
+      "last_update": "2017-11-22T11:09:07.510000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 11
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait-2016/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "3b41c41fb5463853d645d6b36d33fa4131c2b8ba"
+          },
+          "created_at": "2017-11-22T11:09:07.509000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend le nombre des retraits imm\u00e9diats par motif de retrait. \n\nA = Alcool\u00e9mie d'au moins 0,55 mg/l air expir\u00e9\nR = Refus de se pr\u00eater \u00e0 l'examen sommaire de l'haleine\nV = D\u00e9passement limitation r\u00e9glementaire vitesse > 50% [et min. 40 km/h plus que permis]\nI = Signes manifestes d'ivresse\n",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 33,
+            "check:date": "2020-10-02T19:47:31.010000",
+            "check:headers:content-length": 593,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20180115-143756/4-StatRetraitImmediatRaison.xml"
+          },
+          "filesize": 593,
+          "filetype": "file",
+          "format": "xml",
+          "id": "822e050e-982f-4fef-b155-727a9b5b5d56",
+          "last_modified": "2018-01-15T14:38:03.553000",
+          "latest": "https://data.public.lu/fr/datasets/r/822e050e-982f-4fef-b155-727a9b5b5d56",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:09:07.510000",
+          "schema": null,
+          "title": "Retraits imm\u00e9diats de permis de conduire par motif de retrait 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20180115-143756/4-StatRetraitImmediatRaison.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "83c627454e763f87bd1a96a93f6d46bbc0aa647d"
+          },
+          "created_at": "2017-11-22T11:08:44.543000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend le nombre des retraits imm\u00e9diats par motif de retrait. \n\nA = Alcool\u00e9mie d'au moins 0,55 mg/l air expir\u00e9\nR = Refus de se pr\u00eater \u00e0 l'examen sommaire de l'haleine\nV = D\u00e9passement limitation r\u00e9glementaire vitesse > 50% [et min. 40 km/h plus que permis]\nI = Signes manifestes d'ivresse\n",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 36,
+            "check:date": "2020-10-02T19:47:28.156000",
+            "check:headers:content-length": 80,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20180115-143843/4-StatRetraitImmediatRaison.csv"
+          },
+          "filesize": 80,
+          "filetype": "file",
+          "format": "csv",
+          "id": "ed0a7d34-caf9-488f-a1dc-a3dd7bfea025",
+          "last_modified": "2018-01-15T14:38:51.634000",
+          "latest": "https://data.public.lu/fr/datasets/r/ed0a7d34-caf9-488f-a1dc-a3dd7bfea025",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 3
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fretraits-immediats-de-permis-de-conduire-par-motif-de-retrait%2F20180115-143843%2F4-StatRetraitImmediatRaison.csv",
+          "published": "2017-11-22T11:08:44.543000",
+          "schema": null,
+          "title": "Retraits imm\u00e9diats de permis de conduire par motif de retrait 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20180115-143843/4-StatRetraitImmediatRaison.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "7b2ab3ec9753ecf7f235be7f6747659b3156372e"
+          },
+          "created_at": "2017-11-22T11:08:10.455000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend le nombre des retraits imm\u00e9diats par motif de retrait. \n\nA = Alcool\u00e9mie d'au moins 0,55 mg/l air expir\u00e9\nR = Refus de se pr\u00eater \u00e0 l'examen sommaire de l'haleine\nV = D\u00e9passement limitation r\u00e9glementaire vitesse > 50% [et min. 40 km/h plus que permis]\nI = Signes manifestes d'ivresse\n",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 34,
+            "check:date": "2020-10-02T19:47:29.784000",
+            "check:headers:content-length": 725,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20171122-110809/4_-_StatRetraitImmediatRaison.xsd"
+          },
+          "filesize": 725,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "357b39aa-4b96-4b58-888b-ec7ad66e4806",
+          "last_modified": "2017-11-22T11:08:13.331000",
+          "latest": "https://data.public.lu/fr/datasets/r/357b39aa-4b96-4b58-888b-ec7ad66e4806",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 1
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:08:10.455000",
+          "schema": null,
+          "title": "Retraits imm\u00e9diats de permis de conduire par motif de retrait",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait/20171122-110809/4_-_StatRetraitImmediatRaison.xsd"
+        }
+      ],
+      "slug": "retraits-immediats-de-permis-de-conduire-par-motif-de-retrait-2016",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Retraits imm\u00e9diats de permis de conduire par motif de retrait 2016",
+      "uri": "https://data.public.lu/api/1/datasets/retraits-immediats-de-permis-de-conduire-par-motif-de-retrait-2016/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T11:17:25.058000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de pays de permis \u00e9trangers soit transcrits/\u00e9chang\u00e9s vers un permis luxembourgeois, soit enregistr\u00e9s en tant que tels au Grand-Duch\u00e9 de Luxembourg. Le pays est indiqu\u00e9 en code ISO 03.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T11:16:37",
+      "id": "5a154eb5cc765e573cca5567",
+      "last_modified": "2017-11-24T08:31:36.898000",
+      "last_update": "2017-11-22T11:19:42.018000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 15
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "ba10cc86603005cec2851fa4e96ace6d06e1c8f7"
+          },
+          "created_at": "2017-11-22T11:19:24.478000",
+          "description": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 62,
+            "check:date": "2020-10-07T05:25:49.649000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111924/7-StatPermisTransEchanEnreg.xml"
+          },
+          "filesize": 16837,
+          "filetype": "file",
+          "format": "xml",
+          "id": "7bbadf8c-5e1d-46d7-9bcf-14d0e01d17ab",
+          "last_modified": "2017-11-22T11:19:26.737000",
+          "latest": "https://data.public.lu/fr/datasets/r/7bbadf8c-5e1d-46d7-9bcf-14d0e01d17ab",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 4
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:19:24.478000",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111924/7-StatPermisTransEchanEnreg.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "f4d15f40a8827eec3348fd2d905be31f4e655ed5"
+          },
+          "created_at": "2017-11-22T11:18:46.689000",
+          "description": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 64,
+            "check:date": "2020-10-07T05:25:50.928000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111846/7-StatPermisTransEchanEnreg.csv"
+          },
+          "filesize": 3353,
+          "filetype": "file",
+          "format": "csv",
+          "id": "d84d7328-8cd9-4e72-805c-2153a11cdbcd",
+          "last_modified": "2017-11-22T11:18:48.993000",
+          "latest": "https://data.public.lu/fr/datasets/r/d84d7328-8cd9-4e72-805c-2153a11cdbcd",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 3
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fpermis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine%2F20171122-111846%2F7-StatPermisTransEchanEnreg.csv",
+          "published": "2017-11-22T11:18:46.689000",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111846/7-StatPermisTransEchanEnreg.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "5252068b68dd126e90eedd8842d0218d24e9509b"
+          },
+          "created_at": "2017-11-22T11:19:42.017000",
+          "description": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 62,
+            "check:date": "2020-10-07T05:25:47.181000",
+            "check:headers:content-length": 840,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111941/7_-_StatPermisTransEchanEnreg.xsd"
+          },
+          "filesize": 840,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "71c7f65d-4628-4b3c-b51e-ebeb34e17008",
+          "last_modified": "2017-11-22T11:19:44.211000",
+          "latest": "https://data.public.lu/fr/datasets/r/71c7f65d-4628-4b3c-b51e-ebeb34e17008",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:19:42.018000",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/20171122-111941/7_-_StatPermisTransEchanEnreg.xsd"
+        }
+      ],
+      "slug": "permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine",
+      "uri": "https://data.public.lu/api/1/datasets/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2018-02-26T13:54:52.934000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique combien  d'examens ont \u00e9t\u00e9 faits pour quel type d'examen et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus, tranch\u00e9s par l'\u00e2ge des candidats.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2019-02-26T13:53:55",
+      "id": "5a94039c111e9b51af3f84a1",
+      "last_modified": "2019-05-21T16:57:57.220000",
+      "last_update": "2018-02-26T13:58:37.154000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 1,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 99
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2017/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "d8715fc12583ce334f0b11eaf9d41a1e2440b879"
+          },
+          "created_at": "2018-02-26T13:57:15.971000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique combien  d'examens ont \u00e9t\u00e9 faits pour quel type d'examen et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus, tranch\u00e9s par l'\u00e2ge des candidats.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 142,
+            "check:date": "2020-10-06T23:12:08.180000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135715/8-StatExamensParAge.csv"
+          },
+          "filesize": 1271,
+          "filetype": "file",
+          "format": "csv",
+          "id": "485cf810-1c78-44a8-bff2-e62ff4be4813",
+          "last_modified": "2018-02-26T13:57:35.263000",
+          "latest": "https://data.public.lu/fr/datasets/r/485cf810-1c78-44a8-bff2-e62ff4be4813",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 8
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fresultats-des-examens-par-age-du-candidat-et-type-dexamen-2017%2F20180226-135715%2F8-StatExamensParAge.csv",
+          "published": "2018-02-26T13:57:15.971000",
+          "schema": null,
+          "title": "R\u00e9sultats des examens par \u00e2ge du candidat et type d'examen",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135715/8-StatExamensParAge.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "2fab883de0bab7811d78ef7aee2b663d8d32d4eb"
+          },
+          "created_at": "2018-02-26T13:58:04.038000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique combien  d'examens ont \u00e9t\u00e9 faits pour quel type d'examen et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus, tranch\u00e9s par l'\u00e2ge des candidats.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 143,
+            "check:date": "2020-10-06T23:12:09.374000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135803/8-StatExamensParAge.xml"
+          },
+          "filesize": 7074,
+          "filetype": "file",
+          "format": "xml",
+          "id": "c94e3f7d-38e4-44b2-a5ed-efe93e86197e",
+          "last_modified": "2018-02-26T15:07:08.464000",
+          "latest": "https://data.public.lu/fr/datasets/r/c94e3f7d-38e4-44b2-a5ed-efe93e86197e",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 1
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2018-02-26T13:58:04.039000",
+          "schema": null,
+          "title": "R\u00e9sultats des examens par \u00e2ge du candidat et type d'examen",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135803/8-StatExamensParAge.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "74b72da12c984715aa4a36daabec8902c28eafeb"
+          },
+          "created_at": "2018-02-26T13:58:37.154000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique combien  d'examens ont \u00e9t\u00e9 faits pour quel type d'examen et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus, tranch\u00e9s par l'\u00e2ge des candidats.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 140,
+            "check:date": "2020-10-06T23:12:11.270000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135836/8_-_StatExamensParAge.xsd"
+          },
+          "filesize": 1386,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "68cbbf6a-dac7-49e5-a7f0-9ed22ea09079",
+          "last_modified": "2018-02-26T13:58:48.923000",
+          "latest": "https://data.public.lu/fr/datasets/r/68cbbf6a-dac7-49e5-a7f0-9ed22ea09079",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 1
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2018-02-26T13:58:37.154000",
+          "schema": null,
+          "title": "R\u00e9sultats des examens par \u00e2ge du candidat et type d'examen ",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/resultats-des-examens-par-age-du-candidat-et-type-dexamen-2017/20180226-135836/8_-_StatExamensParAge.xsd"
+        }
+      ],
+      "slug": "examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2017",
+      "spatial": null,
+      "tags": [
+        "2017",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "driving-test",
+        "examen",
+        "permis-de-conduire",
+        "resultats",
+        "results",
+        "statistics",
+        "statistiques",
+        "transport"
+      ],
+      "temporal_coverage": null,
+      "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat   - 2017",
+      "uri": "https://data.public.lu/api/1/datasets/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2017/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-06-08T07:25:27.444000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition par pays de naissance lors de la premi\u00e8re d\u00e9livrance des cat\u00e9gories principales (A, B, C et D) du permis de conduire luxembourgeois.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-06-08T07:24:50",
+      "id": "5938dfc7111e9b7f28e7109d",
+      "last_modified": "2018-02-26T14:18:34.895000",
+      "last_update": "2017-06-08T07:25:48.042000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 28
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-pays-de-naissance/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "62233afc4bd8e5f00310e6b53f6a883d0e33a6e5"
+          },
+          "created_at": "2017-06-08T07:25:48.042000",
+          "description": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - pays de naissance",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 48,
+            "check:date": "2020-10-06T18:56:13.199000",
+            "check:headers:content-length": 18006,
+            "check:headers:content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/statistique-sur-les-pays-de-naissance-des-premiers-detenteurs-du-permis-b/20170711-143613/Statistique_pays_de_naissance_detenteurs_permisB.xlsx"
+          },
+          "filesize": 18006,
+          "filetype": "file",
+          "format": "xlsx",
+          "id": "a97708ee-32dd-4cce-91ca-96f2f7bb5851",
+          "last_modified": "2017-07-11T16:14:03.372000",
+          "latest": "https://data.public.lu/fr/datasets/r/a97708ee-32dd-4cce-91ca-96f2f7bb5851",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fstatistique-sur-les-pays-de-naissance-des-premiers-detenteurs-du-permis-b%2F20170711-143613%2FStatistique_pays_de_naissance_detenteurs_permisB.xlsx",
+          "published": "2017-06-08T07:25:48.042000",
+          "schema": null,
+          "title": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - pays de naissance",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/statistique-sur-les-pays-de-naissance-des-premiers-detenteurs-du-permis-b/20170711-143613/Statistique_pays_de_naissance_detenteurs_permisB.xlsx"
+        }
+      ],
+      "slug": "statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-pays-de-naissance",
+      "spatial": null,
+      "tags": [
+        "country-of-origin",
+        "driving-license",
+        "pays-de-naissance",
+        "permis",
+        "permis-de-conduire",
+        "statistiques",
+        "trafic"
+      ],
+      "temporal_coverage": null,
+      "title": "Statistiques sur la premi\u00e8re d\u00e9livrance d\u2019une cat\u00e9gorie du permis de conduire - pays de naissance",
+      "uri": "https://data.public.lu/api/1/datasets/statistiques-sur-la-premiere-delivrance-dune-categorie-du-permis-de-conduire-pays-de-naissance/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-07-29T15:27:47.904000",
+      "deleted": null,
+      "description": "This dataset includes the following resource(s): <br>Demandes pour l'obtention du permis de conduire 1991 - 2018<br>Demandes pour l'obtention du permis de conduire par cat\u00e9gorie 2013 - 2018<br>R\u00e9sultats des examens pour l'obtention du permis de conduire 1991 - 2018<br><br>---------------------------------------<br> Automatically synched from portail statistique (category Transports/Transport routier/Permis de conduire)",
+      "extras": {
+        "harvest:domain": "statistiques.public.lu",
+        "harvest:remote_id": "Transports/Transport routier/Permis de conduire"
+      },
+      "frequency": "unknown",
+      "frequency_date": null,
+      "id": "5d3ef453f176a12ecfde714d",
+      "last_modified": "2019-07-29T15:27:48.995000",
+      "last_update": "2019-07-29T15:27:48.964000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 19
+      },
+      "organization": {
+        "acronym": "STATEC",
+        "class": "Organization",
+        "id": "56f3c3390d6ceb1b0b4030e8",
+        "logo": "https://download.data.public.lu/avatars/b8/3602cc26f64a099647f9bad397086f-original.png",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/b8/3602cc26f64a099647f9bad397086f-100.png",
+        "name": "Institut national de la statistique et des \u00e9tudes \u00e9conomiques du Grand-Duch\u00e9 de Luxembourg",
+        "page": "https://data.public.lu/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/",
+        "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg",
+        "uri": "https://data.public.lu/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/transports-transport-routier-permis-de-conduire/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": null,
+          "created_at": "2019-07-29T15:27:48.964000",
+          "description": "R\u00e9sultats des examens pour l'obtention du permis de conduire 1991 - 2018",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 14,
+            "check:date": "2020-10-06T18:29:43.620000",
+            "check:headers:content-disposition": "inline;filename=\"d6110.csv\"",
+            "check:headers:content-length": 1034,
+            "check:headers:content-type": "application/x-csv",
+            "check:status": 200,
+            "check:url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13516&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+          },
+          "filesize": null,
+          "filetype": "remote",
+          "format": "csv",
+          "id": "5d72fede-f8b9-4b1f-a1bb-8479787aafd9",
+          "last_modified": "2019-07-29T15:27:48.964000",
+          "latest": "https://data.public.lu/fr/datasets/r/5d72fede-f8b9-4b1f-a1bb-8479787aafd9",
+          "metrics": {
+            "views": 0
+          },
+          "mime": null,
+          "preview_url": null,
+          "published": "2019-07-29T15:27:48.964000",
+          "schema": null,
+          "title": "R\u00e9sultats des examens pour l'obtention du permis de conduire 1991 - 2018",
+          "type": "other",
+          "url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13516&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+        },
+        {
+          "checksum": null,
+          "created_at": "2019-07-29T15:27:48.595000",
+          "description": "Demandes pour l'obtention du permis de conduire par cat\u00e9gorie 2013 - 2018",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 13,
+            "check:date": "2020-10-06T18:29:42.498000",
+            "check:headers:content-disposition": "inline;filename=\"d6117.csv\"",
+            "check:headers:content-length": 553,
+            "check:headers:content-type": "application/x-csv",
+            "check:status": 200,
+            "check:url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13514&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+          },
+          "filesize": null,
+          "filetype": "remote",
+          "format": "csv",
+          "id": "6e1861c9-f498-4355-9516-afb7fb160de2",
+          "last_modified": "2019-07-29T15:27:48.595000",
+          "latest": "https://data.public.lu/fr/datasets/r/6e1861c9-f498-4355-9516-afb7fb160de2",
+          "metrics": {
+            "views": 0
+          },
+          "mime": null,
+          "preview_url": null,
+          "published": "2019-07-29T15:27:48.595000",
+          "schema": null,
+          "title": "Demandes pour l'obtention du permis de conduire par cat\u00e9gorie 2013 - 2018",
+          "type": "other",
+          "url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13514&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+        },
+        {
+          "checksum": null,
+          "created_at": "2019-07-29T15:27:48.228000",
+          "description": "Demandes pour l'obtention du permis de conduire 1991 - 2018",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 11,
+            "check:date": "2020-10-06T18:29:44.809000",
+            "check:headers:content-disposition": "inline;filename=\"d6108.csv\"",
+            "check:headers:content-length": 684,
+            "check:headers:content-type": "application/x-csv",
+            "check:status": 200,
+            "check:url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13513&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+          },
+          "filesize": null,
+          "filetype": "remote",
+          "format": "csv",
+          "id": "532ceecc-43fd-419b-bd2d-d17abc55ced1",
+          "last_modified": "2019-07-29T15:27:48.228000",
+          "latest": "https://data.public.lu/fr/datasets/r/532ceecc-43fd-419b-bd2d-d17abc55ced1",
+          "metrics": {
+            "views": 0
+          },
+          "mime": null,
+          "preview_url": null,
+          "published": "2019-07-29T15:27:48.228000",
+          "schema": null,
+          "title": "Demandes pour l'obtention du permis de conduire 1991 - 2018",
+          "type": "other",
+          "url": "http://www.statistiques.public.lu/stat/TableViewer/download.aspx?FldrName=7&ReportId=13513&MainTheme=4&IF_DOWNLOADFORMAT=csv&RFPath=7049%2C13901&IF_DOWNLOAD_ALL_ITEMS=yes&IF_Language=fra"
+        }
+      ],
+      "slug": "transports-transport-routier-permis-de-conduire",
+      "spatial": null,
+      "tags": [
+        "conduire",
+        "permis",
+        "routier",
+        "statec-sync",
+        "statistics",
+        "transport",
+        "transports"
+      ],
+      "temporal_coverage": null,
+      "title": "Transports/Transport routier/Permis de conduire",
+      "uri": "https://data.public.lu/api/1/datasets/transports-transport-routier-permis-de-conduire/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T14:16:40.134000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique les formations\nprofessionnelles par groupe de cat\u00e9gorie (C et D) dispens\u00e9s par le CFC\n\nI = Formation initiale (normale)\nA = Formation initiale acc\u00e9l\u00e9r\u00e9e\nC = Formation continue",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T14:16:03",
+      "id": "5c4717b8277cb045df01973d",
+      "last_modified": "2020-02-12T16:32:14.303000",
+      "last_update": "2020-02-12T16:23:29",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 6
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "e7bfb7b0e2dda28d6fe25dbe125c79f106fcfb9f"
+          },
+          "created_at": "2020-02-12T16:23:29.721000",
+          "description": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-07T00:40:29.840000",
+            "check:headers:content-length": 627,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018-2019/20200212-162329/6-statcertificatsprof.xml"
+          },
+          "filesize": 627,
+          "filetype": "file",
+          "format": "xml",
+          "id": "004649b3-c0fd-4a6c-8c6f-7cdf37d66da8",
+          "last_modified": "2020-02-12T16:32:14.303000",
+          "latest": "https://data.public.lu/fr/datasets/r/004649b3-c0fd-4a6c-8c6f-7cdf37d66da8",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T16:23:29",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018-2019/20200212-162329/6-statcertificatsprof.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "c7821b8d24b5c7de3c37730d683bb4950026ea81"
+          },
+          "created_at": "2020-02-12T16:10:59.554000",
+          "description": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 16,
+            "check:date": "2020-10-07T00:40:31.784000",
+            "check:headers:content-length": 77,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20200212-161059/6-statcertificatsprof.csv"
+          },
+          "filesize": 77,
+          "filetype": "file",
+          "format": "csv",
+          "id": "54f008aa-dc30-45fb-8ae4-92625aac9ec9",
+          "last_modified": "2020-02-12T16:20:51.289000",
+          "latest": "https://data.public.lu/fr/datasets/r/54f008aa-dc30-45fb-8ae4-92625aac9ec9",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fformations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018%2F20200212-161059%2F6-statcertificatsprof.csv",
+          "published": "2020-02-12T16:10:59",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20200212-161059/6-statcertificatsprof.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "c636ad20ca7fbead1ebe5b991594cdec70bd5338"
+          },
+          "created_at": "2019-01-22T14:17:29.307000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 15,
+            "check:date": "2020-10-07T00:40:32.976000",
+            "check:headers:content-length": 90,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141729/6-statcertificatsprof.csv"
+          },
+          "filesize": 90,
+          "filetype": "file",
+          "format": "csv",
+          "id": "4881df73-d8f7-4dc9-84d9-4482254b0687",
+          "last_modified": "2019-01-22T14:17:43.960000",
+          "latest": "https://data.public.lu/fr/datasets/r/4881df73-d8f7-4dc9-84d9-4482254b0687",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fformations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018%2F20190122-141729%2F6-statcertificatsprof.csv",
+          "published": "2019-01-22T14:17:29",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141729/6-statcertificatsprof.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "c636ad20ca7fbead1ebe5b991594cdec70bd5338"
+          },
+          "created_at": "2019-01-22T14:17:18.139000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 14,
+            "check:date": "2020-10-07T00:40:34.237000",
+            "check:headers:content-length": 90,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141717/6-statcertificatsprof.csv"
+          },
+          "filesize": 90,
+          "filetype": "file",
+          "format": "csv",
+          "id": "0239912b-6700-4803-8501-adf10926ae45",
+          "last_modified": "2019-01-22T14:17:18",
+          "latest": "https://data.public.lu/fr/datasets/r/0239912b-6700-4803-8501-adf10926ae45",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fformations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018%2F20190122-141717%2F6-statcertificatsprof.csv",
+          "published": "2019-01-22T14:17:18.139000",
+          "schema": null,
+          "title": "6-statcertificatsprof.csv",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141717/6-statcertificatsprof.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "15ef8895d2c0017a90f5c2a7cd5ac23ad5f0a597"
+          },
+          "created_at": "2019-01-22T14:16:46.453000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 15,
+            "check:date": "2020-10-07T00:40:35.460000",
+            "check:headers:content-length": 758,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141645/6-statcertificatsprof.xml"
+          },
+          "filesize": 758,
+          "filetype": "file",
+          "format": "xml",
+          "id": "9912661c-ff0a-4920-8a3c-2fb747da9abb",
+          "last_modified": "2019-01-22T14:16:55.487000",
+          "latest": "https://data.public.lu/fr/datasets/r/9912661c-ff0a-4920-8a3c-2fb747da9abb",
+          "metrics": {
+            "views": 1
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T14:16:46",
+          "schema": null,
+          "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018/20190122-141645/6-statcertificatsprof.xml"
+        }
+      ],
+      "slug": "formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis",
+        "permis-de-conduire",
+        "snca",
+        "statistics",
+        "statistiques",
+        "transport"
+      ],
+      "temporal_coverage": null,
+      "title": "Formations de conduite professionnelles par groupe de cat\u00e9gorie de permis de conduire (C et D) 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/formations-de-conduite-professionnelles-par-groupe-de-categorie-de-permis-de-conduire-c-et-d-2018-2019/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T14:14:01.170000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique pour toutes les cat\u00e9gories (A, A1, A2, AM, B, BE, C1, C, C1E, CE, D1, D, D1E, DE et F) quels types d'examen ont \u00e9t\u00e9 faits et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T14:13:23",
+      "id": "5c471719277cb04535b965d8",
+      "last_modified": "2020-02-12T15:38:15.971000",
+      "last_update": "2020-02-12T15:36:14",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 8
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "e9de650bc77028954ff508c24f89c160e783ad0c"
+          },
+          "created_at": "2020-02-12T15:36:14.353000",
+          "description": "Examens d'obtention de permis de conduire par cat\u00e9gorie, type d'examen et r\u00e9sultat 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-07T03:47:43.435000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018-2019/20200212-153613/5-statexamens.xml"
+          },
+          "filesize": 15736,
+          "filetype": "file",
+          "format": "xml",
+          "id": "ed2e9669-bcac-49f5-8dd8-448d1de99d80",
+          "last_modified": "2020-02-12T15:38:15.971000",
+          "latest": "https://data.public.lu/fr/datasets/r/ed2e9669-bcac-49f5-8dd8-448d1de99d80",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T15:36:14",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par cat\u00e9gorie, type d'examen et r\u00e9sultat 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018-2019/20200212-153613/5-statexamens.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "cfdcaf2e40ed0b2b0760ea34c96ce1412633d1c6"
+          },
+          "created_at": "2020-02-12T15:28:33.139000",
+          "description": "Examens d'obtention de permis de conduire par cat\u00e9gorie, type d'examen et r\u00e9sultat 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-06T14:08:12.291000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20200212-152832/5-statexamens.csv"
+          },
+          "filesize": 3529,
+          "filetype": "file",
+          "format": "csv",
+          "id": "b5d4638a-316b-4768-a875-5b3ac7a25a91",
+          "last_modified": "2020-02-12T15:30:05.486000",
+          "latest": "https://data.public.lu/fr/datasets/r/b5d4638a-316b-4768-a875-5b3ac7a25a91",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fexamens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018%2F20200212-152832%2F5-statexamens.csv",
+          "published": "2020-02-12T15:28:33",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par cat\u00e9gorie, type d'examen et r\u00e9sultat 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20200212-152832/5-statexamens.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "b6f029c5cb097982347e9daabd72e88aee6b4507"
+          },
+          "created_at": "2019-01-22T14:14:46.849000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 18,
+            "check:date": "2020-10-07T03:47:42.179000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20190122-141446/5-statexamens.xml"
+          },
+          "filesize": 13242,
+          "filetype": "file",
+          "format": "xml",
+          "id": "8850c4cd-344b-4910-bc3e-28f0ef5b699d",
+          "last_modified": "2019-01-22T14:14:54.162000",
+          "latest": "https://data.public.lu/fr/datasets/r/8850c4cd-344b-4910-bc3e-28f0ef5b699d",
+          "metrics": {
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T14:14:46",
+          "schema": null,
+          "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20190122-141446/5-statexamens.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "750347c8b17bcdddf3a220a0d11e1380afdbd2db"
+          },
+          "created_at": "2019-01-22T14:14:20.705000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-06T14:08:13.513000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20190122-141420/5-statexamens.csv"
+          },
+          "filesize": 3535,
+          "filetype": "file",
+          "format": "csv",
+          "id": "34cdd28e-96fb-4117-b4be-3e83b8ad9068",
+          "last_modified": "2019-01-22T14:14:31.001000",
+          "latest": "https://data.public.lu/fr/datasets/r/34cdd28e-96fb-4117-b4be-3e83b8ad9068",
+          "metrics": {
+            "views": 3
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fexamens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018%2F20190122-141420%2F5-statexamens.csv",
+          "published": "2019-01-22T14:14:20",
+          "schema": null,
+          "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018/20190122-141420/5-statexamens.csv"
+        }
+      ],
+      "slug": "examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "2019",
+        "categorie",
+        "category",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "examens-dobtention-de-permis-de-conduire",
+        "parking",
+        "permis",
+        "permis-de-conduire",
+        "resultat",
+        "resultats",
+        "results",
+        "statistics",
+        "statistiques",
+        "transport",
+        "type-examen"
+      ],
+      "temporal_coverage": null,
+      "title": "Examens d\u2019obtention de permis de conduire par cat\u00e9gorie, type d\u2019examen et r\u00e9sultat 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/examens-dobtention-de-permis-de-conduire-par-categorie-type-dexamen-et-resultat-2018-2019/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T11:46:23.523000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition des cat\u00e9gories principales (A, B, C et D) d\u00e9livr\u00e9es pour la premi\u00e8re fois au Grand-Duch\u00e9 de Luxembourg par pays de naissance. Le pays est indiqu\u00e9 en code ISO 03.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T11:45:40",
+      "id": "5c46f47f277cb0357bdb79a5",
+      "last_modified": "2020-02-12T15:23:02.957000",
+      "last_update": "2020-02-12T14:58:15",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 3
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "138987bc91606d2b1de668812bea2da90e716195"
+          },
+          "created_at": "2020-02-12T14:58:15.785000",
+          "description": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2019 ",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-06T19:45:39.750000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20200212-145815/2-statistiquepaysnaissance.xml"
+          },
+          "filesize": 24291,
+          "filetype": "file",
+          "format": "xml",
+          "id": "e4c4bacb-f69f-438c-afbd-f1de14bf397e",
+          "last_modified": "2020-02-12T15:01:12.126000",
+          "latest": "https://data.public.lu/fr/datasets/r/e4c4bacb-f69f-438c-afbd-f1de14bf397e",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T14:58:15",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20200212-145815/2-statistiquepaysnaissance.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "bc95d4828b78ebb2d6638152273fb614ddf5a5cf"
+          },
+          "created_at": "2020-02-12T14:50:45.561000",
+          "description": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 16,
+            "check:date": "2020-10-06T19:45:43.783000",
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20200212-145045/2-statistiquepaysnaissance.csv"
+          },
+          "filesize": 2132,
+          "filetype": "file",
+          "format": "csv",
+          "id": "f5baff2f-fe8b-44f9-a305-f6ed642b3fa7",
+          "last_modified": "2020-02-12T14:52:28.880000",
+          "latest": "https://data.public.lu/fr/datasets/r/f5baff2f-fe8b-44f9-a305-f6ed642b3fa7",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018%2F20200212-145045%2F2-statistiquepaysnaissance.csv",
+          "published": "2020-02-12T14:50:45",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissane 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20200212-145045/2-statistiquepaysnaissance.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "99920ecadf91fd55ef1f87202fc1f4028548a882"
+          },
+          "created_at": "2019-01-22T11:46:59.988000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 16,
+            "check:date": "2020-10-06T19:45:41.413000",
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20190122-114659/2-statistiquepaysnaissance.csv"
+          },
+          "filesize": 2009,
+          "filetype": "file",
+          "format": "csv",
+          "id": "80ef79e4-89a7-49d8-b6ca-ba96d8402f45",
+          "last_modified": "2019-01-22T11:47:07.870000",
+          "latest": "https://data.public.lu/fr/datasets/r/80ef79e4-89a7-49d8-b6ca-ba96d8402f45",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fcategories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018%2F20190122-114659%2F2-statistiquepaysnaissance.csv",
+          "published": "2019-01-22T11:46:59",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20190122-114659/2-statistiquepaysnaissance.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "bed5938ea680e449580f6cc3cfe21108e060c2bb"
+          },
+          "created_at": "2019-01-22T11:46:38.074000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 15,
+            "check:date": "2020-10-06T19:45:42.588000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20190122-114637/2-statistiquepaysnaissance.xml"
+          },
+          "filesize": 17747,
+          "filetype": "file",
+          "format": "xml",
+          "id": "7ee74dfd-de96-4fbe-bdb3-12da69b45bc4",
+          "last_modified": "2019-01-22T11:46:45.189000",
+          "latest": "https://data.public.lu/fr/datasets/r/7ee74dfd-de96-4fbe-bdb3-12da69b45bc4",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T11:46:38",
+          "schema": null,
+          "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018/20190122-114637/2-statistiquepaysnaissance.xml"
+        }
+      ],
+      "slug": "categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "birth",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "naissance",
+        "permis",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques"
+      ],
+      "temporal_coverage": null,
+      "title": "Cat\u00e9gories de permis de conduire d\u00e9livr\u00e9s au Luxembourg par pays de naissance 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/categories-de-permis-de-conduire-delivres-au-luxembourg-par-pays-de-naissance-2018-2019/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2016-07-22T09:02:20.711000",
+      "deleted": null,
+      "description": "Ce fichier reprend deux tableaux :\n1)\tPour les ann\u00e9es 1980-2015 le nombre de femmes et de hommes victimes d\u2019accidents en pr\u00e9cisant le nombre de tu\u00e9s en distinguant entre conducteurs (2 ou 4 roues regroup\u00e9s), passagers (2 ou 4 roues regroup\u00e9s) et pi\u00e9tons. \n2)\tPour les ann\u00e9es 1980-2015 le nombre de personnes victimes d\u2019accidents en pr\u00e9cisant le nombre de tu\u00e9s en distinguant entre conducteurs (2 ou 4 roues regroup\u00e9s), passagers (2 ou 4 roues regroup\u00e9s) et pi\u00e9tons selon les classes d'\u00e2ges 0-4 ans, 5-14 ans, 15-24 ans, 25-64 ans , 65 ans et plus. \n\nPour plus de d\u00e9tails : http://www.statistiques.public.lu/fr/methodologie/methodes/conditions-sociales/Accidents/accidents/index.html\n",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2017-07-22T09:01:19",
+      "id": "5791c4fc32cc220c838879b8",
+      "last_modified": "2016-07-22T09:02:42.174000",
+      "last_update": "2016-07-22T09:02:34.737000",
+      "license": "notspecified",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 67
+      },
+      "organization": {
+        "acronym": "STATEC",
+        "class": "Organization",
+        "id": "56f3c3390d6ceb1b0b4030e8",
+        "logo": "https://download.data.public.lu/avatars/b8/3602cc26f64a099647f9bad397086f-original.png",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/b8/3602cc26f64a099647f9bad397086f-100.png",
+        "name": "Institut national de la statistique et des \u00e9tudes \u00e9conomiques du Grand-Duch\u00e9 de Luxembourg",
+        "page": "https://data.public.lu/fr/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/",
+        "slug": "institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg",
+        "uri": "https://data.public.lu/api/1/organizations/institut-national-de-la-statistique-et-des-etudes-economiques-du-grand-duche-de-luxembourg/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/victimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "ca2aa851ee4b3e2def89ebfaac9ec8e2fd8d9427"
+          },
+          "created_at": "2016-07-22T09:02:34.737000",
+          "description": "",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 88,
+            "check:date": "2020-10-06T16:28:07.732000",
+            "check:headers:content-length": 29800,
+            "check:headers:content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/victimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015/20160722-090233/Victimes_des_accidents_par_categorie_dusagers_de_la_route_selon_la_gravite_le_sexe_et_lage_1980_-_2015.xlsx"
+          },
+          "filesize": 29800,
+          "filetype": "file",
+          "format": "xlsx",
+          "id": "20473c3f-f68c-41d7-95b0-4fc35037c343",
+          "last_modified": "2016-07-22T09:02:42.174000",
+          "latest": "https://data.public.lu/fr/datasets/r/20473c3f-f68c-41d7-95b0-4fc35037c343",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 11
+          },
+          "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fvictimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015%2F20160722-090233%2FVictimes_des_accidents_par_categorie_dusagers_de_la_route_selon_la_gravite_le_sexe_et_lage_1980_-_2015.xlsx",
+          "published": "2016-07-22T09:02:34.737000",
+          "schema": null,
+          "title": "Victimes_des_accidents_par_categorie_dusagers_de_la_route_selon_la_gravite_le_sexe_et_lage_1980_-_2015.xlsx",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/victimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015/20160722-090233/Victimes_des_accidents_par_categorie_dusagers_de_la_route_selon_la_gravite_le_sexe_et_lage_1980_-_2015.xlsx"
+        }
+      ],
+      "slug": "victimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015",
+      "spatial": null,
+      "tags": [
+        "accidents-corporels",
+        "police-grand-ducale",
+        "statec",
+        "usager"
+      ],
+      "temporal_coverage": null,
+      "title": "Victimes des accidents par cat\u00e9gorie d'usagers de la route selon la gravit\u00e9, le sexe et l'\u00e2ge, 1980 \u2013 2015",
+      "uri": "https://data.public.lu/api/1/datasets/victimes-des-accidents-par-categorie-dusagers-de-la-route-selon-la-gravite-le-sexe-et-lage-1980-2015/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2017-11-22T11:04:56.624000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique le nombre de points  perdus par type d\u2019infraction.",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2018-11-22T11:03:36",
+      "id": "5a154bc8cc765e5720c1ce5a",
+      "last_modified": "2018-01-15T14:36:37.612000",
+      "last_update": "2017-11-22T11:06:04.718000",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 1,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 17
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/permis-a-points-pertes-de-points-par-type-dinfraction-2016/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "95fa9788bf40913d3f8760a48f7847fbda3cd56c"
+          },
+          "created_at": "2017-11-22T11:05:17.912000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique le nombre de points  perdus par type d\u2019infraction.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 50,
+            "check:date": "2020-10-06T22:41:47.036000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction-2017/20180115-143526/3-StatInfractionsPertePts.xml"
+          },
+          "filesize": 24270,
+          "filetype": "file",
+          "format": "xml",
+          "id": "0b4f1292-82af-40e3-af2c-c7d31008b286",
+          "last_modified": "2018-01-15T14:35:33.012000",
+          "latest": "https://data.public.lu/fr/datasets/r/0b4f1292-82af-40e3-af2c-c7d31008b286",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:05:17.913000",
+          "schema": null,
+          "title": "Permis \u00e0 points - pertes de points par type d\u2019infraction 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction-2017/20180115-143526/3-StatInfractionsPertePts.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "edce65fa5c2ef94fc7ab83910473e5ecdf9eb6e4"
+          },
+          "created_at": "2017-11-22T11:05:41.030000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique le nombre de points  perdus par type d\u2019infraction.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 44,
+            "check:date": "2020-10-06T22:41:47.123000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction-2017/20180115-143450/3-StatInfractionsPertePts.csv"
+          },
+          "filesize": 17488,
+          "filetype": "file",
+          "format": "csv",
+          "id": "d308562f-9182-45a1-bd30-484928af721d",
+          "last_modified": "2018-01-15T14:34:57.223000",
+          "latest": "https://data.public.lu/fr/datasets/r/d308562f-9182-45a1-bd30-484928af721d",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 6
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fpermis-a-points-pertes-de-points-par-type-dinfraction-2017%2F20180115-143450%2F3-StatInfractionsPertePts.csv",
+          "published": "2017-11-22T11:05:41.031000",
+          "schema": null,
+          "title": "Permis \u00e0 points - pertes de points par type d\u2019infraction 2016",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction-2017/20180115-143450/3-StatInfractionsPertePts.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "7ab2d9fa0ead9a841a824686ac7b3e34a563df87"
+          },
+          "created_at": "2017-11-22T11:06:04.718000",
+          "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique le nombre de points  perdus par type d\u2019infraction.",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 44,
+            "check:date": "2020-10-06T22:41:47.119000",
+            "check:headers:content-length": 756,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction/20171122-110604/3_-_StatInfractionsPertePts.xsd"
+          },
+          "filesize": 756,
+          "filetype": "file",
+          "format": "xsd",
+          "id": "895f9e4e-5b32-4f57-b8f5-cf769cffaf12",
+          "last_modified": "2017-11-22T11:06:06.784000",
+          "latest": "https://data.public.lu/fr/datasets/r/895f9e4e-5b32-4f57-b8f5-cf769cffaf12",
+          "metrics": {
+            "nb_hits": 0,
+            "nb_uniq_visitors": 0,
+            "nb_visits": 0,
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2017-11-22T11:06:04.718000",
+          "schema": null,
+          "title": "Permis \u00e0 points - pertes de points par type d\u2019infraction",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-a-points-pertes-de-points-par-type-dinfraction/20171122-110604/3_-_StatInfractionsPertePts.xsd"
+        }
+      ],
+      "slug": "permis-a-points-pertes-de-points-par-type-dinfraction-2016",
+      "spatial": null,
+      "tags": [
+        "2016",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport",
+        "transport-routier"
+      ],
+      "temporal_coverage": {
+        "end": "2016-12-31",
+        "start": "2016-01-01"
+      },
+      "title": "Permis \u00e0 points - pertes de points par type d\u2019infraction 2016",
+      "uri": "https://data.public.lu/api/1/datasets/permis-a-points-pertes-de-points-par-type-dinfraction-2016/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T14:22:01.344000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire indique combien d'examens ont \u00e9t\u00e9 faits pour quel type d'examen et quels r\u00e9sultats ont \u00e9t\u00e9 obtenus, tranch\u00e9s par l'\u00e2ge des candidats",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T14:21:14",
+      "id": "5c4718f9277cb047d096483c",
+      "last_modified": "2020-02-12T16:57:12.669000",
+      "last_update": "2020-02-12T16:54:48",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 23
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "2ce95e4611a798a8b0bc1a2942bbfa60917c6ea4"
+          },
+          "created_at": "2020-02-12T16:54:48.129000",
+          "description": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 28,
+            "check:date": "2020-10-06T21:33:17.931000",
+            "check:headers:content-length": 9950,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018-2019/20200212-165447/8-statexamensparage.xml"
+          },
+          "filesize": 9950,
+          "filetype": "file",
+          "format": "xml",
+          "id": "af4b7933-3872-49bb-9e51-72026793f39f",
+          "last_modified": "2020-02-12T16:57:12.669000",
+          "latest": "https://data.public.lu/fr/datasets/r/af4b7933-3872-49bb-9e51-72026793f39f",
+          "metrics": {
+            "views": 3
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T16:54:48",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018-2019/20200212-165447/8-statexamensparage.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "f16511f04b6f28e508dddad5a35e38bcc31c3366"
+          },
+          "created_at": "2020-02-12T16:51:53.517000",
+          "description": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 27,
+            "check:date": "2020-10-06T21:33:20.361000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20200212-165153/8-statexamensparage.csv"
+          },
+          "filesize": 1475,
+          "filetype": "file",
+          "format": "csv",
+          "id": "1b45005c-32b4-439f-8aa9-36e12868d950",
+          "last_modified": "2020-02-12T16:53:47.223000",
+          "latest": "https://data.public.lu/fr/datasets/r/1b45005c-32b4-439f-8aa9-36e12868d950",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fexamens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018%2F20200212-165153%2F8-statexamensparage.csv",
+          "published": "2020-02-12T16:51:53",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20200212-165153/8-statexamensparage.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "2aab6808d13a9ac1f9a1315c9d3cb1c2f4c8bd94"
+          },
+          "created_at": "2019-01-22T14:22:46.139000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 27,
+            "check:date": "2020-10-06T21:33:19.161000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20190122-142245/8-statexamensparage.csv"
+          },
+          "filesize": 1376,
+          "filetype": "file",
+          "format": "csv",
+          "id": "499587c9-b9d7-4040-8a73-9fc0b6f18f26",
+          "last_modified": "2019-01-22T14:22:52.284000",
+          "latest": "https://data.public.lu/fr/datasets/r/499587c9-b9d7-4040-8a73-9fc0b6f18f26",
+          "metrics": {
+            "views": 6
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fexamens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018%2F20190122-142245%2F8-statexamensparage.csv",
+          "published": "2019-01-22T14:22:46",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat - 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20190122-142245/8-statexamensparage.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "c6db7fa702bc623b5483b8eb5e411688b7e266b2"
+          },
+          "created_at": "2019-01-22T14:22:10.378000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 28,
+            "check:date": "2020-10-06T21:33:21.556000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20190122-142209/8-statexamensparage.xml"
+          },
+          "filesize": 7645,
+          "filetype": "file",
+          "format": "xml",
+          "id": "c165dd9d-d4f3-490f-b7b0-e56d3c677fdd",
+          "last_modified": "2019-01-22T14:22:27.462000",
+          "latest": "https://data.public.lu/fr/datasets/r/c165dd9d-d4f3-490f-b7b0-e56d3c677fdd",
+          "metrics": {
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T14:22:10",
+          "schema": null,
+          "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat - 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018/20190122-142209/8-statexamensparage.xml"
+        }
+      ],
+      "slug": "examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis",
+        "permis-de-conduire",
+        "snca",
+        "statistics",
+        "statistiques",
+        "transport"
+      ],
+      "temporal_coverage": null,
+      "title": "Examens d'obtention de permis de conduire par \u00e2ge du candidat, type d'examen et r\u00e9sultat - 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/examens-dobtention-de-permis-de-conduire-par-age-du-candidat-type-dexamen-et-resultat-2018-2019/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2020-10-02T15:07:10.715000",
+      "deleted": null,
+      "description": "Dans le cadre de la proc\u00e9dure de contr\u00f4le de l'accessibilit\u00e9 num\u00e9rique, le SIP est en charge de la cr\u00e9ation et de la maintenance de l'inventaire des sites publics concern\u00e9s par la [loi du 28 mai 2019](http://legilux.public.lu/eli/etat/leg/loi/2019/05/28/a373/jo).\nCe document fournit une cat\u00e9gorisation des diff\u00e9rents sites de l'inventaire suivant le niveau administratif (\u00c9tat, commune, autre) et la th\u00e9matique (culture et loisirs, emploi et fiscalit\u00e9, enseignement, logement et \u00e9quipements collectifs,ordre et s\u00e9curit\u00e9 publics, protection de l'environnement, protection sociale, sant\u00e9, transports, autre) conform\u00e9ment aux cat\u00e9gories d\u00e9finies dans la d\u00e9cision d'ex\u00e9cution EU 2018/1524\n",
+      "extras": {},
+      "frequency": "irregular",
+      "frequency_date": "2020-09-25T00:00:00",
+      "id": "5f7725fe6395b14888ee4542",
+      "last_modified": "2020-10-02T15:13:54.200000",
+      "last_update": "2020-10-02T15:09:36",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 13
+      },
+      "organization": {
+        "acronym": "SIP",
+        "class": "Organization",
+        "id": "5948cfd2111e9b4478de614b",
+        "logo": "https://download.data.public.lu/avatars/69/1148ee11a04abab4648d892c7dafc3-original.png",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/69/1148ee11a04abab4648d892c7dafc3-100.png",
+        "name": "Service information et presse du gouvernement",
+        "page": "https://data.public.lu/fr/organizations/service-information-et-presse-du-gouvernement/",
+        "slug": "service-information-et-presse-du-gouvernement",
+        "uri": "https://data.public.lu/api/1/organizations/service-information-et-presse-du-gouvernement/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/inventaire-des-sites-publics/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "d4c40dc5f8803b03772fa053611cee2eef5a7f67"
+          },
+          "created_at": "2020-10-02T15:09:36.544000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 22,
+            "check:date": "2020-10-08T13:54:43.424000",
+            "check:headers:content-length": 32642,
+            "check:headers:content-type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/inventaire-des-sites-publics/20201002-150936/inventaire-sites-opendata-25092020.xlsx"
+          },
+          "filesize": 32642,
+          "filetype": "file",
+          "format": "xlsx",
+          "id": "05d00784-fa7d-4003-bada-2eb3fce9ad04",
+          "last_modified": "2020-10-02T15:09:40.706000",
+          "latest": "https://data.public.lu/fr/datasets/r/05d00784-fa7d-4003-bada-2eb3fce9ad04",
+          "metrics": {
+            "views": 4
+          },
+          "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Finventaire-des-sites-publics%2F20201002-150936%2Finventaire-sites-opendata-25092020.xlsx",
+          "published": "2020-10-02T15:09:36",
+          "schema": null,
+          "title": "inventaire-sites-opendata-25092020.xlsx",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/inventaire-des-sites-publics/20201002-150936/inventaire-sites-opendata-25092020.xlsx"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "f23fe42318c027426d8f0f039ceb856098fa0943"
+          },
+          "created_at": "2020-10-02T15:09:16.273000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 22,
+            "check:date": "2020-10-08T13:54:43.413000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/inventaire-des-sites-publics/20201002-150915/inventaire-sites-opendata-25092020.csv"
+          },
+          "filesize": 36274,
+          "filetype": "file",
+          "format": "csv",
+          "id": "3e7bba78-883f-4289-8172-85b9da5a5b48",
+          "last_modified": "2020-10-02T15:09:16",
+          "latest": "https://data.public.lu/fr/datasets/r/3e7bba78-883f-4289-8172-85b9da5a5b48",
+          "metrics": {
+            "views": 1
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Finventaire-des-sites-publics%2F20201002-150915%2Finventaire-sites-opendata-25092020.csv",
+          "published": "2020-10-02T15:09:16.273000",
+          "schema": null,
+          "title": "inventaire-sites-opendata-25092020.csv",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/inventaire-des-sites-publics/20201002-150915/inventaire-sites-opendata-25092020.csv"
+        }
+      ],
+      "slug": "inventaire-des-sites-publics",
+      "spatial": null,
+      "tags": [
+        "accessibilite",
+        "accessibility",
+        "digital-accessibility",
+        "public-sector",
+        "public-websites",
+        "sites-publics"
+      ],
+      "temporal_coverage": null,
+      "title": "Inventaire des sites publics",
+      "uri": "https://data.public.lu/api/1/datasets/inventaire-des-sites-publics/"
+    },
+    {
+      "acronym": null,
+      "archived": null,
+      "badges": [],
+      "created_at": "2019-01-22T14:19:31.062000",
+      "deleted": null,
+      "description": "Ce jeu de donn\u00e9es extrait de la base de donn\u00e9es des permis de conduire reprend la r\u00e9partition de pays de permis \u00e9trangers soit transcrits/\u00e9chang\u00e9s vers un permis luxembourgeois, soit enregistr\u00e9s en tant que tels au Grand-Duch\u00e9 de Luxembourg. Le pays est indiqu\u00e9 en code ISO 03",
+      "extras": {},
+      "frequency": "annual",
+      "frequency_date": "2020-01-22T14:18:48",
+      "id": "5c471863277cb046d72f167d",
+      "last_modified": "2020-02-12T16:47:24.900000",
+      "last_update": "2020-02-12T16:46:05",
+      "license": "cc-zero",
+      "metrics": {
+        "discussions": 0,
+        "followers": 0,
+        "issues": 0,
+        "reuses": 0,
+        "views": 10
+      },
+      "organization": {
+        "acronym": "SNCA",
+        "class": "Organization",
+        "id": "58a6ec07cc765e54557a2723",
+        "logo": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-original.jpg",
+        "logo_thumbnail": "https://download.data.public.lu/avatars/2c/e6f407e1e342c08c6a826db9038a5e-100.jpg",
+        "name": "Soci\u00e9t\u00e9 Nationale de Circulation Automobile",
+        "page": "https://data.public.lu/fr/organizations/societe-nationale-de-circulation-automobile/",
+        "slug": "societe-nationale-de-circulation-automobile",
+        "uri": "https://data.public.lu/api/1/organizations/societe-nationale-de-circulation-automobile/"
+      },
+      "owner": null,
+      "page": "https://data.public.lu/fr/datasets/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018-2019/",
+      "private": false,
+      "resources": [
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "a7871a7101d9d6e95973dd7a97fe3d7262ec62c9"
+          },
+          "created_at": "2020-02-12T16:46:05.959000",
+          "description": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d'origine 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 18,
+            "check:date": "2020-10-07T02:14:11.174000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018-2019/20200212-164605/7-statpermistransechanenreg.xml"
+          },
+          "filesize": 21374,
+          "filetype": "file",
+          "format": "xml",
+          "id": "34f649bd-a02b-4ccb-9cfe-4f25dcca5107",
+          "last_modified": "2020-02-12T16:47:24.900000",
+          "latest": "https://data.public.lu/fr/datasets/r/34f649bd-a02b-4ccb-9cfe-4f25dcca5107",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2020-02-12T16:46:05",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d'origine 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018-2019/20200212-164605/7-statpermistransechanenreg.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "c5d58a3607e2dab2d2ff60b781ae3b77ec1de061"
+          },
+          "created_at": "2020-02-12T16:43:13.027000",
+          "description": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d'origine 2019",
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 17,
+            "check:date": "2020-10-07T02:14:06.012000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20200212-164312/7-statpermistransechanenreg.csv"
+          },
+          "filesize": 3467,
+          "filetype": "file",
+          "format": "csv",
+          "id": "9c9ef087-9d51-45fd-a1c1-5f06178af9c4",
+          "last_modified": "2020-02-12T16:45:24.784000",
+          "latest": "https://data.public.lu/fr/datasets/r/9c9ef087-9d51-45fd-a1c1-5f06178af9c4",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fpermis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018%2F20200212-164312%2F7-statpermistransechanenreg.csv",
+          "published": "2020-02-12T16:43:13",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d'origine 2019",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20200212-164312/7-statpermistransechanenreg.csv"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "dad7c38ae6455f83e257835a02cf56ece9840453"
+          },
+          "created_at": "2019-01-22T14:20:03.134000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 15,
+            "check:date": "2020-10-07T02:14:09.927000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "application/xml",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20190122-142002/7-statpermistransechanenreg.xml"
+          },
+          "filesize": 17677,
+          "filetype": "file",
+          "format": "xml",
+          "id": "cdae05e1-6275-4801-a111-90abcc817adc",
+          "last_modified": "2019-01-22T14:20:08.624000",
+          "latest": "https://data.public.lu/fr/datasets/r/cdae05e1-6275-4801-a111-90abcc817adc",
+          "metrics": {
+            "views": 2
+          },
+          "mime": "application/xml",
+          "preview_url": null,
+          "published": "2019-01-22T14:20:03",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20190122-142002/7-statpermistransechanenreg.xml"
+        },
+        {
+          "checksum": {
+            "type": "sha1",
+            "value": "d27a29e4f36ac3818fc8093e7c34042bb6db42bd"
+          },
+          "created_at": "2019-01-22T14:19:39.616000",
+          "description": null,
+          "extras": {
+            "check:available": true,
+            "check:count-availability": 16,
+            "check:date": "2020-10-07T02:14:07.626000",
+            "check:headers:content-length": 0,
+            "check:headers:content-type": "text/csv",
+            "check:status": 200,
+            "check:url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20190122-141938/7-statpermistransechanenreg.csv"
+          },
+          "filesize": 3529,
+          "filetype": "file",
+          "format": "csv",
+          "id": "f4366355-017d-4e88-8d0f-a31a19b12ffc",
+          "last_modified": "2019-01-22T14:19:50.095000",
+          "latest": "https://data.public.lu/fr/datasets/r/f4366355-017d-4e88-8d0f-a31a19b12ffc",
+          "metrics": {
+            "views": 0
+          },
+          "mime": "text/csv",
+          "preview_url": "/tabular/preview/?url=https%3A%2F%2Fdownload.data.public.lu%2Fresources%2Fpermis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018%2F20190122-141938%2F7-statpermistransechanenreg.csv",
+          "published": "2019-01-22T14:19:39",
+          "schema": null,
+          "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine 2018",
+          "type": "main",
+          "url": "https://download.data.public.lu/resources/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018/20190122-141938/7-statpermistransechanenreg.csv"
+        }
+      ],
+      "slug": "permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018-2019",
+      "spatial": null,
+      "tags": [
+        "2018",
+        "ctie",
+        "driving",
+        "driving-licence",
+        "driving-license",
+        "permis",
+        "permis-de-conduire",
+        "statistics",
+        "statistiques",
+        "transport"
+      ],
+      "temporal_coverage": null,
+      "title": "Permis de conduire transcrits, \u00e9chang\u00e9s, enregistr\u00e9s par pays d\u2019origine 2018-2019",
+      "uri": "https://data.public.lu/api/1/datasets/permis-de-conduire-transcrits-echanges-enregistres-par-pays-dorigine-2018-2019/"
+    }
+  ],
+  "facets": {},
+  "next_page": "https://data.public.lu/api/1/datasets/?q=categories-de-permis-de-conduire-par-age-et-sexe-2016&page=2&page_size=20",
+  "page": 1,
+  "page_size": 20,
+  "previous_page": null,
+  "total": 288
+}
