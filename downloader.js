@@ -24,7 +24,7 @@ const getNext = () => {
 const performOne = (uri, filename) => {
   currentConnections++
   sent++
-  console.log(sent)
+  console.log("Sent requests:", sent)
   return axios.get(uri, { responseType: 'stream' }).then(response => {
     response.data.pipe(fs.createWriteStream(filename))
   }).catch(error => {
@@ -36,18 +36,6 @@ const performOne = (uri, filename) => {
   })
 }
 
-const oldDownload = (uri, filename) => {
-  sent++
-  console.log(sent)
-  axios.get(uri, { responseType: 'stream' }).then(response => {
-    response.data.pipe(fs.createWriteStream(filename))
-  }).catch(error => {
-    console.log(error)
-    failures.push({ uri, filename })
-  }).finally(() => {
-
-  })
-}
 
 const getJSON = async (uri) => {
   return axios.get(uri).then(response => {
@@ -58,8 +46,30 @@ const getJSON = async (uri) => {
   })
 }
 
+function removeAllEmptyFolders (folder) {
+  var isDir = fs.statSync(folder).isDirectory()
+  if (!isDir) {
+    return
+  }
+  var files = fs.readdirSync(folder)
+  if (files.length > 0) {
+    files.forEach(function (file) {
+      var fullPath = path.join(folder, file)
+      removeAllEmptyFolders(fullPath)
+    })
+
+    files = fs.readdirSync(folder)
+  }
+
+  if (files.length === 1 || files.length === 0) {
+    //console.log('removing: ', folder)
+    rimraf.sync(folder)
+    return
+  }
+}
 module.exports = {
   downloadFile: downloadFile,
+  removeAllEmptyFolders,
   getJSON,
   getFailures: () => failures
 }
