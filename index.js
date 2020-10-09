@@ -2,15 +2,18 @@ const request = require('request')
 const fs = require('fs')
 const mkdirp = require('mkdirp')
 const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xslx']
+const { execSync } = require('child_process')
+
+var rimraf = require('rimraf')
 
 async function download (uri, filename) {
   return new Promise((resolve, reject) => {
     request.head(uri, (err, res, body) => {
-      console.log('content-type:', res.headers['content-type'])
-      console.log('content-length:', res.headers['content-length'])
       if (err) {
         reject(err)
+        return
       }
+
       request(uri).pipe(fs.createWriteStream(filename)).on('close', () => {
         resolve()
       })
@@ -23,35 +26,66 @@ async function getJSON (uri) {
       if (err) {
         reject(err)
       }
-      resolve(JSON.parse(body))
+      try {
+        resolve(JSON.parse(body))
+      } catch {
+        reject('cant parse json')
+      }
     })
   })
 }
 
-async function parseDataset (dataset, folder) {
-  return dataset.resources.map(async resourse => {
+async function downloadAllFilesOfDataset (dataset, folder) {
+  let success = 0
+  dataset.resources.forEach(async resourse => {
     const { url, title, format } = resourse
     if (!FORMATS.includes(format)) {
       return
     }
-    await download(url, `${folder}/${title}.${format}`)
+    const fileName = escapeFile(`${title}.${format}`)
+    await download(url, `${folder}/${fileName}`)
+    success++
   })
+
+  return success
 }
 
-async function getEverything (slug) {
-  const data = await getJSON(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
+function escapeFile (str) {
+  return str.replace(/(\W+)/gi, '-').substr(0, 255)
+}
+
+async function getEverythingBySlug (slug) {
+  try {
+    const data = await getJSON(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
+
+    data.data.map(async dataset => {
+        const { slug } = dataset
+        const folderName = `datasets/${escapeFile(slug)}`
+        await mkdirp(folderName)
+
+        const hasFiles = await downloadAllFilesOfDataset(dataset, folderName)
+        console.log(hasFiles)
+        if (!hasFiles) {
+          console.log(`removing ${__dirname}/${folderName}`)
+          fs.rmdirSync(folderName, { recursive: true })
+        }
+        fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
+      }
+    )
+  } catch (e) {
+    console.log('Failed: ', slug)
+  }
+}
+
+async function getEverything () {
+  const { links } = JSON.parse(fs.readFileSync('./links.json').toString())
+  const slugs = links.map(link => link.replace('https://data.public.lu/en/datasets/', '').replace(/\/$/, ''))
   await mkdirp('datasets')
-  data.data.map(async dataset => {
-    const { slug } = dataset
-    const folderName = `datasets/${slug}`
-    await mkdirp(folderName)
-    try {
-      await parseDataset(dataset, folderName)
-      fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
-    } catch (e) {
+  slugs.forEach(async (slug, i) => {
+    await getEverythingBySlug(slug)
 
-    }
   })
+
 }
 
-getEverything('categories-de-permis-de-conduire-par-age-et-sexe-2016')
+getEverything()
