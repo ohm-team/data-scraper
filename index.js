@@ -20,7 +20,7 @@ function removeAllEmptyFolders (folder) {
     files = fs.readdirSync(folder)
   }
 
-  if (files.length == 1) {
+  if (files.length == 1 || files.length == 0) {
     console.log('removing: ', folder)
     rimraf.sync(folder)
     return
@@ -57,18 +57,19 @@ async function getJSON (uri) {
 
 async function downloadAllFilesOfDataset (dataset, folder) {
   let success = 0
-  console.log('starting with', folder)
-  await Promise.all(dataset.resources.map(async resourse => {
+  console.log('starting with dataset', folder)
+  for (const resourse of dataset.resources) {
+
     const { url, title, format } = resourse
     if (!FORMATS.includes(format)) {
       return
     }
     const fileName = `${escapeFile(title)}.${format}`
-    console.log('starting with', fileName)
+    console.log('starting with file', fileName)
     await download(url, `${folder}/${fileName}`)
     success++
-    console.log('finished with', fileName, success)
-  }))
+    console.log('finished with file', fileName, success)
+  }
 
   return success
 }
@@ -81,18 +82,16 @@ async function getEverythingBySlug (slug) {
   try {
     console.log('starting ', slug)
     const data = await getJSON(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
+    for (const dataset in data.data) {
 
-    await Promise.all(data.data.map(async dataset => {
-        const { slug } = dataset
-        const folderName = `datasets/${escapeFile(slug)}`
-        await mkdirp(folderName)
+      const { slug } = dataset
+      const folderName = `datasets/${escapeFile(slug)}`
+      await mkdirp(folderName)
 
-        await downloadAllFilesOfDataset(dataset, folderName)
+      await downloadAllFilesOfDataset(dataset, folderName)
 
-        fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
-
-      }
-    ))
+      fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
+    }
     console.log('finished ', slug)
   } catch (e) {
     console.log('Failed: ', slug)
@@ -103,9 +102,18 @@ async function getEverythingBySlug (slug) {
 async function getEverything () {
   const { links } = JSON.parse(fs.readFileSync('./links.json').toString())
   let slugs = links.map(link => link.replace('https://data.public.lu/en/datasets/', '').replace(/\/$/, ''))
-
+  slugs = slugs.splice(0, 2)
   await mkdirp('datasets')
-  await Promise.all(slugs.map((slug, i) => getEverythingBySlug(slug)))
+  for (const slug of slugs) {
+    await getEverythingBySlug(slug)
+  }
+}
+
+async function runSeq () {
+  await asyncThingsToDo.reduce(
+    (p, spec) => p.then(() => runTask(spec).then(log)),
+    starterPromise
+  )
 }
 
 async function work () {
