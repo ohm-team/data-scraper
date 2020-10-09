@@ -4,7 +4,8 @@ const mkdirp = require('mkdirp')
 const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xslx']
 var rimraf = require('rimraf')
 var path = require('path')
-const {downloadFile} = require('./downloader')
+const { downloadFile, getJSON, getFailures } = require('./downloader')
+const loaded = {}
 function removeAllEmptyFolders (folder) {
   var isDir = fs.statSync(folder).isDirectory()
   if (!isDir) {
@@ -21,56 +22,33 @@ function removeAllEmptyFolders (folder) {
   }
 
   if (files.length == 1 || files.length == 0) {
-    console.log('removing: ', folder)
+    //console.log('removing: ', folder)
     rimraf.sync(folder)
     return
   }
 }
 async function download (uri, filename) {
-  console.log('download', uri)
+  if (loaded[uri]) {
+    return
+  }
+  loaded[uri] = true
   downloadFile(uri, filename)
+}
 
-  //return new Promise((resolve, reject) => {
-  //  request.head(uri, (err, res, body) => {
-  //    if (err) {
-  //      reject(err)
-  //      return
-  //    }
-  //
-  //    request(uri).pipe(fs.createWriteStream(filename)).on('close', () => {
-  //      resolve()
-  //    })
-  //  })
-  //})
-}
-async function getJSON (uri) {
-  return new Promise((resolve, reject) => {
-    request({ uri, timeout: 5000 }, (err, data, body) => {
-      if (err) {
-        resolve()
-      }
-      try {
-        resolve(JSON.parse(body))
-      } catch {
-        reject('cant parse json')
-      }
-    })
-  })
-}
 
 async function downloadAllFilesOfDataset (dataset, folder) {
   let success = 0
-  console.log('starting with dataset', folder)
+  //console.log('starting with dataset', folder)
   for (const resourse of dataset.resources) {
     const { url, title, format } = resourse
     if (!FORMATS.includes(format)) {
       return
     }
     const fileName = `${escapeFile(title)}.${format}`
-    console.log('starting with file', fileName)
+    //console.log('starting with file', fileName)
     await download(url, `${folder}/${fileName}`)
     success++
-    console.log('finished with file', fileName, success)
+    //console.log('finished with file', fileName, success)
   }
 
   return success
@@ -82,8 +60,9 @@ function escapeFile (str) {
 
 async function getEverythingBySlug (slug) {
   try {
-    console.log('starting with slug', slug)
+    //console.log('starting with slug', slug)
     const data = await getJSON(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
+    //console.log(`https://data.public.lu/api/1/datasets/?q=${slug}&page=0&page_size=50`)
     for (const dataset of data.data) {
 
       const { slug } = dataset
@@ -94,9 +73,9 @@ async function getEverythingBySlug (slug) {
 
       fs.writeFileSync(`${folderName}/info.json`, JSON.stringify(dataset))
     }
-    console.log('finished with slug', slug)
+    //console.log('finished with slug', slug)
   } catch (e) {
-    console.log('Failed: ', slug, e)
+    //console.log('Failed: ', slug, e)
   }
 
 }
@@ -127,6 +106,7 @@ async function work () {
   }
   removeAllEmptyFolders('datasets')
   console.log('finished')
+  console.log('failures:', getFailures())
 }
 
 work()
