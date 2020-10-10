@@ -1,6 +1,4 @@
 const fs = require('fs')
-const mkdirp = require('mkdirp')
-const path = require('path')
 const { downloadFile, getAllFilePaths, getLocalJSON, getJSON, getFailures } = require('../downloader')
 
 const FOLDER_NAME = 'prepare'
@@ -32,8 +30,7 @@ const createQuestionRough = (parsedValue, description) => {
 
 const processOneFile = async (vocabulary, usePatterns) => {
   const { path: filePath } = vocabulary
-  // todo: add url to processed data
-  const { values, url, table_description } = getLocalJSON(filePath)
+  const { values, url, table_description, tags = [] } = getLocalJSON(filePath)
 
   return (values || []).map(parsedValue => {
     let item
@@ -44,6 +41,7 @@ const processOneFile = async (vocabulary, usePatterns) => {
     }
 
     item.url = url
+    item.tags = tags
     return item
   })
 }
@@ -77,7 +75,7 @@ const createQuestionsPool = async (json, questionsFileName = 'questions.json') =
 
     question.correctAnswerIndex = random(0, 3)
     question.answerUrl = pair[1].url
-
+    question.answerTags = pair[1].tags
     answers.splice(question.correctAnswerIndex, 0, pair[1])
 
     return {
@@ -120,6 +118,7 @@ const getQuestionItems = async (filePath, usePatterns, doFlatten) => {
 
 const getRoughQuestionItems = async (processedFolder = 'processed', filePath, writeToFile) => {
   const allFilePaths = await getAllFilePaths(processedFolder)
+  allFilePaths.length = 1
   let allDataSet = []
 
   for (const path of allFilePaths) {
