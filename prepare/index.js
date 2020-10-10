@@ -1,5 +1,5 @@
 const fs = require('fs')
-const { downloadFile, getAllFilePaths, getLocalJSON, getJSON, getFailures } = require('../downloader')
+const { getAllFilePaths, getLocalJSON } = require('../downloader')
 
 const FOLDER_NAME = 'prepare'
 
@@ -50,8 +50,8 @@ const findPair = (itemIndex, allItems) => {
   function isEqual (val1, val2) {
     return val1 === val2
   }
-  const { value } = allItems[itemIndex]
-  const pairIndex = allItems.findIndex((val, i) => isEqual(val.value, value) && i !== itemIndex)
+  const { value, url } = allItems[itemIndex]
+  const pairIndex = allItems.findIndex((val, i) => val.url !== url && isEqual(val.value, value) && i !== itemIndex)
   if (pairIndex > -1) {
     return [allItems[itemIndex], allItems[pairIndex]]
   } else {
@@ -118,7 +118,7 @@ const getQuestionItems = async (filePath, usePatterns, doFlatten) => {
 
 const getRoughQuestionItems = async (processedFolder = 'processed', filePath, writeToFile) => {
   const allFilePaths = await getAllFilePaths(processedFolder)
-  allFilePaths.length = 1
+
   let allDataSet = []
 
   for (const path of allFilePaths) {
