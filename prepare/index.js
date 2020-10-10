@@ -64,8 +64,9 @@ const findAllPairs = async (items) => {
   return items.map((item, index) => findPair(index, items)).filter(t => !!t)
 }
 
-const createQuestionsPool = async (filePath = `${FOLDER_NAME}/questions.json`) => {
-  const { items } = getLocalJSON(`${FOLDER_NAME}/questionItemsFlat.json`)
+const createQuestionsPool = async (json) => {
+  const filePath = `${FOLDER_NAME}/questions.json`
+  const { items } = json || getLocalJSON(`${FOLDER_NAME}/questionItemsFlat.json`)
 
   function creteQuestion (pair) {
     const question = pair[0]
@@ -116,7 +117,7 @@ const getQuestionItems = async (filePath, usePatterns, doFlatten) => {
   fs.writeFileSync(filePath, JSON.stringify(allDataSet))
 }
 
-const getRoughQuestionItems = async (filePath) => {
+const getRoughQuestionItems = async (filePath, writeToFile) => {
   const allFilePaths = await getAllFilePaths('processed')
   let allDataSet = []
 
@@ -125,10 +126,18 @@ const getRoughQuestionItems = async (filePath) => {
     allDataSet.push(...oneFile)
   }
 
-  fs.writeFileSync(filePath, JSON.stringify({ items: allDataSet }))
+  if(writeToFile){
+    fs.writeFileSync(filePath, JSON.stringify({ items: allDataSet }))
+  }
+  return { items: allDataSet }
 }
 
 //getQuestionItems(`${FOLDER_NAME}/questionItems.json`, true)
 //getQuestionItems(`${FOLDER_NAME}/questionItemsFlat.json`, true, true)
-//getRoughQuestionItems(`${FOLDER_NAME}/questionItemsFlat.json`)
-createQuestionsPool()
+
+const generateQuestionSetFromProcessedFiles = async () => {
+  const json = await getRoughQuestionItems(`${FOLDER_NAME}/questionItemsFlat.json`, false)
+  await createQuestionsPool(json)
+}
+
+generateQuestionSetFromProcessedFiles()
