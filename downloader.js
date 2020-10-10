@@ -48,11 +48,12 @@ const getJSON = async (uri) => {
   })
 }
 
-const getLocalJSON = (filePath) => {
+const getLocalJSON = (relativePath) => {
   try {
-    return JSON.parse(fs.readFileSync(filePath).toString())
+    return JSON.parse(fs.readFileSync(relativePath).toString())
   } catch (e){
-    console.log('Failed to get and parse ', filePath)
+    console.log(__dirname)
+    console.log('Failed to get and parse ', relativePath)
     return {}
   }
 }

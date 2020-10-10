@@ -2,7 +2,7 @@ const fs = require('fs')
 const mkdirp = require('mkdirp')
 const { downloadFile, removeAllEmptyFolders, getJSON, getFailures } = require('../downloader')
 
-const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xslx']
+const FORMATS = ['csv', 'xml', 'json', 'xsl', 'xlsx']
 const FOLDER_NAME = 'datasets'
 
 async function downloadAllFilesOfDataset (dataset, folder) {
@@ -42,6 +42,7 @@ async function getEverythingBySlug (slug) {
 async function getEverything () {
   const { links } = JSON.parse(fs.readFileSync('./links.json').toString())
   let slugs = links.map(link => link.replace('https://data.public.lu/en/datasets/', '').replace(/\/$/, ''))
+  //slugs = ['accidents-accidents-corporels-de-circulation-routiere']
   await mkdirp(FOLDER_NAME)
   for (const slug of slugs) {
     await getEverythingBySlug(slug)
@@ -50,7 +51,7 @@ async function getEverything () {
 
 async function work () {
   try {await getEverything()} catch (e) {}
-  try {removeAllEmptyFolders(FOLDER_NAME)} catch (e) {}
+  //try {removeAllEmptyFolders(FOLDER_NAME)} catch (e) {}
   console.log('finished')
   const failures = getFailures()
   console.log('retrying failures:', failures)
