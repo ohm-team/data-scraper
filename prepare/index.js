@@ -5,13 +5,17 @@ const { downloadFile, getLocalJSON, getJSON, getFailures } = require('../downloa
 
 const FOLDER_NAME = 'processed'
 
+const random = (min, max) => {
+  return Math.floor(Math.random() * (max - min + 1)) + min
+}
+
 const createQuestionItem = (parsedValue, whatPattern, whatPatternTotal, locationPattern) => {
   let pattern = parsedValue.isTotal ? whatPatternTotal : whatPattern
   if (parsedValue.isLocation && !!locationPattern) {
     pattern = locationPattern
   }
   const { value } = parsedValue
-  const what = pattern.replace('{what}', parsedValue.what).replace('{when}', parsedValue.when)
+  const what = pattern.replace('{what}', parsedValue.what).replace('{when}', parsedValue.when).replace(/\s+/, '')
   return { what, value }
 }
 
@@ -23,7 +27,46 @@ const processOneFile = async (vocabulary) => {
   })
 }
 
+const findPair = (itemIndex, allItems) => {
+  function isEqual (val1, val2) {
+    return val1 === val2
+  }
+  const { value } = allItems[itemIndex]
+  const pairIndex = allItems.findIndex((val, i) => isEqual(val.value, value) && i !== itemIndex)
+  if (pairIndex > -1) {
+    return [allItems[itemIndex], allItems[pairIndex]]
+  } else {
+    return null
+  }
+}
 
+const findAllPairs = async (items) => {
+  return items.map((item, index) => findPair(index, items)).filter(t => !!t)
+}
+
+const createQuestionsPool = async (filePath = './questions.json') => {
+  const { items } = getLocalJSON(`./questionItemsFlat.json`)
+  function creteQuestion (pair) {
+    const question = pair[0]
+    const answers = new Array(3).fill(0).map(() => {
+      return items[random(0, items.length - 1)]
+    })
+
+    question.correctAnswerIndex = random(0, 3)
+    answers.splice(question.correctAnswerIndex, 0, pair[1])
+
+    return { question, answers: answers.map(({ what }) => what.replace('{value}', '').replace(/\s+/, '')) }
+  }
+
+  const pairs = await findAllPairs(items)
+
+  const allQuestions = pairs.map(pair => {
+    return [creteQuestion(pair), creteQuestion(pair.reverse())]
+  }).flat(1)
+
+  fs.writeFileSync(filePath, JSON.stringify({ questions: allQuestions }))
+
+}
 const run = async (filePath, doFlatten) => {
   const { vocabulary } = getLocalJSON(`./vocabulary.json`)
   let allDataSet = {}
@@ -47,4 +90,6 @@ const run = async (filePath, doFlatten) => {
 }
 
 //run(`./questionItems.json`)
-run(`./questionItemsFlat.json`, true)
+//run(`./questionItemsFlat.json`, true)
+
+createQuestionsPool()
