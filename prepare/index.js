@@ -23,9 +23,10 @@ const processOneFile = async (vocabulary) => {
   })
 }
 
-const run = async () => {
+
+const run = async (filePath, doFlatten) => {
   const { vocabulary } = getLocalJSON(`./vocabulary.json`)
-  const allDataSet = {}
+  let allDataSet = {}
 
   for (const dataBlockTitle in vocabulary) {
     const questionItems = []
@@ -36,9 +37,14 @@ const run = async () => {
     }
 
     allDataSet[dataBlockTitle] = questionItems
+
   }
   console.log(allDataSet)
-  fs.writeFileSync(`./questionItems.json`, JSON.stringify(allDataSet ))
+  if (doFlatten) {
+    allDataSet = { items: [...Object.values(allDataSet)].flat(1) }
+  }
+  fs.writeFileSync(filePath, JSON.stringify(allDataSet))
 }
 
-run()
+//run(`./questionItems.json`)
+run(`./questionItemsFlat.json`, true)

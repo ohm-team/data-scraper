@@ -1,0 +1,2932 @@
+{
+  "items": [
+    {
+      "what": "{value} people died on road in 1991",
+      "value": 83
+    },
+    {
+      "what": "{value} people died on road in 2000",
+      "value": 76
+    },
+    {
+      "what": "{value} people died on road in 2010",
+      "value": 32
+    },
+    {
+      "what": "{value} people died on road in 2011",
+      "value": 33
+    },
+    {
+      "what": "{value} people died on road in 2012",
+      "value": 34
+    },
+    {
+      "what": "{value} people died on road in 2013",
+      "value": 45
+    },
+    {
+      "what": "{value} people died on road in 2014",
+      "value": 35
+    },
+    {
+      "what": "{value} people died on road in 2015",
+      "value": 36
+    },
+    {
+      "what": "{value} people died on road in 2016",
+      "value": 32
+    },
+    {
+      "what": "{value} people died on road in 2017",
+      "value": 25
+    },
+    {
+      "what": "{value} people died on road in 2018",
+      "value": 36
+    },
+    {
+      "what": "{value} people died on road in 2019",
+      "value": 22
+    },
+    {
+      "what": "{value} Pedestrians died on road in 1991",
+      "value": 16
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2000",
+      "value": 11
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2011",
+      "value": 6
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2012",
+      "value": 6
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2014",
+      "value": 3
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2015",
+      "value": 7
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2016",
+      "value": 8
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2017",
+      "value": 4
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2018",
+      "value": 3
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2019",
+      "value": 2
+    },
+    {
+      "what": "{value} Cyclists died on road in 1991",
+      "value": 5
+    },
+    {
+      "what": "{value} Cyclists died on road in 2000",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2011",
+      "value": 2
+    },
+    {
+      "what": "{value} Cyclists died on road in 2016",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2018",
+      "value": 3
+    },
+    {
+      "what": "{value} Mopeds died on road in 1991",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2011",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2015",
+      "value": 2
+    },
+    {
+      "what": "{value} Mopeds died on road in 2017",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2019",
+      "value": 1
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 1991",
+      "value": 7
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2000",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2011",
+      "value": 2
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2013",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2014",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2015",
+      "value": 4
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2016",
+      "value": 3
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2017",
+      "value": 6
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2018",
+      "value": 9
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2019",
+      "value": 3
+    },
+    {
+      "what": "{value} Quad died on road in 2018",
+      "value": 1
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 1991",
+      "value": 35
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2000",
+      "value": 42
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2010",
+      "value": 23
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2011",
+      "value": 17
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2012",
+      "value": 16
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2013",
+      "value": 27
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2014",
+      "value": 19
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2015",
+      "value": 20
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2016",
+      "value": 13
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2017",
+      "value": 10
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2018",
+      "value": 15
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2019",
+      "value": 12
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 1991",
+      "value": 18
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2000",
+      "value": 14
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2010",
+      "value": 6
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2011",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2012",
+      "value": 7
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2014",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2016",
+      "value": 7
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2017",
+      "value": 4
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2018",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2019",
+      "value": 4
+    },
+    {
+      "what": "{value} 2-wheel passengers died on road in 1991",
+      "value": 1
+    },
+    {
+      "what": "In 1970 {value} people got injury: Bodily accidents on road",
+      "value": 1607
+    },
+    {
+      "what": "In 1980 {value} people got injury: Bodily accidents on road",
+      "value": 1577
+    },
+    {
+      "what": "In 1990 {value} people got injury: Bodily accidents on road",
+      "value": 1216
+    },
+    {
+      "what": "In 2000 {value} people got injury: Bodily accidents on road",
+      "value": 901
+    },
+    {
+      "what": "In 2010 {value} people got injury: Bodily accidents on road",
+      "value": 876
+    },
+    {
+      "what": "In 2011 {value} people got injury: Bodily accidents on road",
+      "value": 962
+    },
+    {
+      "what": "In 2012 {value} people got injury: Bodily accidents on road",
+      "value": 1019
+    },
+    {
+      "what": "In 2013 {value} people got injury: Bodily accidents on road",
+      "value": 949
+    },
+    {
+      "what": "In 2014 {value} people got injury: Bodily accidents on road",
+      "value": 908
+    },
+    {
+      "what": "In 2015 {value} people got injury: Bodily accidents on road",
+      "value": 983
+    },
+    {
+      "what": "In 2016 {value} people got injury: Bodily accidents on road",
+      "value": 941
+    },
+    {
+      "what": "In 2017 {value} people got injury: Bodily accidents on road",
+      "value": 955
+    },
+    {
+      "what": "In 2018 {value} people got injury: Bodily accidents on road",
+      "value": 947
+    },
+    {
+      "what": "In 2019 {value} people got injury: Bodily accidents on road",
+      "value": 988
+    },
+    {
+      "what": "In 1970 {value} people got injury: Mortals on road",
+      "value": 115
+    },
+    {
+      "what": "In 1980 {value} people got injury: Mortals on road",
+      "value": 95
+    },
+    {
+      "what": "In 1990 {value} people got injury: Mortals on road",
+      "value": 60
+    },
+    {
+      "what": "In 2000 {value} people got injury: Mortals on road",
+      "value": 68
+    },
+    {
+      "what": "In 2010 {value} people got injury: Mortals on road",
+      "value": 29
+    },
+    {
+      "what": "In 2011 {value} people got injury: Mortals on road",
+      "value": 30
+    },
+    {
+      "what": "In 2012 {value} people got injury: Mortals on road",
+      "value": 34
+    },
+    {
+      "what": "In 2013 {value} people got injury: Mortals on road",
+      "value": 41
+    },
+    {
+      "what": "In 2014 {value} people got injury: Mortals on road",
+      "value": 31
+    },
+    {
+      "what": "In 2015 {value} people got injury: Mortals on road",
+      "value": 33
+    },
+    {
+      "what": "In 2016 {value} people got injury: Mortals on road",
+      "value": 29
+    },
+    {
+      "what": "In 2017 {value} people got injury: Mortals on road",
+      "value": 24
+    },
+    {
+      "what": "In 2018 {value} people got injury: Mortals on road",
+      "value": 31
+    },
+    {
+      "what": "In 2019 {value} people got injury: Mortals on road",
+      "value": 22
+    },
+    {
+      "what": "In 1970 {value} people got injury: Non fatal on road",
+      "value": 1492
+    },
+    {
+      "what": "In 1980 {value} people got injury: Non fatal on road",
+      "value": 1482
+    },
+    {
+      "what": "In 1990 {value} people got injury: Non fatal on road",
+      "value": 1156
+    },
+    {
+      "what": "In 2000 {value} people got injury: Non fatal on road",
+      "value": 833
+    },
+    {
+      "what": "In 2010 {value} people got injury: Non fatal on road",
+      "value": 847
+    },
+    {
+      "what": "In 2011 {value} people got injury: Non fatal on road",
+      "value": 932
+    },
+    {
+      "what": "In 2012 {value} people got injury: Non fatal on road",
+      "value": 985
+    },
+    {
+      "what": "In 2013 {value} people got injury: Non fatal on road",
+      "value": 908
+    },
+    {
+      "what": "In 2014 {value} people got injury: Non fatal on road",
+      "value": 877
+    },
+    {
+      "what": "In 2015 {value} people got injury: Non fatal on road",
+      "value": 950
+    },
+    {
+      "what": "In 2016 {value} people got injury: Non fatal on road",
+      "value": 912
+    },
+    {
+      "what": "In 2017 {value} people got injury: Non fatal on road",
+      "value": 931
+    },
+    {
+      "what": "In 2018 {value} people got injury: Non fatal on road",
+      "value": 916
+    },
+    {
+      "what": "In 2019 {value} people got injury: Non fatal on road",
+      "value": 966
+    },
+    {
+      "what": "In 1970 {value} people got injury: Total casualties on road",
+      "value": 2499
+    },
+    {
+      "what": "In 1980 {value} people got injury: Total casualties on road",
+      "value": 2381
+    },
+    {
+      "what": "In 1990 {value} people got injury: Total casualties on road",
+      "value": 1849
+    },
+    {
+      "what": "In 2000 {value} people got injury: Total casualties on road",
+      "value": 1333
+    },
+    {
+      "what": "In 2010 {value} people got injury: Total casualties on road",
+      "value": 1217
+    },
+    {
+      "what": "In 2011 {value} people got injury: Total casualties on road",
+      "value": 1341
+    },
+    {
+      "what": "In 2012 {value} people got injury: Total casualties on road",
+      "value": 1412
+    },
+    {
+      "what": "In 2013 {value} people got injury: Total casualties on road",
+      "value": 1297
+    },
+    {
+      "what": "In 2014 {value} people got injury: Total casualties on road",
+      "value": 1261
+    },
+    {
+      "what": "In 2015 {value} people got injury: Total casualties on road",
+      "value": 1384
+    },
+    {
+      "what": "In 2016 {value} people got injury: Total casualties on road",
+      "value": 1235
+    },
+    {
+      "what": "In 2017 {value} people got injury: Total casualties on road",
+      "value": 1297
+    },
+    {
+      "what": "In 2018 {value} people got injury: Total casualties on road",
+      "value": 1254
+    },
+    {
+      "what": "In 2019 {value} people got injury: Total casualties on road",
+      "value": 1318
+    },
+    {
+      "what": "In 1970 {value} people got injury: Killed on the spot on road",
+      "value": 43
+    },
+    {
+      "what": "In 1980 {value} people got injury: Killed on the spot on road",
+      "value": 19
+    },
+    {
+      "what": "In 1990 {value} people got injury: Killed on the spot on road",
+      "value": 45
+    },
+    {
+      "what": "In 2000 {value} people got injury: Killed on the spot on road",
+      "value": 59
+    },
+    {
+      "what": "In 2010 {value} people got injury: Killed on the spot on road",
+      "value": 27
+    },
+    {
+      "what": "In 2011 {value} people got injury: Killed on the spot on road",
+      "value": 21
+    },
+    {
+      "what": "In 2012 {value} people got injury: Killed on the spot on road",
+      "value": 23
+    },
+    {
+      "what": "In 2013 {value} people got injury: Killed on the spot on road",
+      "value": 38
+    },
+    {
+      "what": "In 2014 {value} people got injury: Killed on the spot on road",
+      "value": 27
+    },
+    {
+      "what": "In 2015 {value} people got injury: Killed on the spot on road",
+      "value": 23
+    },
+    {
+      "what": "In 2016 {value} people got injury: Killed on the spot on road",
+      "value": 21
+    },
+    {
+      "what": "In 2017 {value} people got injury: Killed on the spot on road",
+      "value": 16
+    },
+    {
+      "what": "In 2018 {value} people got injury: Killed on the spot on road",
+      "value": 23
+    },
+    {
+      "what": "In 2019 {value} people got injury: Killed on the spot on road",
+      "value": 15
+    },
+    {
+      "what": "In 1970 {value} people got injury: Deceased within 30 days on road",
+      "value": 89
+    },
+    {
+      "what": "In 1980 {value} people got injury: Deceased within 30 days on road",
+      "value": 79
+    },
+    {
+      "what": "In 1990 {value} people got injury: Deceased within 30 days on road",
+      "value": 26
+    },
+    {
+      "what": "In 2000 {value} people got injury: Deceased within 30 days on road",
+      "value": 17
+    },
+    {
+      "what": "In 2010 {value} people got injury: Deceased within 30 days on road",
+      "value": 5
+    },
+    {
+      "what": "In 2011 {value} people got injury: Deceased within 30 days on road",
+      "value": 12
+    },
+    {
+      "what": "In 2012 {value} people got injury: Deceased within 30 days on road",
+      "value": 11
+    },
+    {
+      "what": "In 2013 {value} people got injury: Deceased within 30 days on road",
+      "value": 7
+    },
+    {
+      "what": "In 2014 {value} people got injury: Deceased within 30 days on road",
+      "value": 8
+    },
+    {
+      "what": "In 2015 {value} people got injury: Deceased within 30 days on road",
+      "value": 13
+    },
+    {
+      "what": "In 2016 {value} people got injury: Deceased within 30 days on road",
+      "value": 11
+    },
+    {
+      "what": "In 2017 {value} people got injury: Deceased within 30 days on road",
+      "value": 9
+    },
+    {
+      "what": "In 2018 {value} people got injury: Deceased within 30 days on road",
+      "value": 13
+    },
+    {
+      "what": "In 2019 {value} people got injury: Deceased within 30 days on road",
+      "value": 7
+    },
+    {
+      "what": "In 1970 {value} people got injury: Wounded on road",
+      "value": 2367
+    },
+    {
+      "what": "In 1980 {value} people got injury: Wounded on road",
+      "value": 2283
+    },
+    {
+      "what": "In 1990 {value} people got injury: Wounded on road",
+      "value": 1778
+    },
+    {
+      "what": "In 2000 {value} people got injury: Wounded on road",
+      "value": 1257
+    },
+    {
+      "what": "In 2010 {value} people got injury: Wounded on road",
+      "value": 1185
+    },
+    {
+      "what": "In 2011 {value} people got injury: Wounded on road",
+      "value": 1308
+    },
+    {
+      "what": "In 2012 {value} people got injury: Wounded on road",
+      "value": 1378
+    },
+    {
+      "what": "In 2013 {value} people got injury: Wounded on road",
+      "value": 1252
+    },
+    {
+      "what": "In 2014 {value} people got injury: Wounded on road",
+      "value": 1226
+    },
+    {
+      "what": "In 2015 {value} people got injury: Wounded on road",
+      "value": 1348
+    },
+    {
+      "what": "In 2016 {value} people got injury: Wounded on road",
+      "value": 1203
+    },
+    {
+      "what": "In 2017 {value} people got injury: Wounded on road",
+      "value": 1272
+    },
+    {
+      "what": "In 2018 {value} people got injury: Wounded on road",
+      "value": 1218
+    },
+    {
+      "what": "In 2019 {value} people got injury: Wounded on road",
+      "value": 1296
+    },
+    {
+      "what": "In 1970 {value} people got injury: Serious injuries on road",
+      "value": 1082
+    },
+    {
+      "what": "In 1980 {value} people got injury: Serious injuries on road",
+      "value": 959
+    },
+    {
+      "what": "In 1990 {value} people got injury: Serious injuries on road",
+      "value": 556
+    },
+    {
+      "what": "In 2000 {value} people got injury: Serious injuries on road",
+      "value": 400
+    },
+    {
+      "what": "In 2010 {value} people got injury: Serious injuries on road",
+      "value": 266
+    },
+    {
+      "what": "In 2011 {value} people got injury: Serious injuries on road",
+      "value": 317
+    },
+    {
+      "what": "In 2012 {value} people got injury: Serious injuries on road",
+      "value": 339
+    },
+    {
+      "what": "In 2013 {value} people got injury: Serious injuries on road",
+      "value": 316
+    },
+    {
+      "what": "In 2014 {value} people got injury: Serious injuries on road",
+      "value": 245
+    },
+    {
+      "what": "In 2015 {value} people got injury: Serious injuries on road",
+      "value": 319
+    },
+    {
+      "what": "In 2016 {value} people got injury: Serious injuries on road",
+      "value": 249
+    },
+    {
+      "what": "In 2017 {value} people got injury: Serious injuries on road",
+      "value": 256
+    },
+    {
+      "what": "In 2018 {value} people got injury: Serious injuries on road",
+      "value": 273
+    },
+    {
+      "what": "In 2019 {value} people got injury: Serious injuries on road",
+      "value": 248
+    },
+    {
+      "what": "In 1970 {value} people got injury: Slightly injured on road",
+      "value": 1285
+    },
+    {
+      "what": "In 1980 {value} people got injury: Slightly injured on road",
+      "value": 1324
+    },
+    {
+      "what": "In 1990 {value} people got injury: Slightly injured on road",
+      "value": 1222
+    },
+    {
+      "what": "In 2000 {value} people got injury: Slightly injured on road",
+      "value": 857
+    },
+    {
+      "what": "In 2010 {value} people got injury: Slightly injured on road",
+      "value": 919
+    },
+    {
+      "what": "In 2011 {value} people got injury: Slightly injured on road",
+      "value": 991
+    },
+    {
+      "what": "In 2012 {value} people got injury: Slightly injured on road",
+      "value": 1039
+    },
+    {
+      "what": "In 2013 {value} people got injury: Slightly injured on road",
+      "value": 936
+    },
+    {
+      "what": "In 2014 {value} people got injury: Slightly injured on road",
+      "value": 981
+    },
+    {
+      "what": "In 2015 {value} people got injury: Slightly injured on road",
+      "value": 1029
+    },
+    {
+      "what": "In 2016 {value} people got injury: Slightly injured on road",
+      "value": 954
+    },
+    {
+      "what": "In 2017 {value} people got injury: Slightly injured on road",
+      "value": 1016
+    },
+    {
+      "what": "In 2018 {value} people got injury: Slightly injured on road",
+      "value": 945
+    },
+    {
+      "what": "In 2019 {value} people got injury: Slightly injured on road",
+      "value": 1048
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 1991",
+      "value": 535
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2000",
+      "value": 424
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2010",
+      "value": 413
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2011",
+      "value": 435
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2012",
+      "value": 459
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2013",
+      "value": 440
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2014",
+      "value": 458
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2015",
+      "value": 495
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2016",
+      "value": 472
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2017",
+      "value": 493
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2018",
+      "value": 508
+    },
+    {
+      "what": "{value} people were injuried from Collision between moving vehicles in 2019",
+      "value": 512
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 1991",
+      "value": 86
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2000",
+      "value": 100
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2010",
+      "value": 65
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2011",
+      "value": 77
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2012",
+      "value": 94
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2013",
+      "value": 97
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2014",
+      "value": 83
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2015",
+      "value": 77
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2016",
+      "value": 68
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2017",
+      "value": 71
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2018",
+      "value": 84
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a tree in 2019",
+      "value": 74
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 1991",
+      "value": 187
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2000",
+      "value": 153
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2010",
+      "value": 143
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2011",
+      "value": 169
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2012",
+      "value": 190
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2013",
+      "value": 177
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2014",
+      "value": 135
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2015",
+      "value": 157
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2016",
+      "value": 146
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2017",
+      "value": 141
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2018",
+      "value": 150
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an obstacle in 2019",
+      "value": 166
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 1991",
+      "value": 170
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2000",
+      "value": 110
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2010",
+      "value": 148
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2011",
+      "value": 157
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2012",
+      "value": 193
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2013",
+      "value": 150
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2014",
+      "value": 151
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2015",
+      "value": 161
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2016",
+      "value": 176
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2017",
+      "value": 172
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2018",
+      "value": 137
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and a pedestrian in 2019",
+      "value": 158
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 1991",
+      "value": 6
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2000",
+      "value": 2
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2010",
+      "value": 2
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2012",
+      "value": 6
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2013",
+      "value": 2
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2014",
+      "value": 3
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2015",
+      "value": 1
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2016",
+      "value": 4
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2017",
+      "value": 2
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2018",
+      "value": 3
+    },
+    {
+      "what": "{value} people were injuried from Collision between a vehicle and an animal in 2019",
+      "value": 4
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 1991",
+      "value": 145
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2000",
+      "value": 112
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2010",
+      "value": 105
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2011",
+      "value": 124
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2012",
+      "value": 77
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2013",
+      "value": 83
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2014",
+      "value": 78
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2015",
+      "value": 92
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2016",
+      "value": 75
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2017",
+      "value": 76
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2018",
+      "value": 65
+    },
+    {
+      "what": "{value} people were injuried from Other types of accidents in 2019",
+      "value": 74
+    },
+    {
+      "what": "{value} Total victims killed died on road in 1991",
+      "value": 83
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2000",
+      "value": 76
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2010",
+      "value": 32
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2011",
+      "value": 33
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2012",
+      "value": 34
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2013",
+      "value": 45
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2014",
+      "value": 35
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2015",
+      "value": 36
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2016",
+      "value": 32
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2017",
+      "value": 25
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2018",
+      "value": 36
+    },
+    {
+      "what": "{value} Total victims killed died on road in 2019",
+      "value": 22
+    },
+    {
+      "what": "{value} Pedestrians died on road in 1991",
+      "value": 16
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2000",
+      "value": 11
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2011",
+      "value": 6
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2012",
+      "value": 6
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2014",
+      "value": 3
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2015",
+      "value": 7
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2016",
+      "value": 8
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2017",
+      "value": 4
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2018",
+      "value": 3
+    },
+    {
+      "what": "{value} Pedestrians died on road in 2019",
+      "value": 2
+    },
+    {
+      "what": "{value} Cyclists died on road in 1991",
+      "value": 5
+    },
+    {
+      "what": "{value} Cyclists died on road in 2000",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2011",
+      "value": 2
+    },
+    {
+      "what": "{value} Cyclists died on road in 2016",
+      "value": 1
+    },
+    {
+      "what": "{value} Cyclists died on road in 2018",
+      "value": 3
+    },
+    {
+      "what": "{value} Mopeds died on road in 1991",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2011",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2015",
+      "value": 2
+    },
+    {
+      "what": "{value} Mopeds died on road in 2017",
+      "value": 1
+    },
+    {
+      "what": "{value} Mopeds died on road in 2019",
+      "value": 1
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 1991",
+      "value": 7
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2000",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2011",
+      "value": 2
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2013",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2014",
+      "value": 8
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2015",
+      "value": 4
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2016",
+      "value": 3
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2017",
+      "value": 6
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2018",
+      "value": 9
+    },
+    {
+      "what": "{value} Motorcyclists died on road in 2019",
+      "value": 3
+    },
+    {
+      "what": "{value} Quad died on road in 2018",
+      "value": 1
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 1991",
+      "value": 35
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2000",
+      "value": 42
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2010",
+      "value": 23
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2011",
+      "value": 17
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2012",
+      "value": 16
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2013",
+      "value": 27
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2014",
+      "value": 19
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2015",
+      "value": 20
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2016",
+      "value": 13
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2017",
+      "value": 10
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2018",
+      "value": 15
+    },
+    {
+      "what": "{value} 4 wheel drivers died on road in 2019",
+      "value": 12
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 1991",
+      "value": 18
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2000",
+      "value": 14
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2010",
+      "value": 6
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2011",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2012",
+      "value": 7
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2014",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2016",
+      "value": 7
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2017",
+      "value": 4
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2018",
+      "value": 5
+    },
+    {
+      "what": "{value} 4 wheel passengers died on road in 2019",
+      "value": 4
+    },
+    {
+      "what": "{value} 2-wheel passengers died on road in 1991",
+      "value": 1
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 30
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 45
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 29
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 16
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 10
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2013",
+      "value": 10
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2014",
+      "value": 15
+    },
+    {
+      "what": "{value} Interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 13
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 97
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 242
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 86
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 44
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 86
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 90
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2012",
+      "value": 95
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2013",
+      "value": 90
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2014",
+      "value": 84
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 40
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 448
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 719
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 291
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 70
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 85
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 179
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 95
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 30
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 45
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 29
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 16
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 10
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2013",
+      "value": 10
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2014",
+      "value": 15
+    },
+    {
+      "what": "{value} Interventions in interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 13
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 97
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 242
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 86
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 44
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 86
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 90
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2012",
+      "value": 95
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2013",
+      "value": 90
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2014",
+      "value": 84
+    },
+    {
+      "what": "{value} Committed volunteers in interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 40
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 448
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 719
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 291
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 70
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2010",
+      "value": 85
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2011",
+      "value": 179
+    },
+    {
+      "what": "{value} Hours worked in interventions against pollution of the natural environment by hydrocarbons in 2015",
+      "value": 95
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions against pollution of the natural environment by hydrocarbons in 1973",
+      "value": 1919
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions against pollution of the natural environment by hydrocarbons in 1980",
+      "value": 6154
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions against pollution of the natural environment by hydrocarbons in 1990",
+      "value": 2059
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions against pollution of the natural environment by hydrocarbons in 2000",
+      "value": 612
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 1962",
+      "value": 303
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 1965",
+      "value": 1512
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 1970",
+      "value": 4018
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 1980",
+      "value": 13318
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 1990",
+      "value": 21492
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2000",
+      "value": 26924
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2010",
+      "value": 33384
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2011",
+      "value": 34804
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2012",
+      "value": 35819
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2013",
+      "value": 36376
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2014",
+      "value": 36460
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2015",
+      "value": 36850
+    },
+    {
+      "what": "{value} Interventions by Civil Protection ambulances in 2016",
+      "value": 38467
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 1962",
+      "value": 24
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 1965",
+      "value": 103
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 1970",
+      "value": 342
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 1980",
+      "value": 1105
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 1990",
+      "value": 1222
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2000",
+      "value": 1586
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2010",
+      "value": 1717
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2011",
+      "value": 1792
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2012",
+      "value": 1773
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2013",
+      "value": 1808
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2014",
+      "value": 1678
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection ambulances in 2015",
+      "value": 1673
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 1962",
+      "value": 48
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 1965",
+      "value": 210
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 1970",
+      "value": 695
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 1980",
+      "value": 2056
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 1990",
+      "value": 2913
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2000",
+      "value": 4690
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2010",
+      "value": 5281
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2011",
+      "value": 5002
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2012",
+      "value": 5039
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2013",
+      "value": 4830
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2014",
+      "value": 4986
+    },
+    {
+      "what": "{value} Other accidents in interventions by Civil Protection ambulances in 2015",
+      "value": 5068
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 1962",
+      "value": 89
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 1965",
+      "value": 777
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 1970",
+      "value": 2312
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 1980",
+      "value": 8868
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 1990",
+      "value": 15586
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2000",
+      "value": 18303
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2010",
+      "value": 22992
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2011",
+      "value": 24485
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2012",
+      "value": 25155
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2013",
+      "value": 25646
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2014",
+      "value": 25667
+    },
+    {
+      "what": "{value} Patient transport in interventions by Civil Protection ambulances in 2015",
+      "value": 25949
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 1962",
+      "value": 89
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 1965",
+      "value": 266
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 1970",
+      "value": 421
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 1980",
+      "value": 811
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 1990",
+      "value": 1272
+    },
+    {
+      "what": "{value} Other interventions in interventions by Civil Protection ambulances in 2000",
+      "value": 1779
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 1962",
+      "value": 53
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 1965",
+      "value": 156
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 1970",
+      "value": 248
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 1980",
+      "value": 478
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 1990",
+      "value": 499
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2000",
+      "value": 566
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2010",
+      "value": 3394
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2011",
+      "value": 3525
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2012",
+      "value": 3852
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2013",
+      "value": 4092
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2014",
+      "value": 4129
+    },
+    {
+      "what": "{value} Exercises, maintenance and miscellaneous in interventions by Civil Protection ambulances in 2015",
+      "value": 4160
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 1962",
+      "value": 10981
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 1965",
+      "value": 49981
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 1970",
+      "value": 111796
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 1980",
+      "value": 517163
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 1990",
+      "value": 793561
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2000",
+      "value": 860361
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2010",
+      "value": 994626
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2011",
+      "value": 1065332
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2012",
+      "value": 1104640
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2013",
+      "value": 1115882
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2014",
+      "value": 1018977
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2015",
+      "value": 1310754
+    },
+    {
+      "what": "{value} Kilometers traveled in interventions by Civil Protection ambulances in 2016",
+      "value": 1391358
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 1970",
+      "value": 8
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 1980",
+      "value": 20
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 1990",
+      "value": 23
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2000",
+      "value": 12
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2010",
+      "value": 18
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2011",
+      "value": 34
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2012",
+      "value": 24
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2013",
+      "value": 37
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2014",
+      "value": 27
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2015",
+      "value": 48
+    },
+    {
+      "what": "{value} Interventions  by Civil Protection rescue vehicles in 2016",
+      "value": 62
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 1970",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 1980",
+      "value": 10
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 1990",
+      "value": 8
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 7
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 17
+    },
+    {
+      "what": "{value} Rescue and search of persons in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 9
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 1970",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 1980",
+      "value": 10
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 1990",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 2
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 6
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 7
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} Rescue and search for property in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 2
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 6
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 7
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 2
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 7
+    },
+    {
+      "what": "{value} Traffic accidents in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 10
+    },
+    {
+      "what": "{value} Underwater research in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 3
+    },
+    {
+      "what": "{value} Underwater research in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Underwater research in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} Underwater research in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 18
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 2
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 5
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 15
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 10
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 10
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 3
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 18
+    },
+    {
+      "what": "{value} Other commitments in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 22
+    },
+    {
+      "what": "{value} Hours worked in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 2185
+    },
+    {
+      "what": "{value} Hours worked in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 7815
+    },
+    {
+      "what": "{value} Hours worked in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 7562
+    },
+    {
+      "what": "{value} Hours worked in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 7240
+    },
+    {
+      "what": "{value} Hours worked in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 7094
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 1140
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 3510
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 3600
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2015",
+      "value": 3240
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake in interventions by Civil Protection rescue vehicles in 2016",
+      "value": 3420
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 982
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 4106
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 3660
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 3651
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2013",
+      "value": 3263
+    },
+    {
+      "what": "{value} Hours of duty during other activities in interventions by Civil Protection rescue vehicles in 2014",
+      "value": 2068
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 1970",
+      "value": 19
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 1980",
+      "value": 61
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 1990",
+      "value": 105
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 2000",
+      "value": 33
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 2010",
+      "value": 18
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 2011",
+      "value": 18
+    },
+    {
+      "what": "{value} Engaged divers in interventions by Civil Protection rescue vehicles in 2012",
+      "value": 20
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 1970",
+      "value": 8
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 1980",
+      "value": 20
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 1990",
+      "value": 23
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2000",
+      "value": 12
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2010",
+      "value": 18
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2011",
+      "value": 34
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2012",
+      "value": 24
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2013",
+      "value": 37
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2014",
+      "value": 27
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2015",
+      "value": 48
+    },
+    {
+      "what": "{value} Interventions of the Group of Frogmen of Civil Protection in 2016",
+      "value": 62
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 1970",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 1980",
+      "value": 10
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 1990",
+      "value": 8
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2000",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2010",
+      "value": 7
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2011",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2012",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2013",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2014",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2015",
+      "value": 17
+    },
+    {
+      "what": "{value} Rescue and search of persons of the Group of Frogmen of Civil Protection in 2016",
+      "value": 9
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 1970",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 1980",
+      "value": 10
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 1990",
+      "value": 15
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2000",
+      "value": 2
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2010",
+      "value": 1
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2012",
+      "value": 6
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2013",
+      "value": 5
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2014",
+      "value": 7
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} Rescue and search for property of the Group of Frogmen of Civil Protection in 2016",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2000",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2010",
+      "value": 2
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2011",
+      "value": 6
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2012",
+      "value": 3
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2013",
+      "value": 7
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2014",
+      "value": 2
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2015",
+      "value": 7
+    },
+    {
+      "what": "{value} Traffic accidents of the Group of Frogmen of Civil Protection in 2016",
+      "value": 10
+    },
+    {
+      "what": "{value} Underwater research of the Group of Frogmen of Civil Protection in 2010",
+      "value": 3
+    },
+    {
+      "what": "{value} Underwater research of the Group of Frogmen of Civil Protection in 2011",
+      "value": 4
+    },
+    {
+      "what": "{value} Underwater research of the Group of Frogmen of Civil Protection in 2015",
+      "value": 3
+    },
+    {
+      "what": "{value} Underwater research of the Group of Frogmen of Civil Protection in 2016",
+      "value": 18
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2000",
+      "value": 2
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2010",
+      "value": 5
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2011",
+      "value": 15
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2012",
+      "value": 10
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2013",
+      "value": 10
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2014",
+      "value": 3
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2015",
+      "value": 18
+    },
+    {
+      "what": "{value} Other commitments of the Group of Frogmen of Civil Protection in 2016",
+      "value": 22
+    },
+    {
+      "what": "{value} Hours worked of the Group of Frogmen of Civil Protection in 2000",
+      "value": 2185
+    },
+    {
+      "what": "{value} Hours worked of the Group of Frogmen of Civil Protection in 2010",
+      "value": 7815
+    },
+    {
+      "what": "{value} Hours worked of the Group of Frogmen of Civil Protection in 2011",
+      "value": 7562
+    },
+    {
+      "what": "{value} Hours worked of the Group of Frogmen of Civil Protection in 2012",
+      "value": 7240
+    },
+    {
+      "what": "{value} Hours worked of the Group of Frogmen of Civil Protection in 2013",
+      "value": 7094
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2000",
+      "value": 1140
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2010",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2011",
+      "value": 3510
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2012",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2013",
+      "value": 3420
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2014",
+      "value": 3600
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2015",
+      "value": 3240
+    },
+    {
+      "what": "{value} including: Hours of duty near the lake of the Group of Frogmen of Civil Protection in 2016",
+      "value": 3420
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2000",
+      "value": 982
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2010",
+      "value": 4106
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2011",
+      "value": 3660
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2012",
+      "value": 3651
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2013",
+      "value": 3263
+    },
+    {
+      "what": "{value} Hours of duty during other activities of the Group of Frogmen of Civil Protection in 2014",
+      "value": 2068
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 1970",
+      "value": 19
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 1980",
+      "value": 61
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 1990",
+      "value": 105
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 2000",
+      "value": 33
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 2010",
+      "value": 18
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 2011",
+      "value": 18
+    },
+    {
+      "what": "{value} Engaged divers of the Group of Frogmen of Civil Protection in 2012",
+      "value": 20
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2000",
+      "value": 108
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2005",
+      "value": 239
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2006",
+      "value": 240
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2007",
+      "value": 263
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2008",
+      "value": 243
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2009",
+      "value": 218
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2010",
+      "value": 208
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2011",
+      "value": 201
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2012",
+      "value": 237
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2013",
+      "value": 244
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2014",
+      "value": 281
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2015",
+      "value": 272
+    },
+    {
+      "what": "{value} Missions of the Psychological Support Group of Civil Protection in 2016",
+      "value": 282
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2000",
+      "value": 1487
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2005",
+      "value": 1763
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2006",
+      "value": 1642
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2007",
+      "value": 1882
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2008",
+      "value": 1470
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2009",
+      "value": 1430
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2010",
+      "value": 1229
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2011",
+      "value": 1185
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2012",
+      "value": 1421
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2013",
+      "value": 1393
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2014",
+      "value": 969
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2015",
+      "value": 843
+    },
+    {
+      "what": "{value} Hours worked of the Psychological Support Group of Civil Protection  in 2016",
+      "value": 834
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2000",
+      "value": 5
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2006",
+      "value": 3
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2007",
+      "value": 4
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2008",
+      "value": 3
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2009",
+      "value": 3
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2010",
+      "value": 3
+    },
+    {
+      "what": "{value} Average intervention hours of the Psychological Support Group of Civil Protection  in 2016",
+      "value": 3
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2000",
+      "value": 31
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2005",
+      "value": 33
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2006",
+      "value": 39
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2007",
+      "value": 32
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2008",
+      "value": 31
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2009",
+      "value": 28
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2010",
+      "value": 27
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2011",
+      "value": 24
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2012",
+      "value": 27
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2013",
+      "value": 27
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2014",
+      "value": 17
+    },
+    {
+      "what": "{value} Hours worked per worker of the Psychological Support Group of Civil Protection  in 2015",
+      "value": 13
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2000",
+      "value": 47
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2005",
+      "value": 52
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2006",
+      "value": 42
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2007",
+      "value": 51
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2008",
+      "value": 48
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2009",
+      "value": 52
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2010",
+      "value": 46
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2011",
+      "value": 50
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2012",
+      "value": 53
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2013",
+      "value": 51
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2014",
+      "value": 57
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2015",
+      "value": 65
+    },
+    {
+      "what": "{value} Speakers of the Psychological Support Group of Civil Protection  in 2016",
+      "value": 51
+    },
+    {
+      "what": "{value} Total interventions in interventions in 2013",
+      "value": 13569
+    },
+    {
+      "what": "{value} Total interventions in interventions in 2014",
+      "value": 15820
+    },
+    {
+      "what": "{value} Total interventions in interventions in 2015",
+      "value": 19276
+    },
+    {
+      "what": "{value} Total interventions in interventions in 2016",
+      "value": 16892
+    },
+    {
+      "what": "{value} Total technical interventions of firefighters in 2013",
+      "value": 11282
+    },
+    {
+      "what": "{value} Total technical interventions of firefighters in 2014",
+      "value": 12342
+    },
+    {
+      "what": "{value} Total technical interventions of firefighters in 2015",
+      "value": 13504
+    },
+    {
+      "what": "{value} Total technical interventions of firefighters in 2016",
+      "value": 11591
+    },
+    {
+      "what": "{value} Total fire interventions in interventions in 2013",
+      "value": 2287
+    },
+    {
+      "what": "{value} Total fire interventions in interventions in 2014",
+      "value": 2390
+    },
+    {
+      "what": "{value} Total fire interventions in interventions in 2015",
+      "value": 2346
+    },
+    {
+      "what": "{value} Total fire interventions in interventions in 2016",
+      "value": 2316
+    },
+    {
+      "what": "{value} Total First Responder interventions in interventions in 2014",
+      "value": 1088
+    },
+    {
+      "what": "{value} Total First Responder interventions in interventions in 2015",
+      "value": 3426
+    },
+    {
+      "what": "{value} Total First Responder interventions in interventions in 2016",
+      "value": 2985
+    },
+    {
+      "what": "{value} of interventions located in NORTH in 2013",
+      "value": 2030
+    },
+    {
+      "what": "{value} of interventions located in NORTH in 2014",
+      "value": 2830
+    },
+    {
+      "what": "{value} of interventions located in NORTH in 2015",
+      "value": 3196
+    },
+    {
+      "what": "{value} of interventions located in NORTH in 2016",
+      "value": 2955
+    },
+    {
+      "what": "{value} of interventions located in SOUTH in 2013",
+      "value": 4035
+    },
+    {
+      "what": "{value} of interventions located in SOUTH in 2014",
+      "value": 4357
+    },
+    {
+      "what": "{value} of interventions located in SOUTH in 2015",
+      "value": 5078
+    },
+    {
+      "what": "{value} of interventions located in SOUTH in 2016",
+      "value": 3742
+    },
+    {
+      "what": "{value} of interventions located in CENTER in 2013",
+      "value": 5020
+    },
+    {
+      "what": "{value} of interventions located in CENTER in 2014",
+      "value": 5081
+    },
+    {
+      "what": "{value} of interventions located in CENTER in 2015",
+      "value": 6998
+    },
+    {
+      "what": "{value} of interventions located in CENTER in 2016",
+      "value": 5615
+    },
+    {
+      "what": "{value} of interventions located in EAST in 2013",
+      "value": 2484
+    },
+    {
+      "what": "{value} of interventions located in EAST in 2014",
+      "value": 2464
+    },
+    {
+      "what": "{value} of interventions located in EAST in 2015",
+      "value": 4004
+    },
+    {
+      "what": "{value} of interventions located in EAST in 2016",
+      "value": 4580
+    },
+    {
+      "what": "{value} Number of firefighters in interventions in 2013",
+      "value": 4197
+    },
+    {
+      "what": "{value} Number of firefighters in interventions in 2014",
+      "value": 4188
+    },
+    {
+      "what": "{value} Number of firefighters in interventions in 2015",
+      "value": 3947
+    },
+    {
+      "what": "{value} Number of firefighters in interventions in 2016",
+      "value": 3949
+    }
+  ]
+}
