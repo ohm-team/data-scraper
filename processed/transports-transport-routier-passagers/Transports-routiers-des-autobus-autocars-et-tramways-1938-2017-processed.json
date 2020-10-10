@@ -1,0 +1,291 @@
+{
+    "path": "transports-transport-routier-passagers/Transports-routiers-des-autobus-autocars-et-tramways-1938-2017.csv",
+    "table_description": "Road transport of buses, coaches and trams 1938 - 2017",
+    "values": [
+        {
+            "value": 8468,
+            "what": "Passengers transported (x 1,000)",
+            "when": "1938"
+        },
+        {
+            "value": 10205,
+            "what": "Passengers transported (x 1,000)",
+            "when": "1950"
+        },
+        {
+            "value": 13429,
+            "what": "Passengers transported (x 1,000)",
+            "when": "1960"
+        },
+        {
+            "value": 24418,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2000"
+        },
+        {
+            "value": 32790,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2010"
+        },
+        {
+            "value": 34405,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2011"
+        },
+        {
+            "value": 41598,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2012"
+        },
+        {
+            "value": 37743,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2013"
+        },
+        {
+            "value": 37810,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2014"
+        },
+        {
+            "value": 39180,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2015"
+        },
+        {
+            "value": 2025,
+            "what": "Cars-km (x 1,000)",
+            "when": "1950"
+        },
+        {
+            "value": 2331,
+            "what": "Cars-km (x 1,000)",
+            "when": "1960"
+        },
+        {
+            "value": 8192,
+            "what": "Cars-km (x 1,000)",
+            "when": "2010"
+        },
+        {
+            "value": 8193,
+            "what": "Cars-km (x 1,000)",
+            "when": "2011"
+        },
+        {
+            "value": 8209,
+            "what": "Cars-km (x 1,000)",
+            "when": "2012"
+        },
+        {
+            "value": 8204,
+            "what": "Cars-km (x 1,000)",
+            "when": "2013"
+        },
+        {
+            "value": 8204,
+            "what": "Cars-km (x 1,000)",
+            "when": "2014"
+        },
+        {
+            "value": 7593,
+            "what": "Cars-km (x 1,000)",
+            "when": "2015"
+        },
+        {
+            "value": 25710,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2010"
+        },
+        {
+            "value": 22866,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2011"
+        },
+        {
+            "value": 21022,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2012"
+        },
+        {
+            "value": 25105,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2013"
+        },
+        {
+            "value": 30357,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2014"
+        },
+        {
+            "value": 27512,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2015"
+        },
+        {
+            "value": 4800,
+            "what": "Passengers transported (x 1,000)",
+            "when": "1990"
+        },
+        {
+            "value": 6300,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2000"
+        },
+        {
+            "value": 7488,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2010"
+        },
+        {
+            "value": 7700,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2011"
+        },
+        {
+            "value": 7900,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2012"
+        },
+        {
+            "value": 8124,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2013"
+        },
+        {
+            "value": 8336,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2014"
+        },
+        {
+            "value": 8550,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2015"
+        },
+        {
+            "value": 8761,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2016"
+        },
+        {
+            "value": 2975,
+            "what": "Cars-km (x 1,000)",
+            "when": "2000"
+        },
+        {
+            "value": 5253,
+            "what": "Cars-km (x 1,000)",
+            "when": "2010"
+        },
+        {
+            "value": 5031,
+            "what": "Cars-km (x 1,000)",
+            "when": "2011"
+        },
+        {
+            "value": 5031,
+            "what": "Cars-km (x 1,000)",
+            "when": "2012"
+        },
+        {
+            "value": 5459,
+            "what": "Cars-km (x 1,000)",
+            "when": "2013"
+        },
+        {
+            "value": 5725,
+            "what": "Cars-km (x 1,000)",
+            "when": "2014"
+        },
+        {
+            "value": 5892,
+            "what": "Cars-km (x 1,000)",
+            "when": "2015"
+        },
+        {
+            "value": 6326,
+            "what": "Cars-km (x 1,000)",
+            "when": "2016"
+        },
+        {
+            "value": 1868,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2010"
+        },
+        {
+            "value": 1865,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2011"
+        },
+        {
+            "value": 1905,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2012"
+        },
+        {
+            "value": 2088,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2013"
+        },
+        {
+            "value": 2064,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2014"
+        },
+        {
+            "value": 1974,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2015"
+        },
+        {
+            "value": 1939,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2016"
+        },
+        {
+            "value": 19700,
+            "what": "Passengers transported (x 1,000)",
+            "when": "1990"
+        },
+        {
+            "value": 30750,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2000"
+        },
+        {
+            "value": 43000,
+            "what": "Passengers transported (x 1,000)",
+            "when": "2010"
+        },
+        {
+            "value": 7635,
+            "what": "Cars-km (x 1,000)",
+            "when": "1980"
+        },
+        {
+            "value": 9260,
+            "what": "Cars-km (x 1,000)",
+            "when": "1990"
+        },
+        {
+            "value": 54738,
+            "what": "Cars-km (x 1,000)",
+            "when": "2016"
+        },
+        {
+            "value": 56243,
+            "what": "Cars-km (x 1,000)",
+            "when": "2017"
+        },
+        {
+            "value": 2416,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2016"
+        },
+        {
+            "value": 2608,
+            "what": "Gross receipts (in 1000 EUR)",
+            "when": "2017"
+        }
+    ]
+}

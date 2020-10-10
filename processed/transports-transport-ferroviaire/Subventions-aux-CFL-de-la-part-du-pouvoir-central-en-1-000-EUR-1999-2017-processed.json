@@ -1,0 +1,181 @@
+{
+    "path": "transports-transport-ferroviaire/Subventions-aux-CFL-de-la-part-du-pouvoir-central-en-1-000-EUR-1999-2017.csv",
+    "table_description": "Central government grants to CFLs (in 1,000 EUR) 1999 - 2017",
+    "values": [
+        {
+            "value": 380544,
+            "what": "Total",
+            "when": "2018"
+        },
+        {
+            "value": 13882,
+            "what": "Contributions to CFLs in accordance with the provisions of art. 7 of the law of 28.3.1997 on the status of CFLs",
+            "when": "1999"
+        },
+        {
+            "value": 13882,
+            "what": "Contributions to CFLs in accordance with the provisions of art. 7 of the law of 28.3.1997 on the status of CFLs",
+            "when": "2000"
+        },
+        {
+            "value": 3960,
+            "what": "Contributions to CFLs in accordance with the provisions of art. 7 of the law of 28.3.1997 on the status of CFLs",
+            "when": "2013"
+        },
+        {
+            "value": 2824,
+            "what": "Contributions to CFLs in accordance with the provisions of art. 7 of the law of 28.3.1997 on the status of CFLs",
+            "when": "2016"
+        },
+        {
+            "value": 2507,
+            "what": "Contributions to CFLs in accordance with the provisions of art. 7 of the law of 28.3.1997 on the status of CFLs",
+            "when": "2017"
+        },
+        {
+            "value": 108699,
+            "what": "Pensions, waiting salaries, etc., of railway workers: share of the State",
+            "when": "1999"
+        },
+        {
+            "value": 112704,
+            "what": "Pensions, waiting salaries, etc., of railway workers: share of the State",
+            "when": "2000"
+        },
+        {
+            "value": 4000,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2010"
+        },
+        {
+            "value": 300,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2011"
+        },
+        {
+            "value": 300,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2012"
+        },
+        {
+            "value": 500,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2013"
+        },
+        {
+            "value": 8481,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2014"
+        },
+        {
+            "value": 18054,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2015"
+        },
+        {
+            "value": 101978,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2016"
+        },
+        {
+            "value": 38010,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2017"
+        },
+        {
+            "value": 42177,
+            "what": "Participation in the capital of lux-Tram S.A.",
+            "when": "2018"
+        },
+        {
+            "value": 11500,
+            "what": "Feeding the bottom of the rail",
+            "when": "2010"
+        },
+        {
+            "value": 11500,
+            "what": "Feeding the bottom of the rail",
+            "when": "2011"
+        },
+        {
+            "value": 12000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2012"
+        },
+        {
+            "value": 10000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2013"
+        },
+        {
+            "value": 10000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2014"
+        },
+        {
+            "value": 160000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2015"
+        },
+        {
+            "value": 300000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2016"
+        },
+        {
+            "value": 10000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2017"
+        },
+        {
+            "value": 20000,
+            "what": "Feeding the bottom of the rail",
+            "when": "2018"
+        },
+        {
+            "value": 5000,
+            "what": "Funding of international rail connections",
+            "when": "2010"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2011"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2012"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2013"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2014"
+        },
+        {
+            "value": 1000,
+            "what": "Funding of international rail connections",
+            "when": "2015"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2016"
+        },
+        {
+            "value": 2000,
+            "what": "Funding of international rail connections",
+            "when": "2017"
+        },
+        {
+            "value": 1000,
+            "what": "Funding of international rail connections",
+            "when": "2018"
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "path": "sciences-et-technologies-brevets/Demandes-de-brevets-luxembourgeois-d-pos-es-r-parties-selon-le-domaine-technique-auquel-appartient-l-invention-1980-2018.csv",
+    "table_description": "Luxembourg patent applications filed, broken down according to the technical field to which the invention belongs 1980 - 2018",
+    "values": [
+        {
+            "value": 994,
+            "what": "Total",
+            "when": "1980"
+        },
+        {
+            "value": 206,
+            "what": "Total",
+            "when": "1990"
+        },
+        {
+            "value": 196,
+            "what": "Total",
+            "when": "2000"
+        },
+        {
+            "value": 135,
+            "what": "Total",
+            "when": "2010"
+        },
+        {
+            "value": 160,
+            "what": "Total",
+            "when": "2011"
+        },
+        {
+            "value": 206,
+            "what": "Total",
+            "when": "2012"
+        },
+        {
+            "value": 230,
+            "what": "Total",
+            "when": "2013"
+        },
+        {
+            "value": 282,
+            "what": "Total",
+            "when": "2014"
+        },
+        {
+            "value": 313,
+            "what": "Total",
+            "when": "2015"
+        },
+        {
+            "value": 509,
+            "what": "Total",
+            "when": "2016"
+        },
+        {
+            "value": 544,
+            "what": "Total",
+            "when": "2017"
+        },
+        {
+            "value": 467,
+            "what": "Total",
+            "when": "2018"
+        },
+        {
+            "value": 26,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2000"
+        },
+        {
+            "value": 35,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2010"
+        },
+        {
+            "value": 32,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2011"
+        },
+        {
+            "value": 45,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2012"
+        },
+        {
+            "value": 61,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2013"
+        },
+        {
+            "value": 64,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2014"
+        },
+        {
+            "value": 66,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2015"
+        },
+        {
+            "value": 65,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2016"
+        },
+        {
+            "value": 57,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2017"
+        },
+        {
+            "value": 44,
+            "what": "of which: supplementary protection certificates for medicines",
+            "when": "2018"
+        },
+        {
+            "value": 109,
+            "what": "Common necessities of life",
+            "when": "1980"
+        },
+        {
+            "value": 43,
+            "what": "Common necessities of life",
+            "when": "1990"
+        },
+        {
+            "value": 4,
+            "what": "Common necessities of life",
+            "when": "2000"
+        },
+        {
+            "value": 7,
+            "what": "Common necessities of life",
+            "when": "2010"
+        },
+        {
+            "value": 7,
+            "what": "Common necessities of life",
+            "when": "2011"
+        },
+        {
+            "value": 9,
+            "what": "Common necessities of life",
+            "when": "2012"
+        },
+        {
+            "value": 7,
+            "what": "Common necessities of life",
+            "when": "2013"
+        },
+        {
+            "value": 15,
+            "what": "Common necessities of life",
+            "when": "2014"
+        },
+        {
+            "value": 11,
+            "what": "Common necessities of life",
+            "when": "2015"
+        },
+        {
+            "value": 23,
+            "what": "Common necessities of life",
+            "when": "2016"
+        },
+        {
+            "value": 168,
+            "what": "Common necessities of life",
+            "when": "2017"
+        },
+        {
+            "value": 156,
+            "what": "Common necessities of life",
+            "when": "2018"
+        },
+        {
+            "value": 178,
+            "what": "Transportation",
+            "when": "1980"
+        },
+        {
+            "value": 41,
+            "what": "Transportation",
+            "when": "1990"
+        },
+        {
+            "value": 20,
+            "what": "Transportation",
+            "when": "2000"
+        },
+        {
+            "value": 7,
+            "what": "Transportation",
+            "when": "2010"
+        },
+        {
+            "value": 9,
+            "what": "Transportation",
+            "when": "2011"
+        },
+        {
+            "value": 20,
+            "what": "Transportation",
+            "when": "2012"
+        },
+        {
+            "value": 9,
+            "what": "Transportation",
+            "when": "2013"
+        },
+        {
+            "value": 12,
+            "what": "Transportation",
+            "when": "2014"
+        },
+        {
+            "value": 8,
+            "what": "Transportation",
+            "when": "2015"
+        },
+        {
+            "value": 19,
+            "what": "Transportation",
+            "when": "2016"
+        },
+        {
+            "value": 227,
+            "what": "Transportation",
+            "when": "2017"
+        },
+        {
+            "value": 232,
+            "what": "Transportation",
+            "when": "2018"
+        },
+        {
+            "value": 419,
+            "what": "Chemistry and metallurgy",
+            "when": "1980"
+        },
+        {
+            "value": 58,
+            "what": "Chemistry and metallurgy",
+            "when": "1990"
+        },
+        {
+            "value": 26,
+            "what": "Chemistry and metallurgy",
+            "when": "2000"
+        },
+        {
+            "value": 2,
+            "what": "Chemistry and metallurgy",
+            "when": "2010"
+        },
+        {
+            "value": 9,
+            "what": "Chemistry and metallurgy",
+            "when": "2011"
+        },
+        {
+            "value": 17,
+            "what": "Chemistry and metallurgy",
+            "when": "2012"
+        },
+        {
+            "value": 6,
+            "what": "Chemistry and metallurgy",
+            "when": "2013"
+        },
+        {
+            "value": 6,
+            "what": "Chemistry and metallurgy",
+            "when": "2014"
+        },
+        {
+            "value": 16,
+            "what": "Chemistry and metallurgy",
+            "when": "2015"
+        },
+        {
+            "value": 15,
+            "what": "Chemistry and metallurgy",
+            "when": "2016"
+        },
+        {
+            "value": 97,
+            "what": "Chemistry and metallurgy",
+            "when": "2017"
+        },
+        {
+            "value": 95,
+            "what": "Chemistry and metallurgy",
+            "when": "2018"
+        },
+        {
+            "value": 20,
+            "what": "Textiles and paper",
+            "when": "1980"
+        },
+        {
+            "value": 4,
+            "what": "Textiles and paper",
+            "when": "1990"
+        },
+        {
+            "value": 1,
+            "what": "Textiles and paper",
+            "when": "2000"
+        },
+        {
+            "value": 1,
+            "what": "Textiles and paper",
+            "when": "2012"
+        },
+        {
+            "value": 8,
+            "what": "Textiles and paper",
+            "when": "2017"
+        },
+        {
+            "value": 28,
+            "what": "Textiles and paper",
+            "when": "2018"
+        },
+        {
+            "value": 73,
+            "what": "Fixed constructions",
+            "when": "1980"
+        },
+        {
+            "value": 10,
+            "what": "Fixed constructions",
+            "when": "1990"
+        },
+        {
+            "value": 4,
+            "what": "Fixed constructions",
+            "when": "2000"
+        },
+        {
+            "value": 1,
+            "what": "Fixed constructions",
+            "when": "2010"
+        },
+        {
+            "value": 1,
+            "what": "Fixed constructions",
+            "when": "2011"
+        },
+        {
+            "value": 6,
+            "what": "Fixed constructions",
+            "when": "2012"
+        },
+        {
+            "value": 6,
+            "what": "Fixed constructions",
+            "when": "2013"
+        },
+        {
+            "value": 4,
+            "what": "Fixed constructions",
+            "when": "2014"
+        },
+        {
+            "value": 1,
+            "what": "Fixed constructions",
+            "when": "2015"
+        },
+        {
+            "value": 6,
+            "what": "Fixed constructions",
+            "when": "2016"
+        },
+        {
+            "value": 46,
+            "what": "Fixed constructions",
+            "when": "2017"
+        },
+        {
+            "value": 48,
+            "what": "Fixed constructions",
+            "when": "2018"
+        },
+        {
+            "value": 78,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "1980"
+        },
+        {
+            "value": 10,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "1990"
+        },
+        {
+            "value": 7,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2000"
+        },
+        {
+            "value": 11,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2010"
+        },
+        {
+            "value": 9,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2011"
+        },
+        {
+            "value": 13,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2012"
+        },
+        {
+            "value": 5,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2013"
+        },
+        {
+            "value": 11,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2014"
+        },
+        {
+            "value": 5,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2015"
+        },
+        {
+            "value": 11,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2016"
+        },
+        {
+            "value": 140,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2017"
+        },
+        {
+            "value": 95,
+            "what": "Mechanics, lighting, heating, arming and blasting",
+            "when": "2018"
+        },
+        {
+            "value": 55,
+            "what": "Physical",
+            "when": "1980"
+        },
+        {
+            "value": 23,
+            "what": "Physical",
+            "when": "1990"
+        },
+        {
+            "value": 7,
+            "what": "Physical",
+            "when": "2000"
+        },
+        {
+            "value": 5,
+            "what": "Physical",
+            "when": "2010"
+        },
+        {
+            "value": 7,
+            "what": "Physical",
+            "when": "2011"
+        },
+        {
+            "value": 7,
+            "what": "Physical",
+            "when": "2012"
+        },
+        {
+            "value": 7,
+            "what": "Physical",
+            "when": "2013"
+        },
+        {
+            "value": 14,
+            "what": "Physical",
+            "when": "2014"
+        },
+        {
+            "value": 16,
+            "what": "Physical",
+            "when": "2015"
+        },
+        {
+            "value": 22,
+            "what": "Physical",
+            "when": "2016"
+        },
+        {
+            "value": 107,
+            "what": "Physical",
+            "when": "2017"
+        },
+        {
+            "value": 190,
+            "what": "Physical",
+            "when": "2018"
+        },
+        {
+            "value": 62,
+            "what": "Not classified",
+            "when": "1980"
+        },
+        {
+            "value": 17,
+            "what": "Not classified",
+            "when": "1990"
+        },
+        {
+            "value": 127,
+            "what": "Not classified",
+            "when": "2000"
+        },
+        {
+            "value": 102,
+            "what": "Not classified",
+            "when": "2010"
+        },
+        {
+            "value": 118,
+            "what": "Not classified",
+            "when": "2011"
+        },
+        {
+            "value": 133,
+            "what": "Not classified",
+            "when": "2012"
+        },
+        {
+            "value": 190,
+            "what": "Not classified",
+            "when": "2013"
+        },
+        {
+            "value": 220,
+            "what": "Not classified",
+            "when": "2014"
+        },
+        {
+            "value": 256,
+            "what": "Not classified",
+            "when": "2015"
+        },
+        {
+            "value": 370,
+            "what": "Not classified",
+            "when": "2016"
+        },
+        {
+            "value": 129,
+            "what": "Not classified",
+            "when": "2017"
+        },
+        {
+            "value": 190,
+            "what": "Not classified",
+            "when": "2018"
+        }
+    ]
+}

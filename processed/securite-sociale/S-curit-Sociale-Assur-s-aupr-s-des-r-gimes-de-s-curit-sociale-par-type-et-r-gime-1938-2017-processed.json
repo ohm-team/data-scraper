@@ -1,0 +1,526 @@
+{
+    "path": "securite-sociale/S-curit-Sociale-Assur-s-aupr-s-des-r-gimes-de-s-curit-sociale-par-type-et-r-gime-1938-2017.csv",
+    "table_description": "Social Security / Insured with social security schemes by type and scheme 1938 - 2017",
+    "values": [
+        {
+            "value": 179980,
+            "what": "Sickness and maternity insurance",
+            "when": "1970"
+        },
+        {
+            "value": 218752,
+            "what": "Sickness and maternity insurance",
+            "when": "1980"
+        },
+        {
+            "value": 260875,
+            "what": "Sickness and maternity insurance",
+            "when": "1990"
+        },
+        {
+            "value": 352636,
+            "what": "Sickness and maternity insurance",
+            "when": "2000"
+        },
+        {
+            "value": 474966,
+            "what": "Sickness and maternity insurance",
+            "when": "2010"
+        },
+        {
+            "value": 501681,
+            "what": "Sickness and maternity insurance",
+            "when": "2012"
+        },
+        {
+            "value": 512657,
+            "what": "Sickness and maternity insurance",
+            "when": "2013"
+        },
+        {
+            "value": 525414,
+            "what": "Sickness and maternity insurance",
+            "when": "2014"
+        },
+        {
+            "value": 538932,
+            "what": "Sickness and maternity insurance",
+            "when": "2015"
+        },
+        {
+            "value": 555056,
+            "what": "Sickness and maternity insurance",
+            "when": "2016"
+        },
+        {
+            "value": 572608,
+            "what": "Sickness and maternity insurance",
+            "when": "2017"
+        },
+        {
+            "value": 55407,
+            "what": "Workers' sickness funds",
+            "when": "1938"
+        },
+        {
+            "value": 83739,
+            "what": "Workers' sickness funds",
+            "when": "1950"
+        },
+        {
+            "value": 86696,
+            "what": "Workers' sickness funds",
+            "when": "1960"
+        },
+        {
+            "value": 97184,
+            "what": "Workers' sickness funds",
+            "when": "1970"
+        },
+        {
+            "value": 111518,
+            "what": "Workers' sickness funds",
+            "when": "1980"
+        },
+        {
+            "value": 125128,
+            "what": "Workers' sickness funds",
+            "when": "1990"
+        },
+        {
+            "value": 156909,
+            "what": "Workers' sickness funds",
+            "when": "2000"
+        },
+        {
+            "value": 41612,
+            "what": "Sickness fund for civil servants and employees",
+            "when": "1960"
+        },
+        {
+            "value": 56631,
+            "what": "Sickness fund for civil servants and employees",
+            "when": "1970"
+        },
+        {
+            "value": 80726,
+            "what": "Sickness fund for civil servants and employees",
+            "when": "1980"
+        },
+        {
+            "value": 112012,
+            "what": "Sickness fund for civil servants and employees",
+            "when": "1990"
+        },
+        {
+            "value": 171449,
+            "what": "Sickness fund for civil servants and employees",
+            "when": "2000"
+        },
+        {
+            "value": 15210,
+            "what": "Sickness fund for independent professions",
+            "when": "1960"
+        },
+        {
+            "value": 14280,
+            "what": "Sickness fund for independent professions",
+            "when": "1970"
+        },
+        {
+            "value": 14613,
+            "what": "Sickness fund for independent professions",
+            "when": "1980"
+        },
+        {
+            "value": 14642,
+            "what": "Sickness fund for independent professions",
+            "when": "1990"
+        },
+        {
+            "value": 15949,
+            "what": "Sickness fund for independent professions",
+            "when": "2000"
+        },
+        {
+            "value": 11885,
+            "what": "Agricultural sickness fund",
+            "when": "1970"
+        },
+        {
+            "value": 11895,
+            "what": "Agricultural sickness fund",
+            "when": "1980"
+        },
+        {
+            "value": 9093,
+            "what": "Agricultural sickness fund",
+            "when": "1990"
+        },
+        {
+            "value": 8329,
+            "what": "Agricultural sickness fund",
+            "when": "2000"
+        },
+        {
+            "value": 100360,
+            "what": "Pension insurance",
+            "when": "1960"
+        },
+        {
+            "value": 120381,
+            "what": "Pension insurance",
+            "when": "1970"
+        },
+        {
+            "value": 142276,
+            "what": "Pension insurance",
+            "when": "1980"
+        },
+        {
+            "value": 175389,
+            "what": "Pension insurance",
+            "when": "1990"
+        },
+        {
+            "value": 252040,
+            "what": "Pension insurance",
+            "when": "2000"
+        },
+        {
+            "value": 347886,
+            "what": "Pension insurance",
+            "when": "2010"
+        },
+        {
+            "value": 357934,
+            "what": "Pension insurance",
+            "when": "2011"
+        },
+        {
+            "value": 367292,
+            "what": "Pension insurance",
+            "when": "2012"
+        },
+        {
+            "value": 374925,
+            "what": "Pension insurance",
+            "when": "2013"
+        },
+        {
+            "value": 383756,
+            "what": "Pension insurance",
+            "when": "2014"
+        },
+        {
+            "value": 393510,
+            "what": "Pension insurance",
+            "when": "2015"
+        },
+        {
+            "value": 405583,
+            "what": "Pension insurance",
+            "when": "2016"
+        },
+        {
+            "value": 420162,
+            "what": "Pension insurance",
+            "when": "2017"
+        },
+        {
+            "value": 347886,
+            "what": "National pension insurance fund",
+            "when": "2010"
+        },
+        {
+            "value": 357934,
+            "what": "National pension insurance fund",
+            "when": "2011"
+        },
+        {
+            "value": 367292,
+            "what": "National pension insurance fund",
+            "when": "2012"
+        },
+        {
+            "value": 374925,
+            "what": "National pension insurance fund",
+            "when": "2013"
+        },
+        {
+            "value": 383756,
+            "what": "National pension insurance fund",
+            "when": "2014"
+        },
+        {
+            "value": 393510,
+            "what": "National pension insurance fund",
+            "when": "2015"
+        },
+        {
+            "value": 405583,
+            "what": "National pension insurance fund",
+            "when": "2016"
+        },
+        {
+            "value": 420162,
+            "what": "National pension insurance fund",
+            "when": "2017"
+        },
+        {
+            "value": 66666,
+            "what": "Establishment of insurance against old age and invalidity",
+            "when": "1960"
+        },
+        {
+            "value": 71846,
+            "what": "Establishment of insurance against old age and invalidity",
+            "when": "1970"
+        },
+        {
+            "value": 80095,
+            "what": "Establishment of insurance against old age and invalidity",
+            "when": "1980"
+        },
+        {
+            "value": 88419,
+            "what": "Establishment of insurance against old age and invalidity",
+            "when": "1990"
+        },
+        {
+            "value": 113765,
+            "what": "Establishment of insurance against old age and invalidity",
+            "when": "2000"
+        },
+        {
+            "value": 16041,
+            "what": "Pension fund for private employees",
+            "when": "1960"
+        },
+        {
+            "value": 27931,
+            "what": "Pension fund for private employees",
+            "when": "1970"
+        },
+        {
+            "value": 42164,
+            "what": "Pension fund for private employees",
+            "when": "1980"
+        },
+        {
+            "value": 69837,
+            "what": "Pension fund for private employees",
+            "when": "1990"
+        },
+        {
+            "value": 122569,
+            "what": "Pension fund for private employees",
+            "when": "2000"
+        },
+        {
+            "value": 10312,
+            "what": "Agricultural pension fund",
+            "when": "1960"
+        },
+        {
+            "value": 7218,
+            "what": "Agricultural pension fund",
+            "when": "1970"
+        },
+        {
+            "value": 7838,
+            "what": "Agricultural pension fund",
+            "when": "1980"
+        },
+        {
+            "value": 5157,
+            "what": "Agricultural pension fund",
+            "when": "1990"
+        },
+        {
+            "value": 3343,
+            "what": "Agricultural pension fund",
+            "when": "2000"
+        },
+        {
+            "value": 5375,
+            "what": "Pension fund for craftsmen, traders and manufacturers",
+            "when": "1960"
+        },
+        {
+            "value": 11086,
+            "what": "Pension fund for craftsmen, traders and manufacturers",
+            "when": "1970"
+        },
+        {
+            "value": 9506,
+            "what": "Pension fund for craftsmen, traders and manufacturers",
+            "when": "1980"
+        },
+        {
+            "value": 8878,
+            "what": "Pension fund for craftsmen, traders and manufacturers",
+            "when": "1990"
+        },
+        {
+            "value": 9321,
+            "what": "Pension fund for craftsmen, traders and manufacturers",
+            "when": "2000"
+        },
+        {
+            "value": 13115,
+            "what": "Industrial section",
+            "when": "1960"
+        },
+        {
+            "value": 14033,
+            "what": "Industrial section",
+            "when": "1970"
+        },
+        {
+            "value": 14538,
+            "what": "Industrial section",
+            "when": "1980"
+        },
+        {
+            "value": 14466,
+            "what": "Industrial section",
+            "when": "1990"
+        },
+        {
+            "value": 24413,
+            "what": "Industrial section",
+            "when": "2000"
+        },
+        {
+            "value": 40760,
+            "what": "Industrial section",
+            "when": "2010"
+        },
+        {
+            "value": 41514,
+            "what": "Industrial section",
+            "when": "2011"
+        },
+        {
+            "value": 43280,
+            "what": "Industrial section",
+            "when": "2012"
+        },
+        {
+            "value": 45429,
+            "what": "Industrial section",
+            "when": "2013"
+        },
+        {
+            "value": 46033,
+            "what": "Industrial section",
+            "when": "2014"
+        },
+        {
+            "value": 47476,
+            "what": "Industrial section",
+            "when": "2015"
+        },
+        {
+            "value": 49148,
+            "what": "Industrial section",
+            "when": "2016"
+        },
+        {
+            "value": 35660,
+            "what": "Agriculture and forestry section",
+            "when": "1938"
+        },
+        {
+            "value": 32985,
+            "what": "Agriculture and forestry section",
+            "when": "1950"
+        },
+        {
+            "value": 27920,
+            "what": "Agriculture and forestry section",
+            "when": "1960"
+        },
+        {
+            "value": 20436,
+            "what": "Agriculture and forestry section",
+            "when": "1970"
+        },
+        {
+            "value": 17789,
+            "what": "Agriculture and forestry section",
+            "when": "1980"
+        },
+        {
+            "value": 16151,
+            "what": "Agriculture and forestry section",
+            "when": "1990"
+        },
+        {
+            "value": 4179,
+            "what": "Agriculture and forestry section",
+            "when": "2000"
+        },
+        {
+            "value": 3012,
+            "what": "Agriculture and forestry section",
+            "when": "2010"
+        },
+        {
+            "value": 1923,
+            "what": "compulsory diet",
+            "when": "2000"
+        },
+        {
+            "value": 1628,
+            "what": "compulsory diet",
+            "when": "2010"
+        },
+        {
+            "value": 2256,
+            "what": "voluntary scheme",
+            "when": "2000"
+        },
+        {
+            "value": 1384,
+            "what": "voluntary scheme",
+            "when": "2010"
+        },
+        {
+            "value": 1196,
+            "what": "voluntary scheme",
+            "when": "2011"
+        },
+        {
+            "value": 915,
+            "what": "voluntary scheme",
+            "when": "2012"
+        },
+        {
+            "value": 847,
+            "what": "voluntary scheme",
+            "when": "2013"
+        },
+        {
+            "value": 803,
+            "what": "voluntary scheme",
+            "when": "2014"
+        },
+        {
+            "value": 718,
+            "what": "voluntary scheme",
+            "when": "2015"
+        },
+        {
+            "value": 632,
+            "what": "voluntary scheme",
+            "when": "2016"
+        },
+        {
+            "value": 591,
+            "what": "voluntary scheme",
+            "when": "2017"
+        }
+    ]
+}

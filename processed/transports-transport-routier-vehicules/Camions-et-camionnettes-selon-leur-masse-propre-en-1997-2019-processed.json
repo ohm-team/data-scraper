@@ -1,0 +1,76 @@
+{
+    "path": "transports-transport-routier-vehicules/Camions-et-camionnettes-selon-leur-masse-propre-en-1997-2019.csv",
+    "table_description": "Trucks and vans according to their own mass (in%) 1997 - 2019",
+    "values": [
+        {
+            "value": 16276,
+            "what": "Trucks and vans",
+            "when": "1997"
+        },
+        {
+            "value": 19226,
+            "what": "Trucks and vans",
+            "when": "2000"
+        },
+        {
+            "value": 29191,
+            "what": "Trucks and vans",
+            "when": "2010"
+        },
+        {
+            "value": 30158,
+            "what": "Trucks and vans",
+            "when": "2011"
+        },
+        {
+            "value": 31457,
+            "what": "Trucks and vans",
+            "when": "2012"
+        },
+        {
+            "value": 32385,
+            "what": "Trucks and vans",
+            "when": "2013"
+        },
+        {
+            "value": 32933,
+            "what": "Trucks and vans",
+            "when": "2014"
+        },
+        {
+            "value": 33832,
+            "what": "Trucks and vans",
+            "when": "2015"
+        },
+        {
+            "value": 35072,
+            "what": "Trucks and vans",
+            "when": "2016"
+        },
+        {
+            "value": 36732,
+            "what": "Trucks and vans",
+            "when": "2017"
+        },
+        {
+            "value": 38558,
+            "what": "Trucks and vans",
+            "when": "2018"
+        },
+        {
+            "value": 40181,
+            "what": "Trucks and vans",
+            "when": "2019"
+        },
+        {
+            "value": 42017,
+            "what": "Trucks and vans",
+            "when": "2020"
+        },
+        {
+            "value": 21,
+            "what": "1,000 - 1,499 kg",
+            "when": "2015"
+        }
+    ]
+}

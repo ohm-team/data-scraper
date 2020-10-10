@@ -1,0 +1,246 @@
+{
+    "path": "sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-selon-la-Convention-de-Munich-et-le-Trait-de-coop-ration-en-mati-re-de-brevets-PCT-1980-2018.csv",
+    "table_description": "Patent applications filed under the Munich Convention and the Patent Cooperation Treaty (PCT) 1980 - 2018",
+    "values": [
+        {
+            "value": 487,
+            "what": "European patents granted",
+            "when": "1980"
+        },
+        {
+            "value": 24757,
+            "what": "European patents granted",
+            "when": "1990"
+        },
+        {
+            "value": 27523,
+            "what": "European patents granted",
+            "when": "2000"
+        },
+        {
+            "value": 58108,
+            "what": "European patents granted",
+            "when": "2010"
+        },
+        {
+            "value": 62112,
+            "what": "European patents granted",
+            "when": "2011"
+        },
+        {
+            "value": 65687,
+            "what": "European patents granted",
+            "when": "2012"
+        },
+        {
+            "value": 66712,
+            "what": "European patents granted",
+            "when": "2013"
+        },
+        {
+            "value": 64613,
+            "what": "European patents granted",
+            "when": "2014"
+        },
+        {
+            "value": 68421,
+            "what": "European patents granted",
+            "when": "2015"
+        },
+        {
+            "value": 95940,
+            "what": "European patents granted",
+            "when": "2016"
+        },
+        {
+            "value": 105635,
+            "what": "European patents granted",
+            "when": "2017"
+        },
+        {
+            "value": 127625,
+            "what": "European patents granted",
+            "when": "2018"
+        },
+        {
+            "value": 87,
+            "what": "of which: with effect in Luxembourg",
+            "when": "1980"
+        },
+        {
+            "value": 6497,
+            "what": "of which: with effect in Luxembourg",
+            "when": "1990"
+        },
+        {
+            "value": 5838,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2000"
+        },
+        {
+            "value": 39185,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2010"
+        },
+        {
+            "value": 45169,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2011"
+        },
+        {
+            "value": 51030,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2012"
+        },
+        {
+            "value": 55810,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2013"
+        },
+        {
+            "value": 57623,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2014"
+        },
+        {
+            "value": 62832,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2015"
+        },
+        {
+            "value": 90151,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2016"
+        },
+        {
+            "value": 100984,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2017"
+        },
+        {
+            "value": 123709,
+            "what": "of which: with effect in Luxembourg",
+            "when": "2018"
+        },
+        {
+            "value": 14232,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "1980"
+        },
+        {
+            "value": 56371,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "1990"
+        },
+        {
+            "value": 100692,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2000"
+        },
+        {
+            "value": 150961,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2010"
+        },
+        {
+            "value": 142810,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2011"
+        },
+        {
+            "value": 148494,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2012"
+        },
+        {
+            "value": 147869,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2013"
+        },
+        {
+            "value": 151981,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2014"
+        },
+        {
+            "value": 160022,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2015"
+        },
+        {
+            "value": 159353,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2016"
+        },
+        {
+            "value": 165590,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2017"
+        },
+        {
+            "value": 174317,
+            "what": "European patent applications published in the EPO Bulletin",
+            "when": "2018"
+        },
+        {
+            "value": 3847,
+            "what": "of which: with designation of Luxembourg",
+            "when": "1980"
+        },
+        {
+            "value": 17782,
+            "what": "of which: with designation of Luxembourg",
+            "when": "1990"
+        },
+        {
+            "value": 74088,
+            "what": "of which: with designation of Luxembourg",
+            "when": "2000"
+        },
+        {
+            "value": 124745,
+            "what": "of which: with designation of Luxembourg",
+            "when": "2010"
+        },
+        {
+            "value": 141326,
+            "what": "of which: with designation of Luxembourg",
+            "when": "2011"
+        },
+        {
+            "value": 147554,
+            "what": "of which: with designation of Luxembourg",
+            "when": "2012"
+        },
+        {
+            "value": 2902,
+            "what": "PCT and Euro-PCT applications published in the PCT Gazette",
+            "when": "1980"
+        },
+        {
+            "value": 16102,
+            "what": "PCT and Euro-PCT applications published in the PCT Gazette",
+            "when": "1990"
+        },
+        {
+            "value": 441,
+            "what": "of which: Euro-PCT with designation of Luxembourg (European patent)",
+            "when": "1980"
+        },
+        {
+            "value": 14073,
+            "what": "of which: Euro-PCT with designation of Luxembourg (European patent)",
+            "when": "1990"
+        },
+        {
+            "value": 104,
+            "what": "of which: PCT with designation of Luxembourg (national patent)",
+            "when": "1980"
+        },
+        {
+            "value": 1502,
+            "what": "of which: PCT with designation of Luxembourg (national patent)",
+            "when": "1990"
+        }
+    ]
+}

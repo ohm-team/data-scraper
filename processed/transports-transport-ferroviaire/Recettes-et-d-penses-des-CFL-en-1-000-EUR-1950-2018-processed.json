@@ -1,0 +1,11 @@
+{
+    "path": "transports-transport-ferroviaire/Recettes-et-d-penses-des-CFL-en-1-000-EUR-1950-2018.csv",
+    "table_description": "CFL revenue and expenditure (in 1,000 EUR) 1950 - 2018",
+    "values": [
+        {
+            "value": 531164,
+            "what": "Total operating revenue",
+            "when": "2010"
+        }
+    ]
+}

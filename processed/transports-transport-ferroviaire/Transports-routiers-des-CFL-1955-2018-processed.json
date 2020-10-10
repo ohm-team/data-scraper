@@ -1,0 +1,436 @@
+{
+    "path": "transports-transport-ferroviaire/Transports-routiers-des-CFL-1955-2018.csv",
+    "table_description": "CFL road transport 1955 - 2018",
+    "values": [
+        {
+            "value": 190,
+            "what": "to travelers",
+            "when": "1960"
+        },
+        {
+            "value": 1493,
+            "what": "to travelers",
+            "when": "1970"
+        },
+        {
+            "value": 395,
+            "what": "to travelers",
+            "when": "1980"
+        },
+        {
+            "value": 395,
+            "what": "to travelers",
+            "when": "1990"
+        },
+        {
+            "value": 395,
+            "what": "to travelers",
+            "when": "2000"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2010"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2011"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2012"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2013"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2014"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2015"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2016"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2017"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2018"
+        },
+        {
+            "value": 500,
+            "what": "to travelers",
+            "when": "2019"
+        },
+        {
+            "value": 147,
+            "what": "to goods",
+            "when": "1960"
+        },
+        {
+            "value": 262,
+            "what": "to goods",
+            "when": "1970"
+        },
+        {
+            "value": 262,
+            "what": "to goods",
+            "when": "1980"
+        },
+        {
+            "value": 262,
+            "what": "to goods",
+            "when": "1990"
+        },
+        {
+            "value": 262,
+            "what": "to goods",
+            "when": "2000"
+        },
+        {
+            "value": 32,
+            "what": "Bus",
+            "when": "1955"
+        },
+        {
+            "value": 36,
+            "what": "Bus",
+            "when": "1960"
+        },
+        {
+            "value": 49,
+            "what": "Bus",
+            "when": "1970"
+        },
+        {
+            "value": 49,
+            "what": "Bus",
+            "when": "1980"
+        },
+        {
+            "value": 49,
+            "what": "Bus",
+            "when": "1990"
+        },
+        {
+            "value": 49,
+            "what": "Bus",
+            "when": "2000"
+        },
+        {
+            "value": 63,
+            "what": "Bus",
+            "when": "2010"
+        },
+        {
+            "value": 63,
+            "what": "Bus",
+            "when": "2011"
+        },
+        {
+            "value": 63,
+            "what": "Bus",
+            "when": "2012"
+        },
+        {
+            "value": 62,
+            "what": "Bus",
+            "when": "2013"
+        },
+        {
+            "value": 62,
+            "what": "Bus",
+            "when": "2014"
+        },
+        {
+            "value": 60,
+            "what": "Bus",
+            "when": "2015"
+        },
+        {
+            "value": 63,
+            "what": "Bus",
+            "when": "2016"
+        },
+        {
+            "value": 68,
+            "what": "Bus",
+            "when": "2017"
+        },
+        {
+            "value": 68,
+            "what": "Bus",
+            "when": "2018"
+        },
+        {
+            "value": 77,
+            "what": "Bus",
+            "when": "2019"
+        },
+        {
+            "value": 1434,
+            "what": "Number of seats",
+            "when": "1955"
+        },
+        {
+            "value": 1606,
+            "what": "Number of seats",
+            "when": "1960"
+        },
+        {
+            "value": 2190,
+            "what": "Number of seats",
+            "when": "1970"
+        },
+        {
+            "value": 2510,
+            "what": "Number of seats",
+            "when": "1980"
+        },
+        {
+            "value": 2511,
+            "what": "Number of seats",
+            "when": "1990"
+        },
+        {
+            "value": 2795,
+            "what": "Number of seats",
+            "when": "2000"
+        },
+        {
+            "value": 3588,
+            "what": "Number of seats",
+            "when": "2010"
+        },
+        {
+            "value": 3588,
+            "what": "Number of seats",
+            "when": "2011"
+        },
+        {
+            "value": 3588,
+            "what": "Number of seats",
+            "when": "2012"
+        },
+        {
+            "value": 3611,
+            "what": "Number of seats",
+            "when": "2013"
+        },
+        {
+            "value": 3611,
+            "what": "Number of seats",
+            "when": "2014"
+        },
+        {
+            "value": 3484,
+            "what": "Number of seats",
+            "when": "2015"
+        },
+        {
+            "value": 3725,
+            "what": "Number of seats",
+            "when": "2016"
+        },
+        {
+            "value": 3864,
+            "what": "Number of seats",
+            "when": "2017"
+        },
+        {
+            "value": 3864,
+            "what": "Number of seats",
+            "when": "2018"
+        },
+        {
+            "value": 4469,
+            "what": "Number of seats",
+            "when": "2019"
+        },
+        {
+            "value": 5,
+            "what": "Baggage trailers",
+            "when": "1955"
+        },
+        {
+            "value": 11,
+            "what": "Baggage trailers",
+            "when": "1960"
+        },
+        {
+            "value": 9,
+            "what": "Baggage trailers",
+            "when": "1970"
+        },
+        {
+            "value": 1,
+            "what": "Baggage trailers",
+            "when": "2000"
+        },
+        {
+            "value": 14,
+            "what": "Trucks",
+            "when": "1955"
+        },
+        {
+            "value": 15,
+            "what": "Trucks",
+            "when": "1960"
+        },
+        {
+            "value": 19,
+            "what": "Trucks",
+            "when": "1970"
+        },
+        {
+            "value": 27,
+            "what": "Trucks",
+            "when": "1980"
+        },
+        {
+            "value": 15,
+            "what": "Trucks",
+            "when": "1990"
+        },
+        {
+            "value": 1579417,
+            "what": "Vehicle-km",
+            "when": "1955"
+        },
+        {
+            "value": 2088969,
+            "what": "Vehicle-km",
+            "when": "1960"
+        },
+        {
+            "value": 3780721,
+            "what": "Vehicle-km",
+            "when": "1970"
+        },
+        {
+            "value": 3758808,
+            "what": "Vehicle-km",
+            "when": "1980"
+        },
+        {
+            "value": 3933171,
+            "what": "Vehicle-km",
+            "when": "1990"
+        },
+        {
+            "value": 4603506,
+            "what": "Vehicle-km",
+            "when": "2000"
+        },
+        {
+            "value": 5267724,
+            "what": "Vehicle-km",
+            "when": "2010"
+        },
+        {
+            "value": 5300391,
+            "what": "Vehicle-km",
+            "when": "2011"
+        },
+        {
+            "value": 5347429,
+            "what": "Vehicle-km",
+            "when": "2012"
+        },
+        {
+            "value": 5328785,
+            "what": "Vehicle-km",
+            "when": "2013"
+        },
+        {
+            "value": 5529618,
+            "what": "Vehicle-km",
+            "when": "2014"
+        },
+        {
+            "value": 5728092,
+            "what": "Vehicle-km",
+            "when": "2015"
+        },
+        {
+            "value": 5728942,
+            "what": "Vehicle-km",
+            "when": "2016"
+        },
+        {
+            "value": 6011471,
+            "what": "Vehicle-km",
+            "when": "2017"
+        },
+        {
+            "value": 6179798,
+            "what": "Vehicle-km",
+            "when": "2018"
+        },
+        {
+            "value": 6584683,
+            "what": "Vehicle-km",
+            "when": "2019"
+        },
+        {
+            "value": 161465,
+            "what": "Vehicle-km",
+            "when": "1955"
+        },
+        {
+            "value": 281520,
+            "what": "Vehicle-km",
+            "when": "1960"
+        },
+        {
+            "value": 585573,
+            "what": "Vehicle-km",
+            "when": "1970"
+        },
+        {
+            "value": 559476,
+            "what": "Vehicle-km",
+            "when": "1980"
+        },
+        {
+            "value": 393120,
+            "what": "Vehicle-km",
+            "when": "1990"
+        },
+        {
+            "value": 33740,
+            "what": "Transported tonnage",
+            "when": "1960"
+        },
+        {
+            "value": 45847,
+            "what": "Transported tonnage",
+            "when": "1970"
+        },
+        {
+            "value": 36880,
+            "what": "Transported tonnage",
+            "when": "1980"
+        },
+        {
+            "value": 23338,
+            "what": "Transported tonnage",
+            "when": "1990"
+        }
+    ]
+}

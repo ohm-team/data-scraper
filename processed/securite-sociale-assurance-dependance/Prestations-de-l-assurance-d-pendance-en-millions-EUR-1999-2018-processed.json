@@ -1,0 +1,11 @@
+{
+    "path": "securite-sociale-assurance-dependance/Prestations-de-l-assurance-d-pendance-en-millions-EUR-1999-2018.csv",
+    "table_description": "Long-term care insurance benefits (in million EUR) 1999 - 2018",
+    "values": [
+        {
+            "value": 12,
+            "what": "Care allowance",
+            "when": "1999"
+        }
+    ]
+}

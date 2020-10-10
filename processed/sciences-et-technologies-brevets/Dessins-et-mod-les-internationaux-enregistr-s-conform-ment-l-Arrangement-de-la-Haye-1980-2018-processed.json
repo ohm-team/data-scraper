@@ -1,0 +1,366 @@
+{
+    "path": "sciences-et-technologies-brevets/Dessins-et-mod-les-internationaux-enregistr-s-conform-ment-l-Arrangement-de-la-Haye-1980-2018.csv",
+    "table_description": "International designs registered under the Hague Agreement 1980 - 2018",
+    "values": [
+        {
+            "value": 18828,
+            "what": "Objects contained in registered repositories",
+            "when": "1980"
+        },
+        {
+            "value": 12873,
+            "what": "Objects contained in registered repositories",
+            "when": "1990"
+        },
+        {
+            "value": 21195,
+            "what": "Objects contained in registered repositories",
+            "when": "2000"
+        },
+        {
+            "value": 11243,
+            "what": "Objects contained in registered repositories",
+            "when": "2010"
+        },
+        {
+            "value": 11077,
+            "what": "Objects contained in registered repositories",
+            "when": "2011"
+        },
+        {
+            "value": 11971,
+            "what": "Objects contained in registered repositories",
+            "when": "2012"
+        },
+        {
+            "value": 12806,
+            "what": "Objects contained in registered repositories",
+            "when": "2013"
+        },
+        {
+            "value": 13504,
+            "what": "Objects contained in registered repositories",
+            "when": "2014"
+        },
+        {
+            "value": 14484,
+            "what": "Objects contained in registered repositories",
+            "when": "2015"
+        },
+        {
+            "value": 17601,
+            "what": "Objects contained in registered repositories",
+            "when": "2016"
+        },
+        {
+            "value": 19241,
+            "what": "Objects contained in registered repositories",
+            "when": "2017"
+        },
+        {
+            "value": 17212,
+            "what": "Objects contained in registered repositories",
+            "when": "2018"
+        },
+        {
+            "value": 1718,
+            "what": "Registered deposits",
+            "when": "1980"
+        },
+        {
+            "value": 3184,
+            "what": "Registered deposits",
+            "when": "1990"
+        },
+        {
+            "value": 4334,
+            "what": "Registered deposits",
+            "when": "2000"
+        },
+        {
+            "value": 2216,
+            "what": "Registered deposits",
+            "when": "2010"
+        },
+        {
+            "value": 2363,
+            "what": "Registered deposits",
+            "when": "2011"
+        },
+        {
+            "value": 2440,
+            "what": "Registered deposits",
+            "when": "2012"
+        },
+        {
+            "value": 2734,
+            "what": "Registered deposits",
+            "when": "2013"
+        },
+        {
+            "value": 2703,
+            "what": "Registered deposits",
+            "when": "2014"
+        },
+        {
+            "value": 3581,
+            "what": "Registered deposits",
+            "when": "2015"
+        },
+        {
+            "value": 5233,
+            "what": "Registered deposits",
+            "when": "2016"
+        },
+        {
+            "value": 5041,
+            "what": "Registered deposits",
+            "when": "2017"
+        },
+        {
+            "value": 4767,
+            "what": "Registered deposits",
+            "when": "2018"
+        },
+        {
+            "value": 1276,
+            "what": "open",
+            "when": "1980"
+        },
+        {
+            "value": 3176,
+            "what": "open",
+            "when": "1990"
+        },
+        {
+            "value": 4326,
+            "what": "open",
+            "when": "2000"
+        },
+        {
+            "value": 442,
+            "what": "sealed",
+            "when": "1980"
+        },
+        {
+            "value": 8,
+            "what": "sealed",
+            "when": "1990"
+        },
+        {
+            "value": 8,
+            "what": "sealed",
+            "when": "2000"
+        },
+        {
+            "value": 1070,
+            "what": "simple",
+            "when": "1980"
+        },
+        {
+            "value": 1702,
+            "what": "simple",
+            "when": "1990"
+        },
+        {
+            "value": 1964,
+            "what": "simple",
+            "when": "2000"
+        },
+        {
+            "value": 648,
+            "what": "multiple",
+            "when": "1980"
+        },
+        {
+            "value": 1482,
+            "what": "multiple",
+            "when": "1990"
+        },
+        {
+            "value": 2370,
+            "what": "multiple",
+            "when": "2000"
+        },
+        {
+            "value": 38,
+            "what": "in favor of Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 541,
+            "what": "in favor of Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 506,
+            "what": "in favor of Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 225,
+            "what": "in favor of Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 196,
+            "what": "in favor of Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 209,
+            "what": "in favor of Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 213,
+            "what": "in favor of Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 170,
+            "what": "in favor of Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 222,
+            "what": "in favor of Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 328,
+            "what": "in favor of Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 272,
+            "what": "in favor of Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 254,
+            "what": "in favor of Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 1680,
+            "what": "in favor of non-Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 2643,
+            "what": "in favor of non-Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 3828,
+            "what": "in favor of non-Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 1991,
+            "what": "in favor of non-Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 2167,
+            "what": "in favor of non-Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 2231,
+            "what": "in favor of non-Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 2521,
+            "what": "in favor of non-Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 2533,
+            "what": "in favor of non-Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 3359,
+            "what": "in favor of non-Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 4905,
+            "what": "in favor of non-Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 4769,
+            "what": "in favor of non-Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 4513,
+            "what": "in favor of non-Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 674,
+            "what": "Extended or renewed deposits",
+            "when": "1980"
+        },
+        {
+            "value": 1108,
+            "what": "Extended or renewed deposits",
+            "when": "1990"
+        },
+        {
+            "value": 2966,
+            "what": "Extended or renewed deposits",
+            "when": "2000"
+        },
+        {
+            "value": 2793,
+            "what": "Extended or renewed deposits",
+            "when": "2010"
+        },
+        {
+            "value": 2821,
+            "what": "Extended or renewed deposits",
+            "when": "2011"
+        },
+        {
+            "value": 3120,
+            "what": "Extended or renewed deposits",
+            "when": "2012"
+        },
+        {
+            "value": 2851,
+            "what": "Extended or renewed deposits",
+            "when": "2013"
+        },
+        {
+            "value": 2703,
+            "what": "Extended or renewed deposits",
+            "when": "2014"
+        },
+        {
+            "value": 3194,
+            "what": "Extended or renewed deposits",
+            "when": "2015"
+        },
+        {
+            "value": 3150,
+            "what": "Extended or renewed deposits",
+            "when": "2016"
+        },
+        {
+            "value": 3297,
+            "what": "Extended or renewed deposits",
+            "when": "2017"
+        },
+        {
+            "value": 3341,
+            "what": "Extended or renewed deposits",
+            "when": "2018"
+        }
+    ]
+}

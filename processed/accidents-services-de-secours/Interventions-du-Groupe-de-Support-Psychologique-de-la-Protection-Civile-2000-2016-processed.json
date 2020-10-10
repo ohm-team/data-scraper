@@ -1,0 +1,296 @@
+{
+    "path": "accidents-services-de-secours/Interventions-du-Groupe-de-Support-Psychologique-de-la-Protection-Civile-2000-2016.csv",
+    "table_description": "Interventions of the Psychological Support Group of Civil Protection 2000 - 2016",
+    "values": [
+        {
+            "value": 108,
+            "what": "Missions",
+            "when": 2000
+        },
+        {
+            "value": 239,
+            "what": "Missions",
+            "when": 2005
+        },
+        {
+            "value": 240,
+            "what": "Missions",
+            "when": 2006
+        },
+        {
+            "value": 263,
+            "what": "Missions",
+            "when": 2007
+        },
+        {
+            "value": 243,
+            "what": "Missions",
+            "when": 2008
+        },
+        {
+            "value": 218,
+            "what": "Missions",
+            "when": 2009
+        },
+        {
+            "value": 208,
+            "what": "Missions",
+            "when": 2010
+        },
+        {
+            "value": 201,
+            "what": "Missions",
+            "when": 2011
+        },
+        {
+            "value": 237,
+            "what": "Missions",
+            "when": 2012
+        },
+        {
+            "value": 244,
+            "what": "Missions",
+            "when": 2013
+        },
+        {
+            "value": 281,
+            "what": "Missions",
+            "when": 2014
+        },
+        {
+            "value": 272,
+            "what": "Missions",
+            "when": 2015
+        },
+        {
+            "value": 282,
+            "what": "Missions",
+            "when": 2016
+        },
+        {
+            "value": 1487,
+            "what": "Hours worked",
+            "when": 2000
+        },
+        {
+            "value": 1763,
+            "what": "Hours worked",
+            "when": 2005
+        },
+        {
+            "value": 1642,
+            "what": "Hours worked",
+            "when": 2006
+        },
+        {
+            "value": 1882,
+            "what": "Hours worked",
+            "when": 2007
+        },
+        {
+            "value": 1470,
+            "what": "Hours worked",
+            "when": 2008
+        },
+        {
+            "value": 1430,
+            "what": "Hours worked",
+            "when": 2009
+        },
+        {
+            "value": 1229,
+            "what": "Hours worked",
+            "when": 2010
+        },
+        {
+            "value": 1185,
+            "what": "Hours worked",
+            "when": 2011
+        },
+        {
+            "value": 1421,
+            "what": "Hours worked",
+            "when": 2012
+        },
+        {
+            "value": 1393,
+            "what": "Hours worked",
+            "when": 2013
+        },
+        {
+            "value": 969,
+            "what": "Hours worked",
+            "when": 2014
+        },
+        {
+            "value": 843,
+            "what": "Hours worked",
+            "when": 2015
+        },
+        {
+            "value": 834,
+            "what": "Hours worked",
+            "when": 2016
+        },
+        {
+            "value": 5,
+            "what": "Average intervention hours",
+            "when": 2000
+        },
+        {
+            "value": 3,
+            "what": "Average intervention hours",
+            "when": 2006
+        },
+        {
+            "value": 4,
+            "what": "Average intervention hours",
+            "when": 2007
+        },
+        {
+            "value": 3,
+            "what": "Average intervention hours",
+            "when": 2008
+        },
+        {
+            "value": 3,
+            "what": "Average intervention hours",
+            "when": 2009
+        },
+        {
+            "value": 3,
+            "what": "Average intervention hours",
+            "when": 2010
+        },
+        {
+            "value": 3,
+            "what": "Average intervention hours",
+            "when": 2016
+        },
+        {
+            "value": 31,
+            "what": "Hours worked per worker",
+            "when": 2000
+        },
+        {
+            "value": 33,
+            "what": "Hours worked per worker",
+            "when": 2005
+        },
+        {
+            "value": 39,
+            "what": "Hours worked per worker",
+            "when": 2006
+        },
+        {
+            "value": 32,
+            "what": "Hours worked per worker",
+            "when": 2007
+        },
+        {
+            "value": 31,
+            "what": "Hours worked per worker",
+            "when": 2008
+        },
+        {
+            "value": 28,
+            "what": "Hours worked per worker",
+            "when": 2009
+        },
+        {
+            "value": 27,
+            "what": "Hours worked per worker",
+            "when": 2010
+        },
+        {
+            "value": 24,
+            "what": "Hours worked per worker",
+            "when": 2011
+        },
+        {
+            "value": 27,
+            "what": "Hours worked per worker",
+            "when": 2012
+        },
+        {
+            "value": 27,
+            "what": "Hours worked per worker",
+            "when": 2013
+        },
+        {
+            "value": 17,
+            "what": "Hours worked per worker",
+            "when": 2014
+        },
+        {
+            "value": 13,
+            "what": "Hours worked per worker",
+            "when": 2015
+        },
+        {
+            "value": 47,
+            "what": "Speakers",
+            "when": 2000
+        },
+        {
+            "value": 52,
+            "what": "Speakers",
+            "when": 2005
+        },
+        {
+            "value": 42,
+            "what": "Speakers",
+            "when": 2006
+        },
+        {
+            "value": 51,
+            "what": "Speakers",
+            "when": 2007
+        },
+        {
+            "value": 48,
+            "what": "Speakers",
+            "when": 2008
+        },
+        {
+            "value": 52,
+            "what": "Speakers",
+            "when": 2009
+        },
+        {
+            "value": 46,
+            "what": "Speakers",
+            "when": 2010
+        },
+        {
+            "value": 50,
+            "what": "Speakers",
+            "when": 2011
+        },
+        {
+            "value": 53,
+            "what": "Speakers",
+            "when": 2012
+        },
+        {
+            "value": 51,
+            "what": "Speakers",
+            "when": 2013
+        },
+        {
+            "value": 57,
+            "what": "Speakers",
+            "when": 2014
+        },
+        {
+            "value": 65,
+            "what": "Speakers",
+            "when": 2015
+        },
+        {
+            "value": 51,
+            "what": "Speakers",
+            "when": 2016
+        }
+    ]
+}

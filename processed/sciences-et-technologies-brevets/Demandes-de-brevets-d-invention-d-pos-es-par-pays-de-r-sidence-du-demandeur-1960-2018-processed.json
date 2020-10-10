@@ -1,0 +1,386 @@
+{
+    "path": "sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-par-pays-de-r-sidence-du-demandeur-1960-2018.csv",
+    "table_description": "Patent applications filed by country of residence of the applicant 1960 - 2018",
+    "values": [
+        {
+            "value": 1492,
+            "what": "Total",
+            "when": "1960"
+        },
+        {
+            "value": 2228,
+            "what": "Total",
+            "when": "1970"
+        },
+        {
+            "value": 994,
+            "what": "Total",
+            "when": "1980"
+        },
+        {
+            "value": 170,
+            "what": "Total",
+            "when": "2000"
+        },
+        {
+            "value": 100,
+            "what": "Total",
+            "when": "2010"
+        },
+        {
+            "value": 128,
+            "what": "Total",
+            "when": "2011"
+        },
+        {
+            "value": 161,
+            "what": "Total",
+            "when": "2012"
+        },
+        {
+            "value": 169,
+            "what": "Total",
+            "when": "2013"
+        },
+        {
+            "value": 218,
+            "what": "Total",
+            "when": "2014"
+        },
+        {
+            "value": 247,
+            "what": "Total",
+            "when": "2015"
+        },
+        {
+            "value": 444,
+            "what": "Total",
+            "when": "2016"
+        },
+        {
+            "value": 672,
+            "what": "Total",
+            "when": "2017"
+        },
+        {
+            "value": 402,
+            "what": "Total",
+            "when": "2018"
+        },
+        {
+            "value": 80,
+            "what": "Luxembourg",
+            "when": "1960"
+        },
+        {
+            "value": 140,
+            "what": "Luxembourg",
+            "when": "1970"
+        },
+        {
+            "value": 97,
+            "what": "Luxembourg",
+            "when": "1980"
+        },
+        {
+            "value": 85,
+            "what": "Luxembourg",
+            "when": "2000"
+        },
+        {
+            "value": 79,
+            "what": "Luxembourg",
+            "when": "2010"
+        },
+        {
+            "value": 85,
+            "what": "Luxembourg",
+            "when": "2011"
+        },
+        {
+            "value": 109,
+            "what": "Luxembourg",
+            "when": "2012"
+        },
+        {
+            "value": 113,
+            "what": "Luxembourg",
+            "when": "2013"
+        },
+        {
+            "value": 128,
+            "what": "Luxembourg",
+            "when": "2014"
+        },
+        {
+            "value": 128,
+            "what": "Luxembourg",
+            "when": "2015"
+        },
+        {
+            "value": 143,
+            "what": "Luxembourg",
+            "when": "2016"
+        },
+        {
+            "value": 156,
+            "what": "Luxembourg",
+            "when": "2017"
+        },
+        {
+            "value": 152,
+            "what": "Luxembourg",
+            "when": "2018"
+        },
+        {
+            "value": 1412,
+            "what": "Foreign",
+            "when": "1960"
+        },
+        {
+            "value": 2088,
+            "what": "Foreign",
+            "when": "1970"
+        },
+        {
+            "value": 897,
+            "what": "Foreign",
+            "when": "1980"
+        },
+        {
+            "value": 85,
+            "what": "Foreign",
+            "when": "2000"
+        },
+        {
+            "value": 21,
+            "what": "Foreign",
+            "when": "2010"
+        },
+        {
+            "value": 43,
+            "what": "Foreign",
+            "when": "2011"
+        },
+        {
+            "value": 52,
+            "what": "Foreign",
+            "when": "2012"
+        },
+        {
+            "value": 56,
+            "what": "Foreign",
+            "when": "2013"
+        },
+        {
+            "value": 90,
+            "what": "Foreign",
+            "when": "2014"
+        },
+        {
+            "value": 119,
+            "what": "Foreign",
+            "when": "2015"
+        },
+        {
+            "value": 301,
+            "what": "Foreign",
+            "when": "2016"
+        },
+        {
+            "value": 516,
+            "what": "Foreign",
+            "when": "2017"
+        },
+        {
+            "value": 250,
+            "what": "Foreign",
+            "when": "2018"
+        },
+        {
+            "value": 557,
+            "what": "France",
+            "when": "1970"
+        },
+        {
+            "value": 162,
+            "what": "France",
+            "when": "1980"
+        },
+        {
+            "value": 7,
+            "what": "France",
+            "when": "2000"
+        },
+        {
+            "value": 2,
+            "what": "France",
+            "when": "2010"
+        },
+        {
+            "value": 5,
+            "what": "France",
+            "when": "2011"
+        },
+        {
+            "value": 3,
+            "what": "France",
+            "when": "2012"
+        },
+        {
+            "value": 2,
+            "what": "France",
+            "when": "2013"
+        },
+        {
+            "value": 5,
+            "what": "France",
+            "when": "2014"
+        },
+        {
+            "value": 7,
+            "what": "France",
+            "when": "2015"
+        },
+        {
+            "value": 1,
+            "what": "France",
+            "when": "2016"
+        },
+        {
+            "value": 6,
+            "what": "France",
+            "when": "2017"
+        },
+        {
+            "value": 12,
+            "what": "France",
+            "when": "2018"
+        },
+        {
+            "value": 626,
+            "what": "Germany",
+            "when": "1970"
+        },
+        {
+            "value": 155,
+            "what": "Germany",
+            "when": "1980"
+        },
+        {
+            "value": 7,
+            "what": "Germany",
+            "when": "2000"
+        },
+        {
+            "value": 6,
+            "what": "Germany",
+            "when": "2010"
+        },
+        {
+            "value": 8,
+            "what": "Germany",
+            "when": "2011"
+        },
+        {
+            "value": 5,
+            "what": "Germany",
+            "when": "2012"
+        },
+        {
+            "value": 19,
+            "what": "Germany",
+            "when": "2013"
+        },
+        {
+            "value": 35,
+            "what": "Germany",
+            "when": "2014"
+        },
+        {
+            "value": 62,
+            "what": "Germany",
+            "when": "2015"
+        },
+        {
+            "value": 157,
+            "what": "Germany",
+            "when": "2016"
+        },
+        {
+            "value": 110,
+            "what": "Germany",
+            "when": "2017"
+        },
+        {
+            "value": 117,
+            "what": "Germany",
+            "when": "2018"
+        },
+        {
+            "value": 285,
+            "what": "United States of America",
+            "when": "1970"
+        },
+        {
+            "value": 187,
+            "what": "United States of America",
+            "when": "1980"
+        },
+        {
+            "value": 57,
+            "what": "United States of America",
+            "when": "2000"
+        },
+        {
+            "value": 4,
+            "what": "United States of America",
+            "when": "2010"
+        },
+        {
+            "value": 6,
+            "what": "United States of America",
+            "when": "2011"
+        },
+        {
+            "value": 11,
+            "what": "United States of America",
+            "when": "2012"
+        },
+        {
+            "value": 3,
+            "what": "United States of America",
+            "when": "2013"
+        },
+        {
+            "value": 4,
+            "what": "United States of America",
+            "when": "2014"
+        },
+        {
+            "value": 4,
+            "what": "United States of America",
+            "when": "2015"
+        },
+        {
+            "value": 6,
+            "what": "United States of America",
+            "when": "2016"
+        },
+        {
+            "value": 7,
+            "what": "United States of America",
+            "when": "2017"
+        },
+        {
+            "value": 1,
+            "what": "United States of America",
+            "when": "2018"
+        },
+        {
+            "value": 3378,
+            "what": "Amounts collected by the Registration Administration (in EUR 1,000)",
+            "when": "2017"
+        }
+    ]
+}

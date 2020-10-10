@@ -1,0 +1,384 @@
+{
+  "dataset_description": "This dataset includes the following resource (s): <br> Personal injury accidents and road traffic victims 1970 - 2018 <br> Personal injury accidents according to their nature 1991 - 2018 <br> Accident victims by road user category according to severity, sex and age 1980 - 2018 <br> Bodily accidents and road traffic victims by canton and municipality 2005 - 2018 <br> Road traffic bodily accidents by month in 2018 <br> Victims killed by the road user category 1991 - 2018 <br> <br> --------------------------------- ------ <br> Automatically synched from statistical portal (category Accidents / Bodily road traffic accidents)",
+  "path": "accidents-accidents-corporels-de-circulation-routiere/Accidents-corporels-de-la-circulation-routi-re-selon-le-mois-en-2018.csv",
+  "table_description": "Road traffic injuries by month in 2018",
+  "values": [
+    {
+      "value": 83,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 1991
+    },
+    {
+      "value": 76,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2000
+    },
+    {
+      "value": 32,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2010
+    },
+    {
+      "value": 33,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2011
+    },
+    {
+      "value": 34,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2012
+    },
+    {
+      "value": 45,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2013
+    },
+    {
+      "value": 35,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2014
+    },
+    {
+      "value": 36,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2015
+    },
+    {
+      "value": 32,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2016
+    },
+    {
+      "value": 25,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2017
+    },
+    {
+      "value": 36,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2018
+    },
+    {
+      "value": 22,
+      "isTotal": true,
+      "what": "Total victims killed",
+      "when": 2019
+    },
+    {
+      "value": 16,
+      "what": "Pedestrians",
+      "when": 1991
+    },
+    {
+      "value": 11,
+      "what": "Pedestrians",
+      "when": 2000
+    },
+    {
+      "value": 1,
+      "what": "Pedestrians",
+      "when": 2010
+    },
+    {
+      "value": 6,
+      "what": "Pedestrians",
+      "when": 2011
+    },
+    {
+      "value": 6,
+      "what": "Pedestrians",
+      "when": 2012
+    },
+    {
+      "value": 5,
+      "what": "Pedestrians",
+      "when": 2013
+    },
+    {
+      "value": 3,
+      "what": "Pedestrians",
+      "when": 2014
+    },
+    {
+      "value": 7,
+      "what": "Pedestrians",
+      "when": 2015
+    },
+    {
+      "value": 8,
+      "what": "Pedestrians",
+      "when": 2016
+    },
+    {
+      "value": 4,
+      "what": "Pedestrians",
+      "when": 2017
+    },
+    {
+      "value": 3,
+      "what": "Pedestrians",
+      "when": 2018
+    },
+    {
+      "value": 2,
+      "what": "Pedestrians",
+      "when": 2019
+    },
+    {
+      "value": 5,
+      "what": "Cyclists",
+      "when": 1991
+    },
+    {
+      "value": 1,
+      "what": "Cyclists",
+      "when": 2000
+    },
+    {
+      "value": 1,
+      "what": "Cyclists",
+      "when": 2010
+    },
+    {
+      "value": 2,
+      "what": "Cyclists",
+      "when": 2011
+    },
+    {
+      "value": 1,
+      "what": "Cyclists",
+      "when": 2016
+    },
+    {
+      "value": 3,
+      "what": "Cyclists",
+      "when": 2018
+    },
+    {
+      "value": 1,
+      "what": "Mopeds",
+      "when": 1991
+    },
+    {
+      "value": 1,
+      "what": "Mopeds",
+      "when": 2011
+    },
+    {
+      "value": 2,
+      "what": "Mopeds",
+      "when": 2015
+    },
+    {
+      "value": 1,
+      "what": "Mopeds",
+      "when": 2017
+    },
+    {
+      "value": 1,
+      "what": "Mopeds",
+      "when": 2019
+    },
+    {
+      "value": 7,
+      "what": "Motorcyclists",
+      "when": 1991
+    },
+    {
+      "value": 8,
+      "what": "Motorcyclists",
+      "when": 2000
+    },
+    {
+      "value": 1,
+      "what": "Motorcyclists",
+      "when": 2010
+    },
+    {
+      "value": 2,
+      "what": "Motorcyclists",
+      "when": 2011
+    },
+    {
+      "value": 5,
+      "what": "Motorcyclists",
+      "when": 2012
+    },
+    {
+      "value": 8,
+      "what": "Motorcyclists",
+      "when": 2013
+    },
+    {
+      "value": 8,
+      "what": "Motorcyclists",
+      "when": 2014
+    },
+    {
+      "value": 4,
+      "what": "Motorcyclists",
+      "when": 2015
+    },
+    {
+      "value": 3,
+      "what": "Motorcyclists",
+      "when": 2016
+    },
+    {
+      "value": 6,
+      "what": "Motorcyclists",
+      "when": 2017
+    },
+    {
+      "value": 9,
+      "what": "Motorcyclists",
+      "when": 2018
+    },
+    {
+      "value": 3,
+      "what": "Motorcyclists",
+      "when": 2019
+    },
+    {
+      "value": 1,
+      "what": "Quad",
+      "when": 2018
+    },
+    {
+      "value": 35,
+      "what": "4 wheel drivers",
+      "when": 1991
+    },
+    {
+      "value": 42,
+      "what": "4 wheel drivers",
+      "when": 2000
+    },
+    {
+      "value": 23,
+      "what": "4 wheel drivers",
+      "when": 2010
+    },
+    {
+      "value": 17,
+      "what": "4 wheel drivers",
+      "when": 2011
+    },
+    {
+      "value": 16,
+      "what": "4 wheel drivers",
+      "when": 2012
+    },
+    {
+      "value": 27,
+      "what": "4 wheel drivers",
+      "when": 2013
+    },
+    {
+      "value": 19,
+      "what": "4 wheel drivers",
+      "when": 2014
+    },
+    {
+      "value": 20,
+      "what": "4 wheel drivers",
+      "when": 2015
+    },
+    {
+      "value": 13,
+      "what": "4 wheel drivers",
+      "when": 2016
+    },
+    {
+      "value": 10,
+      "what": "4 wheel drivers",
+      "when": 2017
+    },
+    {
+      "value": 15,
+      "what": "4 wheel drivers",
+      "when": 2018
+    },
+    {
+      "value": 12,
+      "what": "4 wheel drivers",
+      "when": 2019
+    },
+    {
+      "value": 18,
+      "what": "4 wheel passengers",
+      "when": 1991
+    },
+    {
+      "value": 14,
+      "what": "4 wheel passengers",
+      "when": 2000
+    },
+    {
+      "value": 6,
+      "what": "4 wheel passengers",
+      "when": 2010
+    },
+    {
+      "value": 5,
+      "what": "4 wheel passengers",
+      "when": 2011
+    },
+    {
+      "value": 7,
+      "what": "4 wheel passengers",
+      "when": 2012
+    },
+    {
+      "value": 5,
+      "what": "4 wheel passengers",
+      "when": 2013
+    },
+    {
+      "value": 5,
+      "what": "4 wheel passengers",
+      "when": 2014
+    },
+    {
+      "value": 3,
+      "what": "4 wheel passengers",
+      "when": 2015
+    },
+    {
+      "value": 7,
+      "what": "4 wheel passengers",
+      "when": 2016
+    },
+    {
+      "value": 4,
+      "what": "4 wheel passengers",
+      "when": 2017
+    },
+    {
+      "value": 5,
+      "what": "4 wheel passengers",
+      "when": 2018
+    },
+    {
+      "value": 4,
+      "what": "4 wheel passengers",
+      "when": 2019
+    },
+    {
+      "value": 1,
+      "what": "2-wheel passengers",
+      "when": 1991
+    }
+  ]
+}

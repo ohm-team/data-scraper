@@ -1,0 +1,381 @@
+{
+    "path": "sciences-et-technologies-brevets/Dessins-et-mod-les-Benelux-1980-2018.csv",
+    "table_description": "Benelux designs 1980 - 2018",
+    "values": [
+        {
+            "value": 3131,
+            "what": "Deposits in favor of:",
+            "when": "1980"
+        },
+        {
+            "value": 2960,
+            "what": "Deposits in favor of:",
+            "when": "1990"
+        },
+        {
+            "value": 3344,
+            "what": "Deposits in favor of:",
+            "when": "2000"
+        },
+        {
+            "value": 1169,
+            "what": "Deposits in favor of:",
+            "when": "2010"
+        },
+        {
+            "value": 930,
+            "what": "Deposits in favor of:",
+            "when": "2011"
+        },
+        {
+            "value": 1069,
+            "what": "Deposits in favor of:",
+            "when": "2012"
+        },
+        {
+            "value": 1039,
+            "what": "Deposits in favor of:",
+            "when": "2013"
+        },
+        {
+            "value": 890,
+            "what": "Deposits in favor of:",
+            "when": "2014"
+        },
+        {
+            "value": 1161,
+            "what": "Deposits in favor of:",
+            "when": "2015"
+        },
+        {
+            "value": 954,
+            "what": "Deposits in favor of:",
+            "when": "2016"
+        },
+        {
+            "value": 971,
+            "what": "Deposits in favor of:",
+            "when": "2017"
+        },
+        {
+            "value": 788,
+            "what": "Deposits in favor of:",
+            "when": "2018"
+        },
+        {
+            "value": 1805,
+            "what": "Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 1875,
+            "what": "Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 1808,
+            "what": "Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 1142,
+            "what": "Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 851,
+            "what": "Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 1045,
+            "what": "Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 1011,
+            "what": "Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 875,
+            "what": "Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 1124,
+            "what": "Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 935,
+            "what": "Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 944,
+            "what": "Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 772,
+            "what": "Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 1326,
+            "what": "Non residents",
+            "when": "1980"
+        },
+        {
+            "value": 1085,
+            "what": "Non residents",
+            "when": "1990"
+        },
+        {
+            "value": 1536,
+            "what": "Non residents",
+            "when": "2000"
+        },
+        {
+            "value": 27,
+            "what": "Non residents",
+            "when": "2010"
+        },
+        {
+            "value": 79,
+            "what": "Non residents",
+            "when": "2011"
+        },
+        {
+            "value": 24,
+            "what": "Non residents",
+            "when": "2012"
+        },
+        {
+            "value": 29,
+            "what": "Non residents",
+            "when": "2013"
+        },
+        {
+            "value": 15,
+            "what": "Non residents",
+            "when": "2014"
+        },
+        {
+            "value": 37,
+            "what": "Non residents",
+            "when": "2015"
+        },
+        {
+            "value": 19,
+            "what": "Non residents",
+            "when": "2016"
+        },
+        {
+            "value": 27,
+            "what": "Non residents",
+            "when": "2017"
+        },
+        {
+            "value": 16,
+            "what": "Non residents",
+            "when": "2018"
+        },
+        {
+            "value": 3461,
+            "what": "Registrations in favor of:",
+            "when": "1980"
+        },
+        {
+            "value": 2678,
+            "what": "Registrations in favor of:",
+            "when": "1990"
+        },
+        {
+            "value": 3205,
+            "what": "Registrations in favor of:",
+            "when": "2000"
+        },
+        {
+            "value": 855,
+            "what": "Registrations in favor of:",
+            "when": "2010"
+        },
+        {
+            "value": 813,
+            "what": "Registrations in favor of:",
+            "when": "2011"
+        },
+        {
+            "value": 1099,
+            "what": "Registrations in favor of:",
+            "when": "2012"
+        },
+        {
+            "value": 878,
+            "what": "Registrations in favor of:",
+            "when": "2013"
+        },
+        {
+            "value": 776,
+            "what": "Registrations in favor of:",
+            "when": "2014"
+        },
+        {
+            "value": 1028,
+            "what": "Registrations in favor of:",
+            "when": "2015"
+        },
+        {
+            "value": 871,
+            "what": "Registrations in favor of:",
+            "when": "2016"
+        },
+        {
+            "value": 928,
+            "what": "Registrations in favor of:",
+            "when": "2017"
+        },
+        {
+            "value": 857,
+            "what": "Registrations in favor of:",
+            "when": "2018"
+        },
+        {
+            "value": 1955,
+            "what": "Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 1664,
+            "what": "Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 1796,
+            "what": "Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 833,
+            "what": "Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 772,
+            "what": "Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 1048,
+            "what": "Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 854,
+            "what": "Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 754,
+            "what": "Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 1001,
+            "what": "Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 853,
+            "what": "Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 885,
+            "what": "Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 829,
+            "what": "Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 1506,
+            "what": "Non residents",
+            "when": "1980"
+        },
+        {
+            "value": 1014,
+            "what": "Non residents",
+            "when": "1990"
+        },
+        {
+            "value": 1409,
+            "what": "Non residents",
+            "when": "2000"
+        },
+        {
+            "value": 22,
+            "what": "Non residents",
+            "when": "2010"
+        },
+        {
+            "value": 41,
+            "what": "Non residents",
+            "when": "2011"
+        },
+        {
+            "value": 51,
+            "what": "Non residents",
+            "when": "2012"
+        },
+        {
+            "value": 24,
+            "what": "Non residents",
+            "when": "2013"
+        },
+        {
+            "value": 22,
+            "what": "Non residents",
+            "when": "2014"
+        },
+        {
+            "value": 27,
+            "what": "Non residents",
+            "when": "2015"
+        },
+        {
+            "value": 18,
+            "what": "Non residents",
+            "when": "2016"
+        },
+        {
+            "value": 43,
+            "what": "Non residents",
+            "when": "2017"
+        },
+        {
+            "value": 28,
+            "what": "Non residents",
+            "when": "2018"
+        },
+        {
+            "value": 18116,
+            "what": "Registered and in force on 31.12",
+            "when": "1980"
+        },
+        {
+            "value": 19743,
+            "what": "Registered and in force on 31.12",
+            "when": "1990"
+        },
+        {
+            "value": 24050,
+            "what": "Registered and in force on 31.12",
+            "when": "2000"
+        }
+    ]
+}

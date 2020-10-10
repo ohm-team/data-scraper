@@ -1,0 +1,691 @@
+{
+    "path": "transports-transport-routier-permis-de-conduire/R-sultats-des-examens-pour-l-obtention-du-permis-de-conduire-1991-2018.csv",
+    "table_description": "Results of the exams for obtaining a driving license 1991 - 2018",
+    "values": [
+        {
+            "value": 15221,
+            "what": "admitted",
+            "when": "1991"
+        },
+        {
+            "value": 6063,
+            "what": "admitted",
+            "when": "2000"
+        },
+        {
+            "value": 9430,
+            "what": "admitted",
+            "when": "2010"
+        },
+        {
+            "value": 7848,
+            "what": "admitted",
+            "when": "2011"
+        },
+        {
+            "value": 8251,
+            "what": "admitted",
+            "when": "2012"
+        },
+        {
+            "value": 8105,
+            "what": "admitted",
+            "when": "2013"
+        },
+        {
+            "value": 8741,
+            "what": "admitted",
+            "when": "2014"
+        },
+        {
+            "value": 8711,
+            "what": "admitted",
+            "when": "2015"
+        },
+        {
+            "value": 8324,
+            "what": "admitted",
+            "when": "2016"
+        },
+        {
+            "value": 8573,
+            "what": "admitted",
+            "when": "2017"
+        },
+        {
+            "value": 8741,
+            "what": "admitted",
+            "when": "2018"
+        },
+        {
+            "value": 8798,
+            "what": "admitted",
+            "when": "2019"
+        },
+        {
+            "value": 7074,
+            "what": "admitted",
+            "when": "1991"
+        },
+        {
+            "value": 6928,
+            "what": "admitted",
+            "when": "2000"
+        },
+        {
+            "value": 6654,
+            "what": "admitted",
+            "when": "2010"
+        },
+        {
+            "value": 8003,
+            "what": "admitted",
+            "when": "2011"
+        },
+        {
+            "value": 8340,
+            "what": "admitted",
+            "when": "2012"
+        },
+        {
+            "value": 7434,
+            "what": "admitted",
+            "when": "2013"
+        },
+        {
+            "value": 8278,
+            "what": "admitted",
+            "when": "2014"
+        },
+        {
+            "value": 8685,
+            "what": "admitted",
+            "when": "2015"
+        },
+        {
+            "value": 8666,
+            "what": "admitted",
+            "when": "2016"
+        },
+        {
+            "value": 8709,
+            "what": "admitted",
+            "when": "2017"
+        },
+        {
+            "value": 9193,
+            "what": "admitted",
+            "when": "2018"
+        },
+        {
+            "value": 8884,
+            "what": "admitted",
+            "when": "2019"
+        },
+        {
+            "value": 107,
+            "what": "<18 years",
+            "when": "2000"
+        },
+        {
+            "value": 170,
+            "what": "<18 years",
+            "when": "2010"
+        },
+        {
+            "value": 188,
+            "what": "<18 years",
+            "when": "2011"
+        },
+        {
+            "value": 157,
+            "what": "<18 years",
+            "when": "2012"
+        },
+        {
+            "value": 144,
+            "what": "<18 years",
+            "when": "2013"
+        },
+        {
+            "value": 211,
+            "what": "<18 years",
+            "when": "2014"
+        },
+        {
+            "value": 234,
+            "what": "<18 years",
+            "when": "2015"
+        },
+        {
+            "value": 270,
+            "what": "<18 years",
+            "when": "2016"
+        },
+        {
+            "value": 289,
+            "what": "<18 years",
+            "when": "2017"
+        },
+        {
+            "value": 253,
+            "what": "<18 years",
+            "when": "2018"
+        },
+        {
+            "value": 238,
+            "what": "<18 years",
+            "when": "2019"
+        },
+        {
+            "value": 3871,
+            "what": "18 - 21 years old",
+            "when": "2000"
+        },
+        {
+            "value": 3928,
+            "what": "18 - 21 years old",
+            "when": "2010"
+        },
+        {
+            "value": 4768,
+            "what": "18 - 21 years old",
+            "when": "2011"
+        },
+        {
+            "value": 4970,
+            "what": "18 - 21 years old",
+            "when": "2012"
+        },
+        {
+            "value": 4533,
+            "what": "18 - 21 years old",
+            "when": "2013"
+        },
+        {
+            "value": 4928,
+            "what": "18 - 21 years old",
+            "when": "2014"
+        },
+        {
+            "value": 5208,
+            "what": "18 - 21 years old",
+            "when": "2015"
+        },
+        {
+            "value": 5289,
+            "what": "18 - 21 years old",
+            "when": "2016"
+        },
+        {
+            "value": 5078,
+            "what": "18 - 21 years old",
+            "when": "2017"
+        },
+        {
+            "value": 5281,
+            "what": "18 - 21 years old",
+            "when": "2018"
+        },
+        {
+            "value": 4979,
+            "what": "18 - 21 years old",
+            "when": "2019"
+        },
+        {
+            "value": 989,
+            "what": "21 - 25 years",
+            "when": "2000"
+        },
+        {
+            "value": 824,
+            "what": "21 - 25 years",
+            "when": "2010"
+        },
+        {
+            "value": 1032,
+            "what": "21 - 25 years",
+            "when": "2011"
+        },
+        {
+            "value": 1090,
+            "what": "21 - 25 years",
+            "when": "2012"
+        },
+        {
+            "value": 866,
+            "what": "21 - 25 years",
+            "when": "2013"
+        },
+        {
+            "value": 1020,
+            "what": "21 - 25 years",
+            "when": "2014"
+        },
+        {
+            "value": 1034,
+            "what": "21 - 25 years",
+            "when": "2015"
+        },
+        {
+            "value": 884,
+            "what": "21 - 25 years",
+            "when": "2016"
+        },
+        {
+            "value": 904,
+            "what": "21 - 25 years",
+            "when": "2017"
+        },
+        {
+            "value": 927,
+            "what": "21 - 25 years",
+            "when": "2018"
+        },
+        {
+            "value": 894,
+            "what": "21 - 25 years",
+            "when": "2019"
+        },
+        {
+            "value": 748,
+            "what": "25 - 30 years",
+            "when": "2000"
+        },
+        {
+            "value": 591,
+            "what": "25 - 30 years",
+            "when": "2010"
+        },
+        {
+            "value": 727,
+            "what": "25 - 30 years",
+            "when": "2011"
+        },
+        {
+            "value": 752,
+            "what": "25 - 30 years",
+            "when": "2012"
+        },
+        {
+            "value": 687,
+            "what": "25 - 30 years",
+            "when": "2013"
+        },
+        {
+            "value": 723,
+            "what": "25 - 30 years",
+            "when": "2014"
+        },
+        {
+            "value": 771,
+            "what": "25 - 30 years",
+            "when": "2015"
+        },
+        {
+            "value": 674,
+            "what": "25 - 30 years",
+            "when": "2016"
+        },
+        {
+            "value": 668,
+            "what": "25 - 30 years",
+            "when": "2017"
+        },
+        {
+            "value": 736,
+            "what": "25 - 30 years",
+            "when": "2018"
+        },
+        {
+            "value": 728,
+            "what": "25 - 30 years",
+            "when": "2019"
+        },
+        {
+            "value": 496,
+            "what": "30 - 35 years",
+            "when": "2000"
+        },
+        {
+            "value": 424,
+            "what": "30 - 35 years",
+            "when": "2010"
+        },
+        {
+            "value": 466,
+            "what": "30 - 35 years",
+            "when": "2011"
+        },
+        {
+            "value": 466,
+            "what": "30 - 35 years",
+            "when": "2012"
+        },
+        {
+            "value": 446,
+            "what": "30 - 35 years",
+            "when": "2013"
+        },
+        {
+            "value": 479,
+            "what": "30 - 35 years",
+            "when": "2014"
+        },
+        {
+            "value": 533,
+            "what": "30 - 35 years",
+            "when": "2015"
+        },
+        {
+            "value": 544,
+            "what": "30 - 35 years",
+            "when": "2016"
+        },
+        {
+            "value": 604,
+            "what": "30 - 35 years",
+            "when": "2017"
+        },
+        {
+            "value": 709,
+            "what": "30 - 35 years",
+            "when": "2018"
+        },
+        {
+            "value": 733,
+            "what": "30 - 35 years",
+            "when": "2019"
+        },
+        {
+            "value": 549,
+            "what": "35 - 45 years",
+            "when": "2000"
+        },
+        {
+            "value": 482,
+            "what": "35 - 45 years",
+            "when": "2010"
+        },
+        {
+            "value": 524,
+            "what": "35 - 45 years",
+            "when": "2011"
+        },
+        {
+            "value": 574,
+            "what": "35 - 45 years",
+            "when": "2012"
+        },
+        {
+            "value": 470,
+            "what": "35 - 45 years",
+            "when": "2013"
+        },
+        {
+            "value": 579,
+            "what": "35 - 45 years",
+            "when": "2014"
+        },
+        {
+            "value": 603,
+            "what": "35 - 45 years",
+            "when": "2015"
+        },
+        {
+            "value": 664,
+            "what": "35 - 45 years",
+            "when": "2016"
+        },
+        {
+            "value": 752,
+            "what": "35 - 45 years",
+            "when": "2017"
+        },
+        {
+            "value": 810,
+            "what": "35 - 45 years",
+            "when": "2018"
+        },
+        {
+            "value": 843,
+            "what": "35 - 45 years",
+            "when": "2019"
+        },
+        {
+            "value": 168,
+            "what": "> 45 years old",
+            "when": "2000"
+        },
+        {
+            "value": 235,
+            "what": "> 45 years old",
+            "when": "2010"
+        },
+        {
+            "value": 298,
+            "what": "> 45 years old",
+            "when": "2011"
+        },
+        {
+            "value": 331,
+            "what": "> 45 years old",
+            "when": "2012"
+        },
+        {
+            "value": 288,
+            "what": "> 45 years old",
+            "when": "2013"
+        },
+        {
+            "value": 338,
+            "what": "> 45 years old",
+            "when": "2014"
+        },
+        {
+            "value": 302,
+            "what": "> 45 years old",
+            "when": "2015"
+        },
+        {
+            "value": 341,
+            "what": "> 45 years old",
+            "when": "2016"
+        },
+        {
+            "value": 414,
+            "what": "> 45 years old",
+            "when": "2017"
+        },
+        {
+            "value": 477,
+            "what": "> 45 years old",
+            "when": "2018"
+        },
+        {
+            "value": 469,
+            "what": "> 45 years old",
+            "when": "2019"
+        },
+        {
+            "value": 5500,
+            "what": "failed",
+            "when": "1991"
+        },
+        {
+            "value": 6998,
+            "what": "failed",
+            "when": "2000"
+        },
+        {
+            "value": 6061,
+            "what": "failed",
+            "when": "2010"
+        },
+        {
+            "value": 7113,
+            "what": "failed",
+            "when": "2011"
+        },
+        {
+            "value": 6692,
+            "what": "failed",
+            "when": "2012"
+        },
+        {
+            "value": 6379,
+            "what": "failed",
+            "when": "2013"
+        },
+        {
+            "value": 7004,
+            "what": "failed",
+            "when": "2014"
+        },
+        {
+            "value": 7216,
+            "what": "failed",
+            "when": "2015"
+        },
+        {
+            "value": 7266,
+            "what": "failed",
+            "when": "2016"
+        },
+        {
+            "value": 6490,
+            "what": "failed",
+            "when": "2017"
+        },
+        {
+            "value": 6404,
+            "what": "failed",
+            "when": "2018"
+        },
+        {
+            "value": 6881,
+            "what": "failed",
+            "when": "2019"
+        },
+        {
+            "value": 123,
+            "what": "refused",
+            "when": "1991"
+        },
+        {
+            "value": 83,
+            "what": "refused",
+            "when": "2000"
+        },
+        {
+            "value": 452,
+            "what": "refused",
+            "when": "2010"
+        },
+        {
+            "value": 183,
+            "what": "refused",
+            "when": "2011"
+        },
+        {
+            "value": 280,
+            "what": "refused",
+            "when": "2012"
+        },
+        {
+            "value": 189,
+            "what": "refused",
+            "when": "2013"
+        },
+        {
+            "value": 220,
+            "what": "refused",
+            "when": "2014"
+        },
+        {
+            "value": 97,
+            "what": "refused",
+            "when": "2015"
+        },
+        {
+            "value": 127,
+            "what": "refused",
+            "when": "2016"
+        },
+        {
+            "value": 79,
+            "what": "refused",
+            "when": "2017"
+        },
+        {
+            "value": 101,
+            "what": "refused",
+            "when": "2018"
+        },
+        {
+            "value": 94,
+            "what": "refused",
+            "when": "2019"
+        },
+        {
+            "value": 1249,
+            "what": "absent",
+            "when": "1991"
+        },
+        {
+            "value": 508,
+            "what": "absent",
+            "when": "2000"
+        },
+        {
+            "value": 462,
+            "what": "absent",
+            "when": "2010"
+        },
+        {
+            "value": 487,
+            "what": "absent",
+            "when": "2011"
+        },
+        {
+            "value": 475,
+            "what": "absent",
+            "when": "2012"
+        },
+        {
+            "value": 773,
+            "what": "absent",
+            "when": "2013"
+        },
+        {
+            "value": 709,
+            "what": "absent",
+            "when": "2014"
+        },
+        {
+            "value": 461,
+            "what": "absent",
+            "when": "2015"
+        },
+        {
+            "value": 651,
+            "what": "absent",
+            "when": "2016"
+        },
+        {
+            "value": 628,
+            "what": "absent",
+            "when": "2017"
+        },
+        {
+            "value": 596,
+            "what": "absent",
+            "when": "2018"
+        },
+        {
+            "value": 492,
+            "what": "absent",
+            "when": "2019"
+        }
+    ]
+}

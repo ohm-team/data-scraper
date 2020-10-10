@@ -1,0 +1,396 @@
+{
+    "path": "sciences-et-technologies-brevets/Marques-de-produits-et-de-services-Benelux-1970-2018.csv",
+    "table_description": "Benelux product and service brands 1970 - 2018",
+    "values": [
+        {
+            "value": 120861,
+            "what": "Registered trademarks and service marks",
+            "when": "1970"
+        },
+        {
+            "value": 8048,
+            "what": "Registered trademarks and service marks",
+            "when": "1980"
+        },
+        {
+            "value": 21044,
+            "what": "Registered trademarks and service marks",
+            "when": "1990"
+        },
+        {
+            "value": 28578,
+            "what": "Registered trademarks and service marks",
+            "when": "2000"
+        },
+        {
+            "value": 22204,
+            "what": "Registered trademarks and service marks",
+            "when": "2010"
+        },
+        {
+            "value": 22612,
+            "what": "Registered trademarks and service marks",
+            "when": "2011"
+        },
+        {
+            "value": 21457,
+            "what": "Registered trademarks and service marks",
+            "when": "2012"
+        },
+        {
+            "value": 21137,
+            "what": "Registered trademarks and service marks",
+            "when": "2013"
+        },
+        {
+            "value": 20459,
+            "what": "Registered trademarks and service marks",
+            "when": "2014"
+        },
+        {
+            "value": 22145,
+            "what": "Registered trademarks and service marks",
+            "when": "2015"
+        },
+        {
+            "value": 21770,
+            "what": "Registered trademarks and service marks",
+            "when": "2016"
+        },
+        {
+            "value": 21633,
+            "what": "Registered trademarks and service marks",
+            "when": "2017"
+        },
+        {
+            "value": 20771,
+            "what": "Registered trademarks and service marks",
+            "when": "2018"
+        },
+        {
+            "value": 4949,
+            "what": "Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 14463,
+            "what": "Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 25881,
+            "what": "Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 20847,
+            "what": "Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 21134,
+            "what": "Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 20151,
+            "what": "Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 19685,
+            "what": "Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 19086,
+            "what": "Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 20591,
+            "what": "Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 20081,
+            "what": "Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 19977,
+            "what": "Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 19275,
+            "what": "Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 3099,
+            "what": "Non residents",
+            "when": "1980"
+        },
+        {
+            "value": 6581,
+            "what": "Non residents",
+            "when": "1990"
+        },
+        {
+            "value": 2697,
+            "what": "Non residents",
+            "when": "2000"
+        },
+        {
+            "value": 1357,
+            "what": "Non residents",
+            "when": "2010"
+        },
+        {
+            "value": 1478,
+            "what": "Non residents",
+            "when": "2011"
+        },
+        {
+            "value": 1306,
+            "what": "Non residents",
+            "when": "2012"
+        },
+        {
+            "value": 1452,
+            "what": "Non residents",
+            "when": "2013"
+        },
+        {
+            "value": 1373,
+            "what": "Non residents",
+            "when": "2014"
+        },
+        {
+            "value": 1554,
+            "what": "Non residents",
+            "when": "2015"
+        },
+        {
+            "value": 1689,
+            "what": "Non residents",
+            "when": "2016"
+        },
+        {
+            "value": 1656,
+            "what": "Non residents",
+            "when": "2017"
+        },
+        {
+            "value": 1496,
+            "what": "Non residents",
+            "when": "2018"
+        },
+        {
+            "value": 17800,
+            "what": "Registered product and service brands",
+            "when": "1970"
+        },
+        {
+            "value": 7500,
+            "what": "Registered product and service brands",
+            "when": "1980"
+        },
+        {
+            "value": 17101,
+            "what": "Registered product and service brands",
+            "when": "1990"
+        },
+        {
+            "value": 17653,
+            "what": "Registered product and service brands",
+            "when": "2000"
+        },
+        {
+            "value": 18222,
+            "what": "Registered product and service brands",
+            "when": "2010"
+        },
+        {
+            "value": 18922,
+            "what": "Registered product and service brands",
+            "when": "2011"
+        },
+        {
+            "value": 18204,
+            "what": "Registered product and service brands",
+            "when": "2012"
+        },
+        {
+            "value": 18728,
+            "what": "Registered product and service brands",
+            "when": "2013"
+        },
+        {
+            "value": 18248,
+            "what": "Registered product and service brands",
+            "when": "2014"
+        },
+        {
+            "value": 19398,
+            "what": "Registered product and service brands",
+            "when": "2015"
+        },
+        {
+            "value": 18999,
+            "what": "Registered product and service brands",
+            "when": "2016"
+        },
+        {
+            "value": 18586,
+            "what": "Registered product and service brands",
+            "when": "2017"
+        },
+        {
+            "value": 18251,
+            "what": "Registered product and service brands",
+            "when": "2018"
+        },
+        {
+            "value": 4418,
+            "what": "Benelux residents",
+            "when": "1980"
+        },
+        {
+            "value": 11472,
+            "what": "Benelux residents",
+            "when": "1990"
+        },
+        {
+            "value": 15383,
+            "what": "Benelux residents",
+            "when": "2000"
+        },
+        {
+            "value": 16965,
+            "what": "Benelux residents",
+            "when": "2010"
+        },
+        {
+            "value": 17617,
+            "what": "Benelux residents",
+            "when": "2011"
+        },
+        {
+            "value": 16973,
+            "what": "Benelux residents",
+            "when": "2012"
+        },
+        {
+            "value": 17301,
+            "what": "Benelux residents",
+            "when": "2013"
+        },
+        {
+            "value": 16920,
+            "what": "Benelux residents",
+            "when": "2014"
+        },
+        {
+            "value": 17982,
+            "what": "Benelux residents",
+            "when": "2015"
+        },
+        {
+            "value": 17578,
+            "what": "Benelux residents",
+            "when": "2016"
+        },
+        {
+            "value": 17134,
+            "what": "Benelux residents",
+            "when": "2017"
+        },
+        {
+            "value": 16824,
+            "what": "Benelux residents",
+            "when": "2018"
+        },
+        {
+            "value": 3082,
+            "what": "Non residents",
+            "when": "1980"
+        },
+        {
+            "value": 5629,
+            "what": "Non residents",
+            "when": "1990"
+        },
+        {
+            "value": 2270,
+            "what": "Non residents",
+            "when": "2000"
+        },
+        {
+            "value": 1257,
+            "what": "Non residents",
+            "when": "2010"
+        },
+        {
+            "value": 1305,
+            "what": "Non residents",
+            "when": "2011"
+        },
+        {
+            "value": 1231,
+            "what": "Non residents",
+            "when": "2012"
+        },
+        {
+            "value": 1427,
+            "what": "Non residents",
+            "when": "2013"
+        },
+        {
+            "value": 1328,
+            "what": "Non residents",
+            "when": "2014"
+        },
+        {
+            "value": 1416,
+            "what": "Non residents",
+            "when": "2015"
+        },
+        {
+            "value": 1421,
+            "what": "Non residents",
+            "when": "2016"
+        },
+        {
+            "value": 1452,
+            "what": "Non residents",
+            "when": "2017"
+        },
+        {
+            "value": 1427,
+            "what": "Non residents",
+            "when": "2018"
+        },
+        {
+            "value": 17800,
+            "what": "Registered and in force on 31.12",
+            "when": "1970"
+        },
+        {
+            "value": 66044,
+            "what": "Registered and in force on 31.12",
+            "when": "1980"
+        },
+        {
+            "value": 188100,
+            "what": "Registered and in force on 31.12",
+            "when": "1990"
+        },
+        {
+            "value": 310897,
+            "what": "Registered and in force on 31.12",
+            "when": "2000"
+        }
+    ]
+}

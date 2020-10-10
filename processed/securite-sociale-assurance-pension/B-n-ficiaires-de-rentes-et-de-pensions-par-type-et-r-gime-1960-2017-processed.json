@@ -1,0 +1,681 @@
+{
+    "path": "securite-sociale-assurance-pension/B-n-ficiaires-de-rentes-et-de-pensions-par-type-et-r-gime-1960-2017.csv",
+    "table_description": "Recipients of pensions and pensions by type and scheme 1960 - 2017",
+    "values": [
+        {
+            "value": 14050,
+            "what": "Total beneficiaries",
+            "when": "1960"
+        },
+        {
+            "value": 13414,
+            "what": "Total beneficiaries",
+            "when": "1970"
+        },
+        {
+            "value": 13114,
+            "what": "Total beneficiaries",
+            "when": "1980"
+        },
+        {
+            "value": 12584,
+            "what": "Total beneficiaries",
+            "when": "1990"
+        },
+        {
+            "value": 14812,
+            "what": "Total beneficiaries",
+            "when": "2000"
+        },
+        {
+            "value": 14114,
+            "what": "Total beneficiaries",
+            "when": "2010"
+        },
+        {
+            "value": 14177,
+            "what": "Total beneficiaries",
+            "when": "2011"
+        },
+        {
+            "value": 14107,
+            "what": "Total beneficiaries",
+            "when": "2012"
+        },
+        {
+            "value": 14382,
+            "what": "Total beneficiaries",
+            "when": "2013"
+        },
+        {
+            "value": 14530,
+            "what": "Total beneficiaries",
+            "when": "2014"
+        },
+        {
+            "value": 14174,
+            "what": "Total beneficiaries",
+            "when": "2015"
+        },
+        {
+            "value": 13905,
+            "what": "Total beneficiaries",
+            "when": "2016"
+        },
+        {
+            "value": 13574,
+            "what": "Total beneficiaries",
+            "when": "2017"
+        },
+        {
+            "value": 13192,
+            "what": "Total beneficiaries",
+            "when": "2018"
+        },
+        {
+            "value": 13796,
+            "what": "Old legislation annuities",
+            "when": "2013"
+        },
+        {
+            "value": 13687,
+            "what": "Old legislation annuities",
+            "when": "2014"
+        },
+        {
+            "value": 13148,
+            "what": "Old legislation annuities",
+            "when": "2015"
+        },
+        {
+            "value": 12806,
+            "what": "Old legislation annuities",
+            "when": "2016"
+        },
+        {
+            "value": 12398,
+            "what": "Old legislation annuities",
+            "when": "2017"
+        },
+        {
+            "value": 11982,
+            "what": "Old legislation annuities",
+            "when": "2018"
+        },
+        {
+            "value": 586,
+            "what": "Annuities new legislation",
+            "when": "2013"
+        },
+        {
+            "value": 843,
+            "what": "Annuities new legislation",
+            "when": "2014"
+        },
+        {
+            "value": 1026,
+            "what": "Annuities new legislation",
+            "when": "2015"
+        },
+        {
+            "value": 1099,
+            "what": "Annuities new legislation",
+            "when": "2016"
+        },
+        {
+            "value": 1176,
+            "what": "Annuities new legislation",
+            "when": "2017"
+        },
+        {
+            "value": 1210,
+            "what": "Annuities new legislation",
+            "when": "2018"
+        },
+        {
+            "value": 3991,
+            "what": "Agriculture and forestry section",
+            "when": "1960"
+        },
+        {
+            "value": 3443,
+            "what": "Agriculture and forestry section",
+            "when": "1970"
+        },
+        {
+            "value": 3194,
+            "what": "Agriculture and forestry section",
+            "when": "1980"
+        },
+        {
+            "value": 2771,
+            "what": "Agriculture and forestry section",
+            "when": "1990"
+        },
+        {
+            "value": 2190,
+            "what": "Agriculture and forestry section",
+            "when": "2000"
+        },
+        {
+            "value": 1691,
+            "what": "Agriculture and forestry section",
+            "when": "2010"
+        },
+        {
+            "value": 10059,
+            "what": "Industrial section",
+            "when": "1960"
+        },
+        {
+            "value": 9971,
+            "what": "Industrial section",
+            "when": "1970"
+        },
+        {
+            "value": 9920,
+            "what": "Industrial section",
+            "when": "1980"
+        },
+        {
+            "value": 9813,
+            "what": "Industrial section",
+            "when": "1990"
+        },
+        {
+            "value": 12622,
+            "what": "Industrial section",
+            "when": "2000"
+        },
+        {
+            "value": 12423,
+            "what": "Industrial section",
+            "when": "2010"
+        },
+        {
+            "value": 91958,
+            "what": "Total beneficiaries",
+            "when": "1990"
+        },
+        {
+            "value": 119356,
+            "what": "Total beneficiaries",
+            "when": "2000"
+        },
+        {
+            "value": 155495,
+            "what": "Total beneficiaries",
+            "when": "2010"
+        },
+        {
+            "value": 160564,
+            "what": "Total beneficiaries",
+            "when": "2011"
+        },
+        {
+            "value": 165968,
+            "what": "Total beneficiaries",
+            "when": "2012"
+        },
+        {
+            "value": 171205,
+            "what": "Total beneficiaries",
+            "when": "2013"
+        },
+        {
+            "value": 177642,
+            "what": "Total beneficiaries",
+            "when": "2014"
+        },
+        {
+            "value": 185147,
+            "what": "Total beneficiaries",
+            "when": "2015"
+        },
+        {
+            "value": 191280,
+            "what": "Total beneficiaries",
+            "when": "2016"
+        },
+        {
+            "value": 196888,
+            "what": "Total beneficiaries",
+            "when": "2017"
+        },
+        {
+            "value": 203104,
+            "what": "Total beneficiaries",
+            "when": "2018"
+        },
+        {
+            "value": 210246,
+            "what": "Total beneficiaries",
+            "when": "2019"
+        },
+        {
+            "value": 8628,
+            "what": "Public sector",
+            "when": "1960"
+        },
+        {
+            "value": 8998,
+            "what": "Public sector",
+            "when": "1970"
+        },
+        {
+            "value": 10525,
+            "what": "Public sector",
+            "when": "1980"
+        },
+        {
+            "value": 10998,
+            "what": "Public sector",
+            "when": "1990"
+        },
+        {
+            "value": 11785,
+            "what": "Public sector",
+            "when": "2000"
+        },
+        {
+            "value": 14772,
+            "what": "Public sector",
+            "when": "2010"
+        },
+        {
+            "value": 15052,
+            "what": "Public sector",
+            "when": "2011"
+        },
+        {
+            "value": 15482,
+            "what": "Public sector",
+            "when": "2012"
+        },
+        {
+            "value": 15681,
+            "what": "Public sector",
+            "when": "2013"
+        },
+        {
+            "value": 16311,
+            "what": "Public sector",
+            "when": "2014"
+        },
+        {
+            "value": 17780,
+            "what": "Public sector",
+            "when": "2015"
+        },
+        {
+            "value": 18222,
+            "what": "Public sector",
+            "when": "2016"
+        },
+        {
+            "value": 18750,
+            "what": "Public sector",
+            "when": "2017"
+        },
+        {
+            "value": 19266,
+            "what": "Public sector",
+            "when": "2018"
+        },
+        {
+            "value": 19751,
+            "what": "Public sector",
+            "when": "2019"
+        },
+        {
+            "value": 2543,
+            "what": "State officials and employees",
+            "when": "1960"
+        },
+        {
+            "value": 3077,
+            "what": "State officials and employees",
+            "when": "1970"
+        },
+        {
+            "value": 4238,
+            "what": "State officials and employees",
+            "when": "1980"
+        },
+        {
+            "value": 5289,
+            "what": "State officials and employees",
+            "when": "1990"
+        },
+        {
+            "value": 6172,
+            "what": "State officials and employees",
+            "when": "2000"
+        },
+        {
+            "value": 8590,
+            "what": "State officials and employees",
+            "when": "2010"
+        },
+        {
+            "value": 8841,
+            "what": "State officials and employees",
+            "when": "2011"
+        },
+        {
+            "value": 9214,
+            "what": "State officials and employees",
+            "when": "2012"
+        },
+        {
+            "value": 9348,
+            "what": "State officials and employees",
+            "when": "2013"
+        },
+        {
+            "value": 9873,
+            "what": "State officials and employees",
+            "when": "2014"
+        },
+        {
+            "value": 11452,
+            "what": "State officials and employees",
+            "when": "2015"
+        },
+        {
+            "value": 11844,
+            "what": "State officials and employees",
+            "when": "2016"
+        },
+        {
+            "value": 12271,
+            "what": "State officials and employees",
+            "when": "2017"
+        },
+        {
+            "value": 12721,
+            "what": "State officials and employees",
+            "when": "2018"
+        },
+        {
+            "value": 13132,
+            "what": "State officials and employees",
+            "when": "2019"
+        },
+        {
+            "value": 886,
+            "what": "Municipal employees",
+            "when": "1960"
+        },
+        {
+            "value": 1180,
+            "what": "Municipal employees",
+            "when": "1970"
+        },
+        {
+            "value": 1477,
+            "what": "Municipal employees",
+            "when": "1980"
+        },
+        {
+            "value": 1569,
+            "what": "Municipal employees",
+            "when": "1990"
+        },
+        {
+            "value": 1747,
+            "what": "Municipal employees",
+            "when": "2000"
+        },
+        {
+            "value": 2302,
+            "what": "Municipal employees",
+            "when": "2010"
+        },
+        {
+            "value": 2362,
+            "what": "Municipal employees",
+            "when": "2011"
+        },
+        {
+            "value": 2417,
+            "what": "Municipal employees",
+            "when": "2012"
+        },
+        {
+            "value": 2480,
+            "what": "Municipal employees",
+            "when": "2013"
+        },
+        {
+            "value": 2561,
+            "what": "Municipal employees",
+            "when": "2014"
+        },
+        {
+            "value": 2700,
+            "what": "Municipal employees",
+            "when": "2015"
+        },
+        {
+            "value": 2767,
+            "what": "Municipal employees",
+            "when": "2016"
+        },
+        {
+            "value": 2874,
+            "what": "Municipal employees",
+            "when": "2017"
+        },
+        {
+            "value": 2982,
+            "what": "Municipal employees",
+            "when": "2018"
+        },
+        {
+            "value": 3102,
+            "what": "Municipal employees",
+            "when": "2019"
+        },
+        {
+            "value": 5199,
+            "what": "C.F.L.",
+            "when": "1960"
+        },
+        {
+            "value": 4741,
+            "what": "C.F.L.",
+            "when": "1970"
+        },
+        {
+            "value": 4810,
+            "what": "C.F.L.",
+            "when": "1980"
+        },
+        {
+            "value": 4140,
+            "what": "C.F.L.",
+            "when": "1990"
+        },
+        {
+            "value": 3866,
+            "what": "C.F.L.",
+            "when": "2000"
+        },
+        {
+            "value": 3880,
+            "what": "C.F.L.",
+            "when": "2010"
+        },
+        {
+            "value": 3849,
+            "what": "C.F.L.",
+            "when": "2011"
+        },
+        {
+            "value": 3851,
+            "what": "C.F.L.",
+            "when": "2012"
+        },
+        {
+            "value": 3853,
+            "what": "C.F.L.",
+            "when": "2013"
+        },
+        {
+            "value": 3877,
+            "what": "C.F.L.",
+            "when": "2014"
+        },
+        {
+            "value": 3628,
+            "what": "C.F.L.",
+            "when": "2015"
+        },
+        {
+            "value": 3611,
+            "what": "C.F.L.",
+            "when": "2016"
+        },
+        {
+            "value": 3605,
+            "what": "C.F.L.",
+            "when": "2017"
+        },
+        {
+            "value": 3563,
+            "what": "C.F.L.",
+            "when": "2018"
+        },
+        {
+            "value": 3517,
+            "what": "C.F.L.",
+            "when": "2019"
+        },
+        {
+            "value": 67778,
+            "what": "Private sector",
+            "when": "1980"
+        },
+        {
+            "value": 80958,
+            "what": "Private sector",
+            "when": "1990"
+        },
+        {
+            "value": 107571,
+            "what": "Private sector",
+            "when": "2000"
+        },
+        {
+            "value": 140723,
+            "what": "Private sector",
+            "when": "2010"
+        },
+        {
+            "value": 145512,
+            "what": "Private sector",
+            "when": "2011"
+        },
+        {
+            "value": 150486,
+            "what": "Private sector",
+            "when": "2012"
+        },
+        {
+            "value": 155524,
+            "what": "Private sector",
+            "when": "2013"
+        },
+        {
+            "value": 161331,
+            "what": "Private sector",
+            "when": "2014"
+        },
+        {
+            "value": 167367,
+            "what": "Private sector",
+            "when": "2015"
+        },
+        {
+            "value": 173058,
+            "what": "Private sector",
+            "when": "2016"
+        },
+        {
+            "value": 178138,
+            "what": "Private sector",
+            "when": "2017"
+        },
+        {
+            "value": 183838,
+            "what": "Private sector",
+            "when": "2018"
+        },
+        {
+            "value": 190495,
+            "what": "Private sector",
+            "when": "2019"
+        },
+        {
+            "value": 42584,
+            "what": "Workers",
+            "when": "1980"
+        },
+        {
+            "value": 52218,
+            "what": "Workers",
+            "when": "1990"
+        },
+        {
+            "value": 70798,
+            "what": "Workers",
+            "when": "2000"
+        },
+        {
+            "value": 9980,
+            "what": "Private employees",
+            "when": "1980"
+        },
+        {
+            "value": 13586,
+            "what": "Private employees",
+            "when": "1990"
+        },
+        {
+            "value": 21708,
+            "what": "Private employees",
+            "when": "2000"
+        },
+        {
+            "value": 7396,
+            "what": "Farmers",
+            "when": "1980"
+        },
+        {
+            "value": 7910,
+            "what": "Farmers",
+            "when": "1990"
+        },
+        {
+            "value": 8361,
+            "what": "Farmers",
+            "when": "2000"
+        },
+        {
+            "value": 7818,
+            "what": "Craftsmen, traders and industrialists",
+            "when": "1980"
+        },
+        {
+            "value": 7244,
+            "what": "Craftsmen, traders and industrialists",
+            "when": "1990"
+        },
+        {
+            "value": 6704,
+            "what": "Craftsmen, traders and industrialists",
+            "when": "2000"
+        }
+    ]
+}

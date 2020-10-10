@@ -1,0 +1,362 @@
+{
+    "dataset_description": "This dataset includes the following resource (s): <br> Personal injury accidents and road traffic victims 1970 - 2018 <br> Personal injury accidents according to their nature 1991 - 2018 <br> Accident victims by road user category according to severity, sex and age 1980 - 2018 <br> Bodily accidents and road traffic victims by canton and municipality 2005 - 2018 <br> Road traffic bodily accidents by month in 2018 <br> Victims killed by the road user category 1991 - 2018 <br> <br> --------------------------------- ------ <br> Automatically synched from statistical portal (category Accidents / Bodily road traffic accidents)",
+    "path": "accidents-accidents-corporels-de-circulation-routiere/Accidents-corporels-selon-leur-nature-1991-2018.csv",
+    "table_description": "Bodily accidents according to their nature 1991 - 2018",
+    "values": [
+        {
+            "value": 535,
+            "what": "Collision between moving vehicles",
+            "when": 1991
+        },
+        {
+            "value": 424,
+            "what": "Collision between moving vehicles",
+            "when": 2000
+        },
+        {
+            "value": 413,
+            "what": "Collision between moving vehicles",
+            "when": 2010
+        },
+        {
+            "value": 435,
+            "what": "Collision between moving vehicles",
+            "when": 2011
+        },
+        {
+            "value": 459,
+            "what": "Collision between moving vehicles",
+            "when": 2012
+        },
+        {
+            "value": 440,
+            "what": "Collision between moving vehicles",
+            "when": 2013
+        },
+        {
+            "value": 458,
+            "what": "Collision between moving vehicles",
+            "when": 2014
+        },
+        {
+            "value": 495,
+            "what": "Collision between moving vehicles",
+            "when": 2015
+        },
+        {
+            "value": 472,
+            "what": "Collision between moving vehicles",
+            "when": 2016
+        },
+        {
+            "value": 493,
+            "what": "Collision between moving vehicles",
+            "when": 2017
+        },
+        {
+            "value": 508,
+            "what": "Collision between moving vehicles",
+            "when": 2018
+        },
+        {
+            "value": 512,
+            "what": "Collision between moving vehicles",
+            "when": 2019
+        },
+        {
+            "value": 86,
+            "what": "Collision between a vehicle and a tree",
+            "when": 1991
+        },
+        {
+            "value": 100,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2000
+        },
+        {
+            "value": 65,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2010
+        },
+        {
+            "value": 77,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2011
+        },
+        {
+            "value": 94,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2012
+        },
+        {
+            "value": 97,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2013
+        },
+        {
+            "value": 83,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2014
+        },
+        {
+            "value": 77,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2015
+        },
+        {
+            "value": 68,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2016
+        },
+        {
+            "value": 71,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2017
+        },
+        {
+            "value": 84,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2018
+        },
+        {
+            "value": 74,
+            "what": "Collision between a vehicle and a tree",
+            "when": 2019
+        },
+        {
+            "value": 187,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 1991
+        },
+        {
+            "value": 153,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2000
+        },
+        {
+            "value": 143,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2010
+        },
+        {
+            "value": 169,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2011
+        },
+        {
+            "value": 190,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2012
+        },
+        {
+            "value": 177,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2013
+        },
+        {
+            "value": 135,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2014
+        },
+        {
+            "value": 157,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2015
+        },
+        {
+            "value": 146,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2016
+        },
+        {
+            "value": 141,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2017
+        },
+        {
+            "value": 150,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2018
+        },
+        {
+            "value": 166,
+            "what": "Collision between a vehicle and an obstacle",
+            "when": 2019
+        },
+        {
+            "value": 170,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 1991
+        },
+        {
+            "value": 110,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2000
+        },
+        {
+            "value": 148,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2010
+        },
+        {
+            "value": 157,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2011
+        },
+        {
+            "value": 193,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2012
+        },
+        {
+            "value": 150,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2013
+        },
+        {
+            "value": 151,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2014
+        },
+        {
+            "value": 161,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2015
+        },
+        {
+            "value": 176,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2016
+        },
+        {
+            "value": 172,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2017
+        },
+        {
+            "value": 137,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2018
+        },
+        {
+            "value": 158,
+            "what": "Collision between a vehicle and a pedestrian",
+            "when": 2019
+        },
+        {
+            "value": 6,
+            "what": "Collision between a vehicle and an animal",
+            "when": 1991
+        },
+        {
+            "value": 2,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2000
+        },
+        {
+            "value": 2,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2010
+        },
+        {
+            "value": 6,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2012
+        },
+        {
+            "value": 2,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2013
+        },
+        {
+            "value": 3,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2014
+        },
+        {
+            "value": 1,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2015
+        },
+        {
+            "value": 4,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2016
+        },
+        {
+            "value": 2,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2017
+        },
+        {
+            "value": 3,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2018
+        },
+        {
+            "value": 4,
+            "what": "Collision between a vehicle and an animal",
+            "when": 2019
+        },
+        {
+            "value": 145,
+            "what": "Other types of accidents",
+            "when": 1991
+        },
+        {
+            "value": 112,
+            "what": "Other types of accidents",
+            "when": 2000
+        },
+        {
+            "value": 105,
+            "what": "Other types of accidents",
+            "when": 2010
+        },
+        {
+            "value": 124,
+            "what": "Other types of accidents",
+            "when": 2011
+        },
+        {
+            "value": 77,
+            "what": "Other types of accidents",
+            "when": 2012
+        },
+        {
+            "value": 83,
+            "what": "Other types of accidents",
+            "when": 2013
+        },
+        {
+            "value": 78,
+            "what": "Other types of accidents",
+            "when": 2014
+        },
+        {
+            "value": 92,
+            "what": "Other types of accidents",
+            "when": 2015
+        },
+        {
+            "value": 75,
+            "what": "Other types of accidents",
+            "when": 2016
+        },
+        {
+            "value": 76,
+            "what": "Other types of accidents",
+            "when": 2017
+        },
+        {
+            "value": 65,
+            "what": "Other types of accidents",
+            "when": 2018
+        },
+        {
+            "value": 74,
+            "what": "Other types of accidents",
+            "when": 2019
+        }
+    ]
+}

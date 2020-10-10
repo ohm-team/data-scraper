@@ -1,0 +1,637 @@
+{
+    "dataset_description": "This dataset includes the following resource (s): <br> Personal injury accidents and road traffic victims 1970 - 2018 <br> Personal injury accidents according to their nature 1991 - 2018 <br> Accident victims by road user category according to severity, sex and age 1980 - 2018 <br> Bodily accidents and road traffic victims by canton and municipality 2005 - 2018 <br> Road traffic bodily accidents by month in 2018 <br> Victims killed by the road user category 1991 - 2018 <br> <br> --------------------------------- ------ <br> Automatically synched from statistical portal (category Accidents / Bodily road traffic accidents)",
+    "path": "accidents-accidents-corporels-de-circulation-routiere/Accidents-corporels-et-victimes-de-la-circulation-routi-re-1970-2018.csv",
+    "table_description": "Bodily accidents and road traffic victims 1970 - 2018",
+    "values": [
+        {
+            "value": 1607,
+            "what": "Bodily accidents",
+            "when": 1970
+        },
+        {
+            "value": 1577,
+            "what": "Bodily accidents",
+            "when": 1980
+        },
+        {
+            "value": 1216,
+            "what": "Bodily accidents",
+            "when": 1990
+        },
+        {
+            "value": 901,
+            "what": "Bodily accidents",
+            "when": 2000
+        },
+        {
+            "value": 876,
+            "what": "Bodily accidents",
+            "when": 2010
+        },
+        {
+            "value": 962,
+            "what": "Bodily accidents",
+            "when": 2011
+        },
+        {
+            "value": 1019,
+            "what": "Bodily accidents",
+            "when": 2012
+        },
+        {
+            "value": 949,
+            "what": "Bodily accidents",
+            "when": 2013
+        },
+        {
+            "value": 908,
+            "what": "Bodily accidents",
+            "when": 2014
+        },
+        {
+            "value": 983,
+            "what": "Bodily accidents",
+            "when": 2015
+        },
+        {
+            "value": 941,
+            "what": "Bodily accidents",
+            "when": 2016
+        },
+        {
+            "value": 955,
+            "what": "Bodily accidents",
+            "when": 2017
+        },
+        {
+            "value": 947,
+            "what": "Bodily accidents",
+            "when": 2018
+        },
+        {
+            "value": 988,
+            "what": "Bodily accidents",
+            "when": 2019
+        },
+        {
+            "value": 115,
+            "what": "Mortals",
+            "when": 1970
+        },
+        {
+            "value": 95,
+            "what": "Mortals",
+            "when": 1980
+        },
+        {
+            "value": 60,
+            "what": "Mortals",
+            "when": 1990
+        },
+        {
+            "value": 68,
+            "what": "Mortals",
+            "when": 2000
+        },
+        {
+            "value": 29,
+            "what": "Mortals",
+            "when": 2010
+        },
+        {
+            "value": 30,
+            "what": "Mortals",
+            "when": 2011
+        },
+        {
+            "value": 34,
+            "what": "Mortals",
+            "when": 2012
+        },
+        {
+            "value": 41,
+            "what": "Mortals",
+            "when": 2013
+        },
+        {
+            "value": 31,
+            "what": "Mortals",
+            "when": 2014
+        },
+        {
+            "value": 33,
+            "what": "Mortals",
+            "when": 2015
+        },
+        {
+            "value": 29,
+            "what": "Mortals",
+            "when": 2016
+        },
+        {
+            "value": 24,
+            "what": "Mortals",
+            "when": 2017
+        },
+        {
+            "value": 31,
+            "what": "Mortals",
+            "when": 2018
+        },
+        {
+            "value": 22,
+            "what": "Mortals",
+            "when": 2019
+        },
+        {
+            "value": 1492,
+            "what": "Non fatal",
+            "when": 1970
+        },
+        {
+            "value": 1482,
+            "what": "Non fatal",
+            "when": 1980
+        },
+        {
+            "value": 1156,
+            "what": "Non fatal",
+            "when": 1990
+        },
+        {
+            "value": 833,
+            "what": "Non fatal",
+            "when": 2000
+        },
+        {
+            "value": 847,
+            "what": "Non fatal",
+            "when": 2010
+        },
+        {
+            "value": 932,
+            "what": "Non fatal",
+            "when": 2011
+        },
+        {
+            "value": 985,
+            "what": "Non fatal",
+            "when": 2012
+        },
+        {
+            "value": 908,
+            "what": "Non fatal",
+            "when": 2013
+        },
+        {
+            "value": 877,
+            "what": "Non fatal",
+            "when": 2014
+        },
+        {
+            "value": 950,
+            "what": "Non fatal",
+            "when": 2015
+        },
+        {
+            "value": 912,
+            "what": "Non fatal",
+            "when": 2016
+        },
+        {
+            "value": 931,
+            "what": "Non fatal",
+            "when": 2017
+        },
+        {
+            "value": 916,
+            "what": "Non fatal",
+            "when": 2018
+        },
+        {
+            "value": 966,
+            "what": "Non fatal",
+            "when": 2019
+        },
+        {
+            "value": 2499,
+            "what": "Total casualties",
+            "when": 1970
+        },
+        {
+            "value": 2381,
+            "what": "Total casualties",
+            "when": 1980
+        },
+        {
+            "value": 1849,
+            "what": "Total casualties",
+            "when": 1990
+        },
+        {
+            "value": 1333,
+            "what": "Total casualties",
+            "when": 2000
+        },
+        {
+            "value": 1217,
+            "what": "Total casualties",
+            "when": 2010
+        },
+        {
+            "value": 1341,
+            "what": "Total casualties",
+            "when": 2011
+        },
+        {
+            "value": 1412,
+            "what": "Total casualties",
+            "when": 2012
+        },
+        {
+            "value": 1297,
+            "what": "Total casualties",
+            "when": 2013
+        },
+        {
+            "value": 1261,
+            "what": "Total casualties",
+            "when": 2014
+        },
+        {
+            "value": 1384,
+            "what": "Total casualties",
+            "when": 2015
+        },
+        {
+            "value": 1235,
+            "what": "Total casualties",
+            "when": 2016
+        },
+        {
+            "value": 1297,
+            "what": "Total casualties",
+            "when": 2017
+        },
+        {
+            "value": 1254,
+            "what": "Total casualties",
+            "when": 2018
+        },
+        {
+            "value": 1318,
+            "what": "Total casualties",
+            "when": 2019
+        },
+        {
+            "value": 43,
+            "what": "Killed on the spot",
+            "when": 1970
+        },
+        {
+            "value": 19,
+            "what": "Killed on the spot",
+            "when": 1980
+        },
+        {
+            "value": 45,
+            "what": "Killed on the spot",
+            "when": 1990
+        },
+        {
+            "value": 59,
+            "what": "Killed on the spot",
+            "when": 2000
+        },
+        {
+            "value": 27,
+            "what": "Killed on the spot",
+            "when": 2010
+        },
+        {
+            "value": 21,
+            "what": "Killed on the spot",
+            "when": 2011
+        },
+        {
+            "value": 23,
+            "what": "Killed on the spot",
+            "when": 2012
+        },
+        {
+            "value": 38,
+            "what": "Killed on the spot",
+            "when": 2013
+        },
+        {
+            "value": 27,
+            "what": "Killed on the spot",
+            "when": 2014
+        },
+        {
+            "value": 23,
+            "what": "Killed on the spot",
+            "when": 2015
+        },
+        {
+            "value": 21,
+            "what": "Killed on the spot",
+            "when": 2016
+        },
+        {
+            "value": 16,
+            "what": "Killed on the spot",
+            "when": 2017
+        },
+        {
+            "value": 23,
+            "what": "Killed on the spot",
+            "when": 2018
+        },
+        {
+            "value": 15,
+            "what": "Killed on the spot",
+            "when": 2019
+        },
+        {
+            "value": 89,
+            "what": "Deceased within 30 days",
+            "when": 1970
+        },
+        {
+            "value": 79,
+            "what": "Deceased within 30 days",
+            "when": 1980
+        },
+        {
+            "value": 26,
+            "what": "Deceased within 30 days",
+            "when": 1990
+        },
+        {
+            "value": 17,
+            "what": "Deceased within 30 days",
+            "when": 2000
+        },
+        {
+            "value": 5,
+            "what": "Deceased within 30 days",
+            "when": 2010
+        },
+        {
+            "value": 12,
+            "what": "Deceased within 30 days",
+            "when": 2011
+        },
+        {
+            "value": 11,
+            "what": "Deceased within 30 days",
+            "when": 2012
+        },
+        {
+            "value": 7,
+            "what": "Deceased within 30 days",
+            "when": 2013
+        },
+        {
+            "value": 8,
+            "what": "Deceased within 30 days",
+            "when": 2014
+        },
+        {
+            "value": 13,
+            "what": "Deceased within 30 days",
+            "when": 2015
+        },
+        {
+            "value": 11,
+            "what": "Deceased within 30 days",
+            "when": 2016
+        },
+        {
+            "value": 9,
+            "what": "Deceased within 30 days",
+            "when": 2017
+        },
+        {
+            "value": 13,
+            "what": "Deceased within 30 days",
+            "when": 2018
+        },
+        {
+            "value": 7,
+            "what": "Deceased within 30 days",
+            "when": 2019
+        },
+        {
+            "value": 2367,
+            "what": "Wounded",
+            "when": 1970
+        },
+        {
+            "value": 2283,
+            "what": "Wounded",
+            "when": 1980
+        },
+        {
+            "value": 1778,
+            "what": "Wounded",
+            "when": 1990
+        },
+        {
+            "value": 1257,
+            "what": "Wounded",
+            "when": 2000
+        },
+        {
+            "value": 1185,
+            "what": "Wounded",
+            "when": 2010
+        },
+        {
+            "value": 1308,
+            "what": "Wounded",
+            "when": 2011
+        },
+        {
+            "value": 1378,
+            "what": "Wounded",
+            "when": 2012
+        },
+        {
+            "value": 1252,
+            "what": "Wounded",
+            "when": 2013
+        },
+        {
+            "value": 1226,
+            "what": "Wounded",
+            "when": 2014
+        },
+        {
+            "value": 1348,
+            "what": "Wounded",
+            "when": 2015
+        },
+        {
+            "value": 1203,
+            "what": "Wounded",
+            "when": 2016
+        },
+        {
+            "value": 1272,
+            "what": "Wounded",
+            "when": 2017
+        },
+        {
+            "value": 1218,
+            "what": "Wounded",
+            "when": 2018
+        },
+        {
+            "value": 1296,
+            "what": "Wounded",
+            "when": 2019
+        },
+        {
+            "value": 1082,
+            "what": "Serious injuries",
+            "when": 1970
+        },
+        {
+            "value": 959,
+            "what": "Serious injuries",
+            "when": 1980
+        },
+        {
+            "value": 556,
+            "what": "Serious injuries",
+            "when": 1990
+        },
+        {
+            "value": 400,
+            "what": "Serious injuries",
+            "when": 2000
+        },
+        {
+            "value": 266,
+            "what": "Serious injuries",
+            "when": 2010
+        },
+        {
+            "value": 317,
+            "what": "Serious injuries",
+            "when": 2011
+        },
+        {
+            "value": 339,
+            "what": "Serious injuries",
+            "when": 2012
+        },
+        {
+            "value": 316,
+            "what": "Serious injuries",
+            "when": 2013
+        },
+        {
+            "value": 245,
+            "what": "Serious injuries",
+            "when": 2014
+        },
+        {
+            "value": 319,
+            "what": "Serious injuries",
+            "when": 2015
+        },
+        {
+            "value": 249,
+            "what": "Serious injuries",
+            "when": 2016
+        },
+        {
+            "value": 256,
+            "what": "Serious injuries",
+            "when": 2017
+        },
+        {
+            "value": 273,
+            "what": "Serious injuries",
+            "when": 2018
+        },
+        {
+            "value": 248,
+            "what": "Serious injuries",
+            "when": 2019
+        },
+        {
+            "value": 1285,
+            "what": "Slightly injured",
+            "when": 1970
+        },
+        {
+            "value": 1324,
+            "what": "Slightly injured",
+            "when": 1980
+        },
+        {
+            "value": 1222,
+            "what": "Slightly injured",
+            "when": 1990
+        },
+        {
+            "value": 857,
+            "what": "Slightly injured",
+            "when": 2000
+        },
+        {
+            "value": 919,
+            "what": "Slightly injured",
+            "when": 2010
+        },
+        {
+            "value": 991,
+            "what": "Slightly injured",
+            "when": 2011
+        },
+        {
+            "value": 1039,
+            "what": "Slightly injured",
+            "when": 2012
+        },
+        {
+            "value": 936,
+            "what": "Slightly injured",
+            "when": 2013
+        },
+        {
+            "value": 981,
+            "what": "Slightly injured",
+            "when": 2014
+        },
+        {
+            "value": 1029,
+            "what": "Slightly injured",
+            "when": 2015
+        },
+        {
+            "value": 954,
+            "what": "Slightly injured",
+            "when": 2016
+        },
+        {
+            "value": 1016,
+            "what": "Slightly injured",
+            "when": 2017
+        },
+        {
+            "value": 945,
+            "what": "Slightly injured",
+            "when": 2018
+        },
+        {
+            "value": 1048,
+            "what": "Slightly injured",
+            "when": 2019
+        }
+    ]
+}
