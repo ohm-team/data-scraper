@@ -15,14 +15,19 @@ const createQuestionItem = (parsedValue, whatPattern, whatPatternTotal, location
     pattern = locationPattern
   }
   const { value } = parsedValue
-  const what = pattern.replace('{what}', parsedValue.what).replace('{when}', parsedValue.when).replace(/\s+/, ' ').trim()
+  const what = pattern.replace('{what}', parsedValue.what).replace('{when}', parsedValue.when).replace(/\s+/g, ' ').trim()
   return { what, value }
 }
 
 const createQuestionRough = (parsedValue, description) => {
   const { value, when, what } = parsedValue
-  const whaaat = `${description} statistics for ${when} year:\n ${what} amount is {value}`.replace(/\s+/, ' ').trim()
-  return { what: whaaat, value }
+  const whatStatistics = `${description} statistics for ${when} year:`.replace(/\s+/g, ' ').trim()
+  const whatValue = `${what} amount is {value}`
+
+  const answerValue = `${what} amount in ${when}`.replace(/\s+/g, ' ').trim()
+  const answerStatistics = `by ${description} statistics`.replace(/\s+/g, ' ').trim()
+
+  return { whatStatistics, whatValue, answerValue, answerStatistics, value }
 }
 
 const processOneFile = async (vocabulary, usePatterns) => {
@@ -73,7 +78,11 @@ const createQuestionsPool = async (filePath = `${FOLDER_NAME}/questions.json`) =
 
     answers.splice(question.correctAnswerIndex, 0, pair[1])
 
-    return { question, answers: answers.map(({ what }) => what.replace('{value}', '').replace(/\s+/, ' ').trim()) }
+    return {
+      question,
+      answers: answers.map(({ answerValue, answerStatistics }) => (
+        { answerValue: answerValue.replace('{value}', ''), answerStatistics }))
+    }
   }
 
   const pairs = await findAllPairs(items)
@@ -108,7 +117,7 @@ const getQuestionItems = async (filePath, usePatterns, doFlatten) => {
 }
 
 const getRoughQuestionItems = async (filePath) => {
-  const allFilePaths =await getAllFilePaths('processed')
+  const allFilePaths = await getAllFilePaths('processed')
   let allDataSet = []
 
   for (const path of allFilePaths) {
@@ -116,7 +125,7 @@ const getRoughQuestionItems = async (filePath) => {
     allDataSet.push(...oneFile)
   }
 
-  fs.writeFileSync(filePath, JSON.stringify({items:allDataSet}))
+  fs.writeFileSync(filePath, JSON.stringify({ items: allDataSet }))
 }
 
 //getQuestionItems(`${FOLDER_NAME}/questionItems.json`, true)
