@@ -1,7 +1,7 @@
 const fs = require('fs')
 const mkdirp = require('mkdirp')
 const path = require('path')
-const { downloadFile, getLocalJSON, getJSON, getFailures } = require('../downloader')
+const { downloadFile, getAllFilePaths, getLocalJSON, getJSON, getFailures } = require('../downloader')
 
 const FOLDER_NAME = 'prepare'
 
@@ -19,12 +19,24 @@ const createQuestionItem = (parsedValue, whatPattern, whatPatternTotal, location
   return { what, value }
 }
 
-const processOneFile = async (vocabulary) => {
+const createQuestionRough = (parsedValue, description) => {
+  const { value, when, what } = parsedValue
+  const whaaat = `${description} statistics for ${when} year:\n ${what} amount is {value}`.replace(/\s+/, ' ').trim()
+  return { what: whaaat, value }
+}
+
+const processOneFile = async (vocabulary, usePatterns) => {
   const { path: filePath } = vocabulary
   // todo: add url to processed data
-  const { values, path: url } = getLocalJSON(filePath)
+  const { values, path: url, table_description } = getLocalJSON(filePath)
   return values.map(parsedValue => {
-    const item = createQuestionItem(parsedValue, vocabulary['what-pattern'], vocabulary['what-pattern-total'], vocabulary['what-pattern-location'])
+    let item
+    if (usePatterns) {
+      item = createQuestionItem(parsedValue, vocabulary['what-pattern'], vocabulary['what-pattern-total'], vocabulary['what-pattern-location'])
+    } else {
+      item = createQuestionRough(parsedValue, table_description)
+    }
+
     item.url = url
     return item
   })
@@ -70,11 +82,10 @@ const createQuestionsPool = async (filePath = `${FOLDER_NAME}/questions.json`) =
     return [creteQuestion(pair), creteQuestion(pair.reverse())]
   }).flat(1)
 
-
   fs.writeFileSync(filePath, JSON.stringify({ questions: allQuestions }))
 }
 
-const run = async (filePath, doFlatten) => {
+const getQuestionItems = async (filePath, usePatterns, doFlatten) => {
   const { vocabulary } = getLocalJSON(`${FOLDER_NAME}/vocabulary.json`)
   let allDataSet = {}
 
@@ -82,7 +93,7 @@ const run = async (filePath, doFlatten) => {
     const questionItems = []
 
     for (const item of vocabulary[dataBlockTitle]) {
-      const oneFile = await processOneFile(item)
+      const oneFile = await processOneFile(item, usePatterns)
       questionItems.push(...oneFile)
     }
 
@@ -96,7 +107,19 @@ const run = async (filePath, doFlatten) => {
   fs.writeFileSync(filePath, JSON.stringify(allDataSet))
 }
 
-//run(`${FOLDER_NAME}/questionItems.json`)
-//run(`${FOLDER_NAME}/questionItemsFlat.json`, true)
+const getRoughQuestionItems = async (filePath) => {
+  const allFilePaths =await getAllFilePaths('processed')
+  let allDataSet = []
 
+  for (const path of allFilePaths) {
+    const oneFile = await processOneFile({ path }, false)
+    allDataSet.push(...oneFile)
+  }
+
+  fs.writeFileSync(filePath, JSON.stringify({items:allDataSet}))
+}
+
+//getQuestionItems(`${FOLDER_NAME}/questionItems.json`, true)
+//getQuestionItems(`${FOLDER_NAME}/questionItemsFlat.json`, true, true)
+//getRoughQuestionItems(`${FOLDER_NAME}/questionItemsFlat.json`)
 createQuestionsPool()

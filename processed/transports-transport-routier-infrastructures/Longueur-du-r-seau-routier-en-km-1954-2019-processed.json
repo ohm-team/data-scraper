@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-routier-infrastructures/Longueur-du-r-seau-routier-en-km-1954-2019.csv",
-    "table_description": "Length of the road network (in km) 1954 - 2019",
+   "table_description": "Length of the road network (in km)",
     "values": [
         {
             "value": 2129,

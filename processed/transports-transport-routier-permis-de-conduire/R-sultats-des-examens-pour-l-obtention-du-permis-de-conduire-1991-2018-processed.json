@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-routier-permis-de-conduire/R-sultats-des-examens-pour-l-obtention-du-permis-de-conduire-1991-2018.csv",
-    "table_description": "Results of the exams for obtaining a driving license 1991 - 2018",
+   "table_description": "Results of the exams for obtaining a driving license",
     "values": [
         {
             "value": 15221,

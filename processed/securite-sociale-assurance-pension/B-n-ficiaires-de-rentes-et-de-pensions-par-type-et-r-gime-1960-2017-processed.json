@@ -1,6 +1,6 @@
 {
     "path": "securite-sociale-assurance-pension/B-n-ficiaires-de-rentes-et-de-pensions-par-type-et-r-gime-1960-2017.csv",
-    "table_description": "Recipients of pensions and pensions by type and scheme 1960 - 2017",
+   "table_description": "Recipients of pensions and pensions by type and scheme",
     "values": [
         {
             "value": 14050,

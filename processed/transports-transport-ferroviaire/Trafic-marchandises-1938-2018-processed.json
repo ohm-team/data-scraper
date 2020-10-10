@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-ferroviaire/Trafic-marchandises-1938-2018.csv",
-    "table_description": "Freight traffic 1938 - 2018",
+   "table_description": "Freight traffic",
     "values": [
         {
             "value": 12846,

@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-ferroviaire/Mat-riel-roulant-1950-2018.csv",
-    "table_description": "Rolling stock 1950 - 2018",
+   "table_description": "Rolling stock",
     "values": [
         {
             "value": 3,

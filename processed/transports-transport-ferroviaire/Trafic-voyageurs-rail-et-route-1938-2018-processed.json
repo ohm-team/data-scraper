@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-ferroviaire/Trafic-voyageurs-rail-et-route-1938-2018.csv",
-    "table_description": "Passenger traffic (rail and road) 1938 - 2018",
+   "table_description": "Passenger traffic (rail and road)",
     "values": [
         {
             "value": 9505,

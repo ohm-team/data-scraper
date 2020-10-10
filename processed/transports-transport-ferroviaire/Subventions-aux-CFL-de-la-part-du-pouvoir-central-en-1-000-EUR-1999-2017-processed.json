@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-ferroviaire/Subventions-aux-CFL-de-la-part-du-pouvoir-central-en-1-000-EUR-1999-2017.csv",
-    "table_description": "Central government grants to CFLs (in 1,000 EUR) 1999 - 2017",
+   "table_description": "Central government grants to CFLs (in 1,000 EUR)",
     "values": [
         {
             "value": 380544,

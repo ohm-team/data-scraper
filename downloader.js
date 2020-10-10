@@ -79,7 +79,25 @@ function removeAllEmptyFolders (folder) {
     return
   }
 }
+
+async function getAllFilePaths(path = "./") {
+  const entries = await fs.readdirSync(path, { withFileTypes: true });
+
+  // Get files within the current directory and add a path key to the file objects
+  const files = entries
+  .filter(file => !file.isDirectory())
+  .map(file => path + file.name );
+
+  const folders = entries.filter(folder => folder.isDirectory());
+
+  for (const folder of folders)
+    files.push(...await getAllFilePaths(`${path}/${folder.name}/`));
+
+  return files;
+}
+
 module.exports = {
+  getAllFilePaths,
   downloadFile: downloadFile,
   removeAllEmptyFolders,
   getJSON,

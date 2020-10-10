@@ -1,6 +1,6 @@
 {
     "path": "sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-par-pays-de-r-sidence-du-demandeur-1960-2018.csv",
-    "table_description": "Patent applications filed by country of residence of the applicant 1960 - 2018",
+   "table_description": "Patent applications filed by country of residence of the applicant",
     "values": [
         {
             "value": 1492,

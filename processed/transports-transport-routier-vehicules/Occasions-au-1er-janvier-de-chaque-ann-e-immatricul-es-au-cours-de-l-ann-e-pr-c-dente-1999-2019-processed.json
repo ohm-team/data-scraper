@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-routier-vehicules/Occasions-au-1er-janvier-de-chaque-ann-e-immatricul-es-au-cours-de-l-ann-e-pr-c-dente-1999-2019.csv",
-    "table_description": "Second hand on January 1 of each year, registered in the previous year 1999 - 2019",
+   "table_description": "Second hand on January 1 of each year, registered in the previous year",
     "values": [
         {
             "value": 298,

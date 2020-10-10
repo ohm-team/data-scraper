@@ -1,6 +1,6 @@
 {
     "path": "accidents-services-de-secours/Interventions-des-v-hicules-de-sauvetage-de-la-Protection-Civile-1982-2015.csv",
-    "table_description": "Interventions by Civil Protection rescue vehicles 1982 - 2015",
+   "table_description": "Interventions by Civil Protection rescue vehicles",
     "values": [
         {
             "value": 8,

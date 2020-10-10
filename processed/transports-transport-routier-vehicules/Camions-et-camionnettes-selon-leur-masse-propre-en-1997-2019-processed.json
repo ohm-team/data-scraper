@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-routier-vehicules/Camions-et-camionnettes-selon-leur-masse-propre-en-1997-2019.csv",
-    "table_description": "Trucks and vans according to their own mass (in%) 1997 - 2019",
+   "table_description": "Trucks and vans according to their own mass (in%)",
     "values": [
         {
             "value": 16276,

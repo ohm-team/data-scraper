@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-routier-passagers/Transports-routiers-des-autobus-autocars-et-tramways-1938-2017.csv",
-    "table_description": "Road transport of buses, coaches and trams 1938 - 2017",
+   "table_description": "Road transport of buses, coaches and trams",
     "values": [
         {
             "value": 8468,

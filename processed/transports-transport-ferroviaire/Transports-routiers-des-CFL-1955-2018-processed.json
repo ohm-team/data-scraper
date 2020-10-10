@@ -1,6 +1,6 @@
 {
     "path": "transports-transport-ferroviaire/Transports-routiers-des-CFL-1955-2018.csv",
-    "table_description": "CFL road transport 1955 - 2018",
+   "table_description": "CFL road transport",
     "values": [
         {
             "value": 190,

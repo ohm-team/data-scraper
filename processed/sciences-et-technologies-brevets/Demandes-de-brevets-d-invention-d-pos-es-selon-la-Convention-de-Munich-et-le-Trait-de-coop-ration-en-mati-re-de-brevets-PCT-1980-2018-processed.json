@@ -1,6 +1,6 @@
 {
     "path": "sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-selon-la-Convention-de-Munich-et-le-Trait-de-coop-ration-en-mati-re-de-brevets-PCT-1980-2018.csv",
-    "table_description": "Patent applications filed under the Munich Convention and the Patent Cooperation Treaty (PCT) 1980 - 2018",
+   "table_description": "Patent applications filed under the Munich Convention and the Patent Cooperation Treaty (PCT)",
     "values": [
         {
             "value": 487,

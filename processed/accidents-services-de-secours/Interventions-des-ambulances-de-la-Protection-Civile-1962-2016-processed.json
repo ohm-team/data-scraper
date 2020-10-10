@@ -1,6 +1,6 @@
 {
     "path": "accidents-services-de-secours/Interventions-des-ambulances-de-la-Protection-Civile-1962-2016.csv",
-    "table_description": "Interventions by Civil Protection ambulances 1962 - 2016",
+   "table_description": "Interventions by Civil Protection ambulances",
     "values": [
         {
             "value": 303,

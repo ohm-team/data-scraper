@@ -1,6 +1,6 @@
 {
     "path": "accidents-services-de-secours/Interventions-du-Groupe-de-Support-Psychologique-de-la-Protection-Civile-2000-2016.csv",
-    "table_description": "Interventions of the Psychological Support Group of Civil Protection 2000 - 2016",
+   "table_description": "Interventions of the Psychological Support Group of Civil Protection",
     "values": [
         {
             "value": 108,

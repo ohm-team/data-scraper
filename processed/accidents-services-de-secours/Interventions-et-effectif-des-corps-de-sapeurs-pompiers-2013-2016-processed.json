@@ -1,6 +1,6 @@
 {
     "path": "accidents-services-de-secours/Interventions-et-effectif-des-corps-de-sapeurs-pompiers-2013-2016.csv",
-    "table_description": "Interventions and number of firefighters 2013 - 2016",
+   "table_description": "Interventions and number of firefighters",
     "values": [
         {
             "value": 13569,

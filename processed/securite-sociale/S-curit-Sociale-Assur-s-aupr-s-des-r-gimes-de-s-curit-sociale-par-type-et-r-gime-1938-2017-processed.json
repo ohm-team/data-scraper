@@ -1,6 +1,6 @@
 {
     "path": "securite-sociale/S-curit-Sociale-Assur-s-aupr-s-des-r-gimes-de-s-curit-sociale-par-type-et-r-gime-1938-2017.csv",
-    "table_description": "Social Security / Insured with social security schemes by type and scheme 1938 - 2017",
+   "table_description": "Social Security / Insured with social security schemes by type and scheme",
     "values": [
         {
             "value": 179980,
