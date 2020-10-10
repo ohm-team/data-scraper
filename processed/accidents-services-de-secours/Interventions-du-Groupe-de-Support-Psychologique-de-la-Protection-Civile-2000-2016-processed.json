@@ -4,67 +4,67 @@
     "values": [
         {
             "value": 108,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2000
         },
         {
             "value": 239,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2005
         },
         {
             "value": 240,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2006
         },
         {
             "value": 263,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2007
         },
         {
             "value": 243,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2008
         },
         {
             "value": 218,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2009
         },
         {
             "value": 208,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2010
         },
         {
             "value": 201,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2011
         },
         {
             "value": 237,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2012
         },
         {
             "value": 244,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2013
         },
         {
             "value": 281,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2014
         },
         {
             "value": 272,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2015
         },
         {
             "value": 282,
-            "what": "Missions",
+            "what": "Missions","isTotal":true,
             "when": 2016
         },
         {

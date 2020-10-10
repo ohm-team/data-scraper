@@ -49,7 +49,12 @@ const getJSON = async (uri) => {
 }
 
 const getLocalJSON = (filePath) => {
-  return JSON.parse(fs.readFileSync(filePath).toString())
+  try {
+    return JSON.parse(fs.readFileSync(filePath).toString())
+  } catch (e){
+    console.log('Failed to get and parse ', filePath)
+    return {}
+  }
 }
 
 function removeAllEmptyFolders (folder) {
