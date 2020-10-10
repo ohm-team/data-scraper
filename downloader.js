@@ -48,6 +48,10 @@ const getJSON = async (uri) => {
   })
 }
 
+const getLocalJSON = (filePath) => {
+  return JSON.parse(fs.readFileSync(filePath).toString())
+}
+
 function removeAllEmptyFolders (folder) {
   var isDir = fs.statSync(folder).isDirectory()
   if (!isDir) {
@@ -73,5 +77,6 @@ module.exports = {
   downloadFile: downloadFile,
   removeAllEmptyFolders,
   getJSON,
+  getLocalJSON,
   getFailures: () => failures
 }

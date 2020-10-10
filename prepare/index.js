@@ -1,7 +1,20 @@
 const fs = require('fs')
 const mkdirp = require('mkdirp')
-const { downloadFile, removeAllEmptyFolders, getJSON, getFailures } = require('../downloader')
+const { downloadFile, getLocalJSON, getJSON, getFailures } = require('../downloader')
 
 const FOLDER_NAME = 'processed'
 
-removeAllEmptyFolders(FOLDER_NAME)
+const processOneFile = async (vocabulary) => {
+  const { path } = vocabulary
+  const { vocabulary } = getLocalJSON(`./vocabulary.json`)
+}
+
+const run = async () => {
+  const { vocabulary } = getLocalJSON(`./vocabulary.json`)
+  console.log(vocabulary)
+  for (const item of vocabulary) {
+    await processOneFile(item)
+  }
+}
+
+run()
