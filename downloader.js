@@ -2,6 +2,8 @@ const MAX = 5
 
 let currentConnections = 0
 const fs = require('fs')
+const path = require('path')
+const rimraf = require('rimraf')
 const axios = require('axios')
 const queue = []
 let sent = 0

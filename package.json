@@ -2,9 +2,10 @@
   "name": "opendata",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrape/index.js",
   "scripts": {
-    "scrape": "node index.js"
+    "scrape": "node scrape/index.js",
+    "prepare": "node prepare/index.js"
   },
   "author": "",
   "license": "ISC",
