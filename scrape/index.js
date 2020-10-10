@@ -51,7 +51,7 @@ async function getEverything () {
 
 async function work () {
   try {await getEverything()} catch (e) {}
-  //try {removeAllEmptyFolders(FOLDER_NAME)} catch (e) {}
+  try {removeAllEmptyFolders(FOLDER_NAME)} catch (e) {}
   console.log('finished')
   const failures = getFailures()
   console.log('retrying failures:', failures)
