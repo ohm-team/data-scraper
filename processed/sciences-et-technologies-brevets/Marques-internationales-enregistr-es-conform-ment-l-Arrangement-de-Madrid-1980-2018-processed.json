@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Marques-internationales-enregistr-es-conform-ment-l-Arrangement-de-Madrid-1980-2018.csv",
-   "table_description": "International Marks Registered Under the Madrid Agreement",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Marques-internationales-enregistr-es-conform-ment-l-Arrangement-de-Madrid-1980-2018.csv",
+    "table_description": "International Marks Registered Under the Madrid Agreement 1980 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/4fafb566-3e6e-47ea-a2e9-87dd17f1a3ec",
     "values": [
         {
             "value": 8028,

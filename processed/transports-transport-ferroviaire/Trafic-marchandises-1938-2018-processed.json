@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Trafic-marchandises-1938-2018.csv",
-   "table_description": "Freight traffic",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Trafic-marchandises-1938-2018.csv",
+    "table_description": "Freight traffic 1938 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/ceae8a2b-a9a9-4af1-bf02-170f7cd95e0e",
     "values": [
         {
             "value": 12846,

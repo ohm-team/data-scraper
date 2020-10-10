@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Subventions-aux-CFL-de-la-part-du-pouvoir-central-en-1-000-EUR-1999-2017.csv",
-   "table_description": "Central government grants to CFLs (in 1,000 EUR)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Subventions-aux-CFL-de-la-part-du-pouvoir-central-en-1-000-EUR-1999-2017.csv",
+    "table_description": "Central government grants to CFLs (in 1,000 EUR) 1999 - 2017",
+    "url": "https://data.public.lu/fr/datasets/r/ca08ec3e-4e82-4de4-9615-9a7ef23b902a",
     "values": [
         {
             "value": 380544,

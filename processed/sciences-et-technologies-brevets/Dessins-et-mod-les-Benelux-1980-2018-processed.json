@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Dessins-et-mod-les-Benelux-1980-2018.csv",
-   "table_description": "Benelux designs",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Dessins-et-mod-les-Benelux-1980-2018.csv",
+    "table_description": "Benelux designs 1980 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/bf87950b-f7a0-48dd-af21-6a57dcc374cd",
     "values": [
         {
             "value": 3131,

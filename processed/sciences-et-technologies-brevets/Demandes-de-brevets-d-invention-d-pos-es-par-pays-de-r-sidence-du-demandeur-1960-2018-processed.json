@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-par-pays-de-r-sidence-du-demandeur-1960-2018.csv",
-   "table_description": "Patent applications filed by country of residence of the applicant",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Demandes-de-brevets-d-invention-d-pos-es-par-pays-de-r-sidence-du-demandeur-1960-2018.csv",
+    "table_description": "Patent applications filed by country of residence of the applicant 1960 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/21f163fc-7360-48ad-a3cc-a16be7fd813e",
     "values": [
         {
             "value": 1492,

@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-routier-passagers/Transports-routiers-des-autobus-autocars-et-tramways-1938-2017.csv",
-   "table_description": "Road transport of buses, coaches and trams",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-routier-passagers/Transports-routiers-des-autobus-autocars-et-tramways-1938-2017.csv",
+    "table_description": "Road transport of buses, coaches and trams 1938 - 2017",
+    "url": "https://data.public.lu/fr/datasets/r/3ed7c7b9-c5a0-4fc8-97e0-22719286ed7b",
     "values": [
         {
             "value": 8468,

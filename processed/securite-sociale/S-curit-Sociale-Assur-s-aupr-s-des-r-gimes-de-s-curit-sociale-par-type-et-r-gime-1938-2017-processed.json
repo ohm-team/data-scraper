@@ -1,6 +1,7 @@
 {
-    "path": "securite-sociale/S-curit-Sociale-Assur-s-aupr-s-des-r-gimes-de-s-curit-sociale-par-type-et-r-gime-1938-2017.csv",
-   "table_description": "Social Security / Insured with social security schemes by type and scheme",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/securite-sociale/S-curit-Sociale-Assur-s-aupr-s-des-r-gimes-de-s-curit-sociale-par-type-et-r-gime-1938-2017.csv",
+    "table_description": "Social Security / Insured with social security schemes by type and scheme 1938 - 2017",
+    "url": "https://data.public.lu/fr/datasets/r/5e03272e-6ff1-42bb-bc3d-3159d39bdd2a",
     "values": [
         {
             "value": 179980,

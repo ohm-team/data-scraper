@@ -33,8 +33,9 @@ const createQuestionRough = (parsedValue, description) => {
 const processOneFile = async (vocabulary, usePatterns) => {
   const { path: filePath } = vocabulary
   // todo: add url to processed data
-  const { values, path: url, table_description } = getLocalJSON(filePath)
-  return values.map(parsedValue => {
+  const { values, url, table_description } = getLocalJSON(filePath)
+
+  return (values || []).map(parsedValue => {
     let item
     if (usePatterns) {
       item = createQuestionItem(parsedValue, vocabulary['what-pattern'], vocabulary['what-pattern-total'], vocabulary['what-pattern-location'])
@@ -89,8 +90,8 @@ const createQuestionsPool = async (json) => {
   const pairs = await findAllPairs(items)
 
   const allQuestions = pairs.map(pair => {
-    return [creteQuestion(pair), creteQuestion(pair.reverse())]
-  }).flat(1)
+    return creteQuestion(pair)
+  })
 
   fs.writeFileSync(filePath, JSON.stringify({ questions: allQuestions }))
 }
@@ -126,7 +127,7 @@ const getRoughQuestionItems = async (filePath, writeToFile) => {
     allDataSet.push(...oneFile)
   }
 
-  if(writeToFile){
+  if (writeToFile) {
     fs.writeFileSync(filePath, JSON.stringify({ items: allDataSet }))
   }
   return { items: allDataSet }

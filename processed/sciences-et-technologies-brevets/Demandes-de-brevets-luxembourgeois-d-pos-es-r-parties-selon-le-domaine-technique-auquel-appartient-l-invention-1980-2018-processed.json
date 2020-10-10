@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Demandes-de-brevets-luxembourgeois-d-pos-es-r-parties-selon-le-domaine-technique-auquel-appartient-l-invention-1980-2018.csv",
-   "table_description": "Luxembourg patent applications filed, broken down according to the technical field to which the invention belongs",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Demandes-de-brevets-luxembourgeois-d-pos-es-r-parties-selon-le-domaine-technique-auquel-appartient-l-invention-1980-2018.csv",
+    "table_description": "Luxembourg patent applications filed, broken down according to the technical field to which the invention belongs 1980 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/a29f8997-f00d-4b11-b6ad-76a38a919351",
     "values": [
         {
             "value": 994,

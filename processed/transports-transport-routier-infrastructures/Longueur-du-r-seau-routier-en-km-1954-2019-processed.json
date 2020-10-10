@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-routier-infrastructures/Longueur-du-r-seau-routier-en-km-1954-2019.csv",
-   "table_description": "Length of the road network (in km)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-routier-infrastructures/Longueur-du-r-seau-routier-en-km-1954-2019.csv",
+    "table_description": "Length of the road network (in km) 1954 - 2019",
+    "url": "https://data.public.lu/fr/datasets/r/72772555-d2b9-4e1d-9106-3a74e6fed7ed",
     "values": [
         {
             "value": 2129,

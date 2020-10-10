@@ -1,25 +1,26 @@
 {
-    "path": "accidents-services-de-secours/Interventions-et-effectif-des-corps-de-sapeurs-pompiers-2013-2016.csv",
-   "table_description": "Interventions and number of firefighters",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-services-de-secours/Interventions-et-effectif-des-corps-de-sapeurs-pompiers-2013-2016.csv",
+    "table_description": "Interventions and number of firefighters 2013 - 2016",
+    "url": "https://data.public.lu/fr/datasets/r/8c59866d-15b4-4b56-9ac3-d8208fae6f94",
     "values": [
         {
             "value": 13569,
-            "what": "Total interventions","isTotal":true,
+            "what": "Total interventions",
             "when": 2013
         },
         {
             "value": 15820,
-            "what": "Total interventions","isTotal":true,
+            "what": "Total interventions",
             "when": 2014
         },
         {
             "value": 19276,
-            "what": "Total interventions","isTotal":true,
+            "what": "Total interventions",
             "when": 2015
         },
         {
             "value": 16892,
-            "what": "Total interventions","isTotal":true,
+            "what": "Total interventions",
             "when": 2016
         },
         {
@@ -44,138 +45,137 @@
         },
         {
             "value": 2287,
-            "what": "Total fire interventions","isTotal":true,
+            "what": "Total fire interventions",
             "when": 2013
         },
         {
             "value": 2390,
-            "what": "Total fire interventions","isTotal":true,
+            "what": "Total fire interventions",
             "when": 2014
         },
         {
             "value": 2346,
-            "what": "Total fire interventions","isTotal":true,
+            "what": "Total fire interventions",
             "when": 2015
         },
         {
             "value": 2316,
-            "what": "Total fire interventions","isTotal":true,
+            "what": "Total fire interventions",
             "when": 2016
         },
         {
             "value": 1088,
-            "what": "Total First Responder interventions","isTotal":true,
+            "what": "Total First Responder interventions",
             "when": 2014
         },
         {
             "value": 3426,
-            "what": "Total First Responder interventions","isTotal":true,
+            "what": "Total First Responder interventions",
             "when": 2015
         },
         {
             "value": 2985,
-            "what": "Total First Responder interventions","isTotal":true,
+            "what": "Total First Responder interventions",
             "when": 2016
         },
         {
             "value": 2030,
-           "what": "NORTH", "isLocation": true,
-          
+            "what": "NORTH",
             "when": 2013
         },
         {
             "value": 2830,
-           "what": "NORTH", "isLocation": true,
+            "what": "NORTH",
             "when": 2014
         },
         {
             "value": 3196,
-           "what": "NORTH", "isLocation": true,
+            "what": "NORTH",
             "when": 2015
         },
         {
             "value": 2955,
-           "what": "NORTH", "isLocation": true,
+            "what": "NORTH",
             "when": 2016
         },
         {
             "value": 4035,
-           "what": "SOUTH", "isLocation": true,
+            "what": "SOUTH",
             "when": 2013
         },
         {
             "value": 4357,
-           "what": "SOUTH", "isLocation": true,
+            "what": "SOUTH",
             "when": 2014
         },
         {
             "value": 5078,
-           "what": "SOUTH", "isLocation": true,
+            "what": "SOUTH",
             "when": 2015
         },
         {
             "value": 3742,
-           "what": "SOUTH", "isLocation": true,
+            "what": "SOUTH",
             "when": 2016
         },
         {
             "value": 5020,
-           "what": "CENTER", "isLocation": true,
+            "what": "CENTER",
             "when": 2013
         },
         {
             "value": 5081,
-           "what": "CENTER", "isLocation": true,
+            "what": "CENTER",
             "when": 2014
         },
         {
             "value": 6998,
-           "what": "CENTER", "isLocation": true,
+            "what": "CENTER",
             "when": 2015
         },
         {
             "value": 5615,
-           "what": "CENTER", "isLocation": true,
+            "what": "CENTER",
             "when": 2016
         },
         {
             "value": 2484,
-           "what": "EAST", "isLocation": true,
+            "what": "EAST",
             "when": 2013
         },
         {
             "value": 2464,
-           "what": "EAST", "isLocation": true,
+            "what": "EAST",
             "when": 2014
         },
         {
             "value": 4004,
-           "what": "EAST", "isLocation": true,
+            "what": "EAST",
             "when": 2015
         },
         {
             "value": 4580,
-           "what": "EAST", "isLocation": true,
+            "what": "EAST",
             "when": 2016
         },
         {
             "value": 4197,
-            "what": "Number of firefighters","isTotal":true,
+            "what": "Number of firefighters",
             "when": 2013
         },
         {
             "value": 4188,
-            "what": "Number of firefighters","isTotal":true,
+            "what": "Number of firefighters",
             "when": 2014
         },
         {
             "value": 3947,
-            "what": "Number of firefighters","isTotal":true,
+            "what": "Number of firefighters",
             "when": 2015
         },
         {
             "value": 3949,
-            "what": "Number of firefighters","isTotal":true,
+            "what": "Number of firefighters",
             "when": 2016
         }
     ]

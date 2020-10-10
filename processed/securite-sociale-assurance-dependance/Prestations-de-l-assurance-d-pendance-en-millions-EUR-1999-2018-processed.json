@@ -1,6 +1,7 @@
 {
-    "path": "securite-sociale-assurance-dependance/Prestations-de-l-assurance-d-pendance-en-millions-EUR-1999-2018.csv",
-   "table_description": "Long-term care insurance benefits (in million EUR)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/securite-sociale-assurance-dependance/Prestations-de-l-assurance-d-pendance-en-millions-EUR-1999-2018.csv",
+    "table_description": "Long-term care insurance benefits (in million EUR) 1999 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/3685dd53-cfb9-459a-a79f-5f4bfabd59b7",
     "values": [
         {
             "value": 12,

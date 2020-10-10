@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Trafic-voyageurs-rail-et-route-1938-2018.csv",
-   "table_description": "Passenger traffic (rail and road)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Trafic-voyageurs-rail-et-route-1938-2018.csv",
+    "table_description": "Passenger traffic (rail and road) 1938 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/1e4ca717-ac42-4880-bd68-41df5447705a",
     "values": [
         {
             "value": 9505,

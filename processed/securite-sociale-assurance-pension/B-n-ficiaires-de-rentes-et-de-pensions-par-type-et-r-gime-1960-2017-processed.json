@@ -1,6 +1,7 @@
 {
-    "path": "securite-sociale-assurance-pension/B-n-ficiaires-de-rentes-et-de-pensions-par-type-et-r-gime-1960-2017.csv",
-   "table_description": "Recipients of pensions and pensions by type and scheme",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/securite-sociale-assurance-pension/B-n-ficiaires-de-rentes-et-de-pensions-par-type-et-r-gime-1960-2017.csv",
+    "table_description": "Recipients of pensions and pensions by type and scheme 1960 - 2017",
+    "url": "https://data.public.lu/fr/datasets/r/cfafb612-4ab3-4409-885c-0d218e0bd957",
     "values": [
         {
             "value": 14050,

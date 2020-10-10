@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Mat-riel-roulant-1950-2018.csv",
-   "table_description": "Rolling stock",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Mat-riel-roulant-1950-2018.csv",
+    "table_description": "Rolling stock 1950 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/841f1af6-7e68-4f4a-96d8-a9bf76ee3267",
     "values": [
         {
             "value": 3,

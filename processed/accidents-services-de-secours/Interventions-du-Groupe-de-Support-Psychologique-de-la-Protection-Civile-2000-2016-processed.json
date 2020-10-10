@@ -1,70 +1,71 @@
 {
-    "path": "accidents-services-de-secours/Interventions-du-Groupe-de-Support-Psychologique-de-la-Protection-Civile-2000-2016.csv",
-   "table_description": "Interventions of the Psychological Support Group of Civil Protection",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-services-de-secours/Interventions-du-Groupe-de-Support-Psychologique-de-la-Protection-Civile-2000-2016.csv",
+    "table_description": "Interventions of the Psychological Support Group of Civil Protection 2000 - 2016",
+    "url": "https://data.public.lu/fr/datasets/r/eca62b05-6293-4b7b-bf44-e5b533db1ab9",
     "values": [
         {
             "value": 108,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2000
         },
         {
             "value": 239,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2005
         },
         {
             "value": 240,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2006
         },
         {
             "value": 263,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2007
         },
         {
             "value": 243,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2008
         },
         {
             "value": 218,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2009
         },
         {
             "value": 208,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2010
         },
         {
             "value": 201,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2011
         },
         {
             "value": 237,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2012
         },
         {
             "value": 244,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2013
         },
         {
             "value": 281,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2014
         },
         {
             "value": 272,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2015
         },
         {
             "value": 282,
-            "what": "Missions","isTotal":true,
+            "what": "Missions",
             "when": 2016
         },
         {

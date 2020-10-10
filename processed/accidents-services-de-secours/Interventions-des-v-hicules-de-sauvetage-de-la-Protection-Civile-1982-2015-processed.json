@@ -1,60 +1,61 @@
 {
-    "path": "accidents-services-de-secours/Interventions-des-v-hicules-de-sauvetage-de-la-Protection-Civile-1982-2015.csv",
-   "table_description": "Interventions by Civil Protection rescue vehicles",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-services-de-secours/Interventions-des-v-hicules-de-sauvetage-de-la-Protection-Civile-1982-2015.csv",
+    "table_description": "Interventions by Civil Protection rescue vehicles 1982 - 2015",
+    "url": "https://data.public.lu/fr/datasets/r/4d59cc01-c6e4-4a40-a8ca-ddfa44b43c38",
     "values": [
         {
             "value": 8,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1970
         },
         {
             "value": 20,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1980
         },
         {
             "value": 23,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1990
         },
         {
             "value": 12,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2000
         },
         {
             "value": 18,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2010
         },
         {
             "value": 34,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2011
         },
         {
             "value": 24,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2012
         },
         {
             "value": 37,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2013
         },
         {
             "value": 27,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2014
         },
         {
             "value": 48,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2015
         },
         {
             "value": 62,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2016
         },
         {

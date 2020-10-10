@@ -1,70 +1,71 @@
 {
-    "path": "accidents-services-de-secours/Interventions-des-ambulances-de-la-Protection-Civile-1962-2016.csv",
-   "table_description": "Interventions by Civil Protection ambulances",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-services-de-secours/Interventions-des-ambulances-de-la-Protection-Civile-1962-2016.csv",
+    "table_description": "Interventions by Civil Protection ambulances 1962 - 2016",
+    "url": "https://data.public.lu/fr/datasets/r/c18f6898-db00-4d14-bd47-b628ce10dcba",
     "values": [
         {
             "value": 303,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1962
         },
         {
             "value": 1512,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1965
         },
         {
             "value": 4018,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1970
         },
         {
             "value": 13318,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1980
         },
         {
             "value": 21492,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 1990
         },
         {
             "value": 26924,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2000
         },
         {
             "value": 33384,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2010
         },
         {
             "value": 34804,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2011
         },
         {
             "value": 35819,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2012
         },
         {
             "value": 36376,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2013
         },
         {
             "value": 36460,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2014
         },
         {
             "value": 36850,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2015
         },
         {
             "value": 38467,
-            "what": "Interventions","isTotal":true,
+            "what": "Interventions",
             "when": 2016
         },
         {

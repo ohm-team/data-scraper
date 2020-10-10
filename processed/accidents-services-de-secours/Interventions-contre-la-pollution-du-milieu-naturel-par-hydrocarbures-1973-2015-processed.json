@@ -1,307 +1,162 @@
 {
-  "path": "accidents-services-de-secours/Interventions-contre-la-pollution-du-milieu-naturel-par-hydrocarbures-1973-2015.csv",
- "table_description": "Interventions against pollution of the natural environment by hydrocarbons",
-  "values": [
-    {
-      "value": 30,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 1973
-    },
-    {
-      "value": 45,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 1980
-    },
-    {
-      "value": 29,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 1990
-    },
-    {
-      "value": 16,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2000
-    },
-    {
-      "value": 10,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2010
-    },
-    {
-      "value": 4,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2011
-    },
-    {
-      "value": 5,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2012
-    },
-    {
-      "value": 10,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2013
-    },
-    {
-      "value": 15,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2014
-    },
-    {
-      "value": 13,
-      "what": "Interventions",
-      "isTotal": true,
-      "when": 2015
-    },
-    {
-      "value": 97,
-      "what": "Committed volunteers",
-      "when": 1973
-    },
-    {
-      "value": 242,
-      "what": "Committed volunteers",
-      "when": 1980
-    },
-    {
-      "value": 86,
-      "what": "Committed volunteers",
-      "when": 1990
-    },
-    {
-      "value": 44,
-      "what": "Committed volunteers",
-      "when": 2000
-    },
-    {
-      "value": 86,
-      "what": "Committed volunteers",
-      "when": 2010
-    },
-    {
-      "value": 90,
-      "what": "Committed volunteers",
-      "when": 2011
-    },
-    {
-      "value": 95,
-      "what": "Committed volunteers",
-      "when": 2012
-    },
-    {
-      "value": 90,
-      "what": "Committed volunteers",
-      "when": 2013
-    },
-    {
-      "value": 84,
-      "what": "Committed volunteers",
-      "when": 2014
-    },
-    {
-      "value": 40,
-      "what": "Committed volunteers",
-      "when": 2015
-    },
-    {
-      "value": 448,
-      "what": "Hours worked",
-      "when": 1973
-    },
-    {
-      "value": 719,
-      "what": "Hours worked",
-      "when": 1980
-    },
-    {
-      "value": 291,
-      "what": "Hours worked",
-      "when": 1990
-    },
-    {
-      "value": 70,
-      "what": "Hours worked",
-      "when": 2000
-    },
-    {
-      "value": 85,
-      "what": "Hours worked",
-      "when": 2010
-    },
-    {
-      "value": 179,
-      "what": "Hours worked",
-      "when": 2011
-    },
-    {
-      "value": 95,
-      "what": "Hours worked",
-      "when": 2015
-    },
-    {
-      "value": 30,
-      "what": "Interventions",
-      "when": 1973
-    },
-    {
-      "value": 45,
-      "what": "Interventions",
-      "when": 1980
-    },
-    {
-      "value": 29,
-      "what": "Interventions",
-      "when": 1990
-    },
-    {
-      "value": 16,
-      "what": "Interventions",
-      "when": 2000
-    },
-    {
-      "value": 10,
-      "what": "Interventions",
-      "when": 2010
-    },
-    {
-      "value": 4,
-      "what": "Interventions",
-      "when": 2011
-    },
-    {
-      "value": 5,
-      "what": "Interventions",
-      "when": 2012
-    },
-    {
-      "value": 10,
-      "what": "Interventions",
-      "when": 2013
-    },
-    {
-      "value": 15,
-      "what": "Interventions",
-      "when": 2014
-    },
-    {
-      "value": 13,
-      "what": "Interventions",
-      "when": 2015
-    },
-    {
-      "value": 97,
-      "what": "Committed volunteers",
-      "when": 1973
-    },
-    {
-      "value": 242,
-      "what": "Committed volunteers",
-      "when": 1980
-    },
-    {
-      "value": 86,
-      "what": "Committed volunteers",
-      "when": 1990
-    },
-    {
-      "value": 44,
-      "what": "Committed volunteers",
-      "when": 2000
-    },
-    {
-      "value": 86,
-      "what": "Committed volunteers",
-      "when": 2010
-    },
-    {
-      "value": 90,
-      "what": "Committed volunteers",
-      "when": 2011
-    },
-    {
-      "value": 95,
-      "what": "Committed volunteers",
-      "when": 2012
-    },
-    {
-      "value": 90,
-      "what": "Committed volunteers",
-      "when": 2013
-    },
-    {
-      "value": 84,
-      "what": "Committed volunteers",
-      "when": 2014
-    },
-    {
-      "value": 40,
-      "what": "Committed volunteers",
-      "when": 2015
-    },
-    {
-      "value": 448,
-      "what": "Hours worked",
-      "when": 1973
-    },
-    {
-      "value": 719,
-      "what": "Hours worked",
-      "when": 1980
-    },
-    {
-      "value": 291,
-      "what": "Hours worked",
-      "when": 1990
-    },
-    {
-      "value": 70,
-      "what": "Hours worked",
-      "when": 2000
-    },
-    {
-      "value": 85,
-      "what": "Hours worked",
-      "when": 2010
-    },
-    {
-      "value": 179,
-      "what": "Hours worked",
-      "when": 2011
-    },
-    {
-      "value": 95,
-      "what": "Hours worked",
-      "when": 2015
-    },
-    {
-      "value": 1919,
-      "what": "Kilometers traveled",
-      "when": 1973
-    },
-    {
-      "value": 6154,
-      "what": "Kilometers traveled",
-      "when": 1980
-    },
-    {
-      "value": 2059,
-      "what": "Kilometers traveled",
-      "when": 1990
-    },
-    {
-      "value": 612,
-      "what": "Kilometers traveled",
-      "when": 2000
-    }
-  ]
-
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-services-de-secours/Interventions-contre-la-pollution-du-milieu-naturel-par-hydrocarbures-1973-2015.csv",
+    "table_description": "Interventions against pollution of the natural environment by hydrocarbons 1973 - 2015",
+    "url": "https://data.public.lu/fr/datasets/r/fa7d8ec2-1399-4b72-aca3-869d4a022063",
+    "values": [
+        {
+            "value": 30,
+            "what": "Interventions",
+            "when": 1973
+        },
+        {
+            "value": 45,
+            "what": "Interventions",
+            "when": 1980
+        },
+        {
+            "value": 29,
+            "what": "Interventions",
+            "when": 1990
+        },
+        {
+            "value": 16,
+            "what": "Interventions",
+            "when": 2000
+        },
+        {
+            "value": 10,
+            "what": "Interventions",
+            "when": 2010
+        },
+        {
+            "value": 4,
+            "what": "Interventions",
+            "when": 2011
+        },
+        {
+            "value": 5,
+            "what": "Interventions",
+            "when": 2012
+        },
+        {
+            "value": 10,
+            "what": "Interventions",
+            "when": 2013
+        },
+        {
+            "value": 15,
+            "what": "Interventions",
+            "when": 2014
+        },
+        {
+            "value": 13,
+            "what": "Interventions",
+            "when": 2015
+        },
+        {
+            "value": 97,
+            "what": "Committed volunteers",
+            "when": 1973
+        },
+        {
+            "value": 242,
+            "what": "Committed volunteers",
+            "when": 1980
+        },
+        {
+            "value": 86,
+            "what": "Committed volunteers",
+            "when": 1990
+        },
+        {
+            "value": 44,
+            "what": "Committed volunteers",
+            "when": 2000
+        },
+        {
+            "value": 86,
+            "what": "Committed volunteers",
+            "when": 2010
+        },
+        {
+            "value": 90,
+            "what": "Committed volunteers",
+            "when": 2011
+        },
+        {
+            "value": 95,
+            "what": "Committed volunteers",
+            "when": 2012
+        },
+        {
+            "value": 90,
+            "what": "Committed volunteers",
+            "when": 2013
+        },
+        {
+            "value": 84,
+            "what": "Committed volunteers",
+            "when": 2014
+        },
+        {
+            "value": 40,
+            "what": "Committed volunteers",
+            "when": 2015
+        },
+        {
+            "value": 448,
+            "what": "Hours worked",
+            "when": 1973
+        },
+        {
+            "value": 719,
+            "what": "Hours worked",
+            "when": 1980
+        },
+        {
+            "value": 291,
+            "what": "Hours worked",
+            "when": 1990
+        },
+        {
+            "value": 70,
+            "what": "Hours worked",
+            "when": 2000
+        },
+        {
+            "value": 85,
+            "what": "Hours worked",
+            "when": 2010
+        },
+        {
+            "value": 179,
+            "what": "Hours worked",
+            "when": 2011
+        },
+        {
+            "value": 95,
+            "what": "Hours worked",
+            "when": 2015
+        },
+        {
+            "value": 1919,
+            "what": "Kilometers traveled",
+            "when": 1973
+        },
+        {
+            "value": 6154,
+            "what": "Kilometers traveled",
+            "when": 1980
+        },
+        {
+            "value": 2059,
+            "what": "Kilometers traveled",
+            "when": 1990
+        },
+        {
+            "value": 612,
+            "what": "Kilometers traveled",
+            "when": 2000
+        }
+    ]
 }

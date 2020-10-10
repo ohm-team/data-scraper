@@ -1,0 +1,7 @@
+{
+    "dataset_description": "This dataset includes the following resource (s): <br> Personal injury accidents and road traffic victims 1970 - 2018 <br> Personal injury accidents according to their nature 1991 - 2018 <br> Accident victims by road user category according to severity, sex and age 1980 - 2018 <br> Bodily accidents and road traffic victims by canton and municipality 2005 - 2018 <br> Road traffic bodily accidents by month in 2018 <br> Victims killed by the road user category 1991 - 2018 <br> <br> --------------------------------- ------ <br> Automatically synched from statistical portal (category Accidents / Bodily road traffic accidents)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/accidents-accidents-corporels-de-circulation-routiere/Accidents-corporels-et-victimes-de-la-circulation-routi-re-par-canton-et-commune-2005-2018.csv",
+    "table_description": "Bodily accidents and road traffic victims by canton and municipality 2005 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/4ee059cc-1bdd-45b9-8598-4b29ab06dc43",
+    "values": null
+}

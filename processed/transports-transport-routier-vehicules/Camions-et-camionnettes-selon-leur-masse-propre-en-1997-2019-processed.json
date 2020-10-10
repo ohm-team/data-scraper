@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-routier-vehicules/Camions-et-camionnettes-selon-leur-masse-propre-en-1997-2019.csv",
-   "table_description": "Trucks and vans according to their own mass (in%)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-routier-vehicules/Camions-et-camionnettes-selon-leur-masse-propre-en-1997-2019.csv",
+    "table_description": "Trucks and vans according to their own mass (in%) 1997 - 2019",
+    "url": "https://data.public.lu/fr/datasets/r/c8ebadcc-c6ab-45ce-bd19-3bd6bbea6312",
     "values": [
         {
             "value": 16276,

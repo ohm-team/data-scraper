@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Dessins-et-mod-les-internationaux-enregistr-s-conform-ment-l-Arrangement-de-la-Haye-1980-2018.csv",
-   "table_description": "International designs registered under the Hague Agreement",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Dessins-et-mod-les-internationaux-enregistr-s-conform-ment-l-Arrangement-de-la-Haye-1980-2018.csv",
+    "table_description": "International designs registered under the Hague Agreement 1980 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/a19d08de-6db4-4b23-8911-2326a1d227a9",
     "values": [
         {
             "value": 18828,

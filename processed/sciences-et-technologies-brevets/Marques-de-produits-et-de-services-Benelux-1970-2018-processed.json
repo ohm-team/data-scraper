@@ -1,6 +1,7 @@
 {
-    "path": "sciences-et-technologies-brevets/Marques-de-produits-et-de-services-Benelux-1970-2018.csv",
-   "table_description": "Benelux product and service brands",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/sciences-et-technologies-brevets/Marques-de-produits-et-de-services-Benelux-1970-2018.csv",
+    "table_description": "Benelux product and service brands 1970 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/6c77ff7c-6829-4bc5-919a-632d1980aeed",
     "values": [
         {
             "value": 120861,

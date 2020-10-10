@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Transports-routiers-des-CFL-1955-2018.csv",
-   "table_description": "CFL road transport",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Transports-routiers-des-CFL-1955-2018.csv",
+    "table_description": "CFL road transport 1955 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/7b457206-a8c4-4396-9a0e-84bc40ccef4d",
     "values": [
         {
             "value": 190,

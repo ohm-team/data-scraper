@@ -1,6 +1,7 @@
 {
-    "path": "transports-transport-ferroviaire/Recettes-et-d-penses-des-CFL-en-1-000-EUR-1950-2018.csv",
-   "table_description": "CFL revenue and expenditure (in 1,000 EUR)",
+    "path": "/Users/hyperboreus/PycharmProjects/lquiz-backend/data/transports-transport-ferroviaire/Recettes-et-d-penses-des-CFL-en-1-000-EUR-1950-2018.csv",
+    "table_description": "CFL revenue and expenditure (in 1,000 EUR) 1950 - 2018",
+    "url": "https://data.public.lu/fr/datasets/r/f4c89824-63fd-461e-8044-28c996883116",
     "values": [
         {
             "value": 531164,
