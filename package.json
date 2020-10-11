@@ -5,7 +5,8 @@
   "main": "scrape/index.js",
   "scripts": {
     "scrape": "node scrape/index.js",
-    "prepare": "node prepare/index.js"
+    "prepare-fr": "PROCESSED_FOLDER=processed-fr OUTPUT=questions-fr.json LOCALE=fr node prepare/index.js",
+    "prepare": "PROCESSED_FOLDER=processed OUTPUT=questions-en.json  node prepare/index.js"
   },
   "author": "",
   "license": "ISC",

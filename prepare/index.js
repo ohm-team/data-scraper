@@ -16,14 +16,27 @@ const createQuestionItem = (parsedValue, whatPattern, whatPatternTotal, location
   const what = pattern.replace('{what}', parsedValue.what).replace('{when}', parsedValue.when).replace(/\s+/g, ' ').trim()
   return { what, value }
 }
-
+const trim = (str)=>{
+  return str.replace(/\s+/g, ' ').trim()
+}
 const createQuestionRough = (parsedValue, description) => {
+  const ifFrench = process.env.LOCALE === 'fr'
   const { value, when, what } = parsedValue
-  const whatStatistics = `${description} statistics for ${when} year:`.replace(/\s+/g, ' ').trim()
+
+  if (ifFrench) {
+    const whatStatistics = trim(`${description} statistiques pour ${when}:`)
+    const whatValue = trim(`${what} montant est {value}`)
+
+    const answerValue = trim(`${what} montant en ${when}`)
+    const answerStatistics = trim(`par les statistiques ${description}`)
+    return { whatStatistics, whatValue, answerValue, answerStatistics, value }
+  }
+
+  const whatStatistics = trim(`${description} statistics for year ${when}:`)
   const whatValue = `${what} amount is {value}`
 
-  const answerValue = `${what} amount in ${when}`.replace(/\s+/g, ' ').trim()
-  const answerStatistics = `by ${description} statistics`.replace(/\s+/g, ' ').trim()
+  const answerValue = trim(`${what} amount in ${when}`)
+  const answerStatistics = trim(`by ${description} statistics`)
 
   return { whatStatistics, whatValue, answerValue, answerStatistics, value }
 }
@@ -137,4 +150,4 @@ const generateQuestionSetFromProcessedFiles = async (processedFolder, questionsF
   await createQuestionsPool(json, questionsFileName)
 }
 
-generateQuestionSetFromProcessedFiles('processed', 'questions-en.json')
+generateQuestionSetFromProcessedFiles(process.env.PROCESSED_FOLDER, process.env.OUTPUT)
